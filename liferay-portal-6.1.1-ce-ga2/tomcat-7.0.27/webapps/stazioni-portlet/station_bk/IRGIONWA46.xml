@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Embourg, Chaudfontaine, RéGION WALLONNE</full>
+		<neighborhood>Embourg</neighborhood>
+		<city>Chaudfontaine</city>
+		<state>RéGION WALLONNE</state>
+		<zip></zip>
+		<latitude>50.585712</latitude>
+		<longitude>5.616800</longitude>
+		<elevation>577 ft</elevation>
+		</location>
+		<station_id>IRGIONWA46</station_id>
+		<station_type>WS1080</station_type>
+		<observation_time>Last Updated on December 4, 12:33 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:33:44 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>39.7 F (4.3 C)</temperature_string>
+		<temp_f>39.7</temp_f>
+		<temp_c>4.3</temp_c>
+		<relative_humidity>87</relative_humidity>
+		<wind_string>From the SW at 3.2 MPH Gusting to 4.5 MPH</wind_string>
+		<wind_dir>SW</wind_dir>
+		<wind_degrees>225</wind_degrees>
+		<wind_mph>3.2</wind_mph>
+		<wind_gust_mph>4.5</wind_gust_mph>
+		<pressure_string>30.33" (1027.0 mb)</pressure_string>
+		<pressure_mb>1027.0</pressure_mb>
+		<pressure_in>30.33</pressure_in>
+		<dewpoint_string>36.1 F (2.3 C)</dewpoint_string>
+		<dewpoint_f>36.1</dewpoint_f>
+		<dewpoint_c>2.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>38 F (3 C)</windchill_string>
+		<windchill_f>38</windchill_f>
+		<windchill_c>3</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>-999.00 in (-2537.5 mm)</precip_1hr_string>
+		<precip_1hr_in>-999.00</precip_1hr_in>
+		<precip_1hr_metric>-2537.5</precip_1hr_metric>
+		<precip_today_string>-999.00 in (-2537.5 cm)</precip_today_string>
+		<precip_today_in>-999.00</precip_today_in>
+		<precip_today_metric>-2537.5 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IRGIONWA46</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=50.585712,5.616800</ob_url>
+	</current_observation>
+

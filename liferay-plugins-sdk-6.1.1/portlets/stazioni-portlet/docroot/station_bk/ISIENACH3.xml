@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Chiusi, Macciano, Toscana</full>
+		<neighborhood>Chiusi</neighborhood>
+		<city>Macciano</city>
+		<state>Toscana</state>
+		<zip></zip>
+		<latitude>43.020172</latitude>
+		<longitude>11.891500</longitude>
+		<elevation>1148 ft</elevation>
+		</location>
+		<station_id>ISIENACH3</station_id>
+		<station_type>Davis Vantage PRO 2 Plus</station_type>
+		<observation_time>Last Updated on December 4, 12:21 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:21:48 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>47.2 F (8.4 C)</temperature_string>
+		<temp_f>47.2</temp_f>
+		<temp_c>8.4</temp_c>
+		<relative_humidity>60</relative_humidity>
+		<wind_string>From the ENE at 3.5 MPH Gusting to 3.5 MPH</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>58</wind_degrees>
+		<wind_mph>3.5</wind_mph>
+		<wind_gust_mph>3.5</wind_gust_mph>
+		<pressure_string>30.29" (1025.6 mb)</pressure_string>
+		<pressure_mb>1025.6</pressure_mb>
+		<pressure_in>30.29</pressure_in>
+		<dewpoint_string>34.0 F (1.1 C)</dewpoint_string>
+		<dewpoint_f>34.0</dewpoint_f>
+		<dewpoint_c>1.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>46 F (8 C)</windchill_string>
+		<windchill_f>46</windchill_f>
+		<windchill_c>8</windchill_c>
+		
+		<solar_radiation>411</solar_radiation>
+		<UV>1.4</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISIENACH3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=43.020172,11.891500</ob_url>
+	</current_observation>
+

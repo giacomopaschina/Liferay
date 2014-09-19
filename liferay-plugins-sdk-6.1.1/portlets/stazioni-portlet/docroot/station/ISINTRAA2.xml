@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>www.meteocacem.pt, Agualva-Cacem, Sintra</full>
+		<neighborhood>www.meteocacem.pt</neighborhood>
+		<city>Agualva-Cacem</city>
+		<state>Sintra</state>
+		<zip></zip>
+		<latitude>38.767132</latitude>
+		<longitude>-9.295423</longitude>
+		<elevation>515 ft</elevation>
+		</location>
+		<station_id>ISINTRAA2</station_id>
+		<station_type>La Crosse</station_type>
+		<observation_time>Last Updated on June 18, 1:53 PM WEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:53:57 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>70.9 F (21.6 C)</temperature_string>
+		<temp_f>70.9</temp_f>
+		<temp_c>21.6</temp_c>
+		<relative_humidity>61</relative_humidity>
+		<wind_string>From the South at 11.5 MPH Gusting to 11.5 MPH</wind_string>
+		<wind_dir>South</wind_dir>
+		<wind_degrees>180</wind_degrees>
+		<wind_mph>11.5</wind_mph>
+		<wind_gust_mph>11.5</wind_gust_mph>
+		<pressure_string>30.05" (1017.5 mb)</pressure_string>
+		<pressure_mb>1017.5</pressure_mb>
+		<pressure_in>30.05</pressure_in>
+		<dewpoint_string>56.8 F (13.8 C)</dewpoint_string>
+		<dewpoint_f>56.8</dewpoint_f>
+		<dewpoint_c>13.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISINTRAA2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=38.767132,-9.295423</ob_url>
+	</current_observation>
+

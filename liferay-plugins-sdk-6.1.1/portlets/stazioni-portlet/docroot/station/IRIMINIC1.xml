@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Osservatorio Meteorologico, Cattolica, Emilia Romagna</full>
+		<neighborhood>Osservatorio Meteorologico</neighborhood>
+		<city>Cattolica</city>
+		<state>Emilia Romagna</state>
+		<zip></zip>
+		<latitude>43.963020</latitude>
+		<longitude>12.749407</longitude>
+		<elevation>10 ft</elevation>
+		</location>
+		<station_id>IRIMINIC1</station_id>
+		<station_type>Davis Vp2 pro 24 hours fan aspirated</station_type>
+		<observation_time>Last Updated on June 18, 2:40 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:40:16 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>75.3 F (24.1 C)</temperature_string>
+		<temp_f>75.3</temp_f>
+		<temp_c>24.1</temp_c>
+		<relative_humidity>47</relative_humidity>
+		<wind_string>From the North at 8.0 MPH Gusting to 8.0 MPH</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>5</wind_degrees>
+		<wind_mph>8.0</wind_mph>
+		<wind_gust_mph>8.0</wind_gust_mph>
+		<pressure_string>29.90" (1012.4 mb)</pressure_string>
+		<pressure_mb>1012.4</pressure_mb>
+		<pressure_in>29.90</pressure_in>
+		<dewpoint_string>53.7 F (12.1 C)</dewpoint_string>
+		<dewpoint_f>53.7</dewpoint_f>
+		<dewpoint_c>12.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.10 in (0.3 cm)</precip_today_string>
+		<precip_today_in>0.10</precip_today_in>
+		<precip_today_metric>0.3 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IRIMINIC1</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=43.963020,12.749407</ob_url>
+	</current_observation>
+

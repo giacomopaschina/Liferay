@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Rendsburg, Buedelsdorf, Schleswig-Holstein</full>
+		<neighborhood>Rendsburg</neighborhood>
+		<city>Buedelsdorf</city>
+		<state>Schleswig-Holstein</state>
+		<zip></zip>
+		<latitude>54.320400</latitude>
+		<longitude>9.664100</longitude>
+		<elevation>38 ft</elevation>
+		</location>
+		<station_id>IRENDSBU1</station_id>
+		<station_type>DAVIS VANTAGE PRO</station_type>
+		<observation_time>Last Updated on June 18, 2:40 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:40:21 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>66.7 F (19.3 C)</temperature_string>
+		<temp_f>66.7</temp_f>
+		<temp_c>19.3</temp_c>
+		<relative_humidity>58</relative_humidity>
+		<wind_string>From the NW at 8.6 MPH Gusting to 15.1 MPH</wind_string>
+		<wind_dir>NW</wind_dir>
+		<wind_degrees>315</wind_degrees>
+		<wind_mph>8.6</wind_mph>
+		<wind_gust_mph>15.1</wind_gust_mph>
+		<pressure_string>30.08" (1018.5 mb)</pressure_string>
+		<pressure_mb>1018.5</pressure_mb>
+		<pressure_in>30.08</pressure_in>
+		<dewpoint_string>51.5 F (10.8 C)</dewpoint_string>
+		<dewpoint_f>51.5</dewpoint_f>
+		<dewpoint_c>10.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>494</solar_radiation>
+		<UV>3.5</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IRENDSBU1</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=54.320400,9.664100</ob_url>
+	</current_observation>
+

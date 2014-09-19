@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Nowa Wola, Piaseczno, Nowa Wola, MAZOWIECKI</full>
+		<neighborhood>Nowa Wola, Piaseczno</neighborhood>
+		<city>Nowa Wola</city>
+		<state>MAZOWIECKI</state>
+		<zip></zip>
+		<latitude>52.094921</latitude>
+		<longitude>20.985445</longitude>
+		<elevation>367 ft</elevation>
+		</location>
+		<station_id>IMAZOWIE41</station_id>
+		<station_type>WH 2080</station_type>
+		<observation_time>Last Updated on May 17, 3:35 PM CEST</observation_time>
+		<observation_time_rfc822>Sat, 17 May 2014 13:35:35 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>57.4 F (14.1 C)</temperature_string>
+		<temp_f>57.4</temp_f>
+		<temp_c>14.1</temp_c>
+		<relative_humidity>95</relative_humidity>
+		<wind_string>From the East at 3.8 MPH Gusting to 6.9 MPH</wind_string>
+		<wind_dir>East</wind_dir>
+		<wind_degrees>90</wind_degrees>
+		<wind_mph>3.8</wind_mph>
+		<wind_gust_mph>6.9</wind_gust_mph>
+		<pressure_string>29.63" (1003.3 mb)</pressure_string>
+		<pressure_mb>1003.3</pressure_mb>
+		<pressure_in>29.63</pressure_in>
+		<dewpoint_string>56.0 F (13.3 C)</dewpoint_string>
+		<dewpoint_f>56.0</dewpoint_f>
+		<dewpoint_c>13.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.11 in (0.3 cm)</precip_today_string>
+		<precip_today_in>0.11</precip_today_in>
+		<precip_today_metric>0.3 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IMAZOWIE41</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=52.094921,20.985445</ob_url>
+	</current_observation>
+

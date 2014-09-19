@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Noss Mayo, Plymouth, ENGLAND</full>
+		<neighborhood>Noss Mayo</neighborhood>
+		<city>Plymouth</city>
+		<state>ENGLAND</state>
+		<zip></zip>
+		<latitude>50.311401</latitude>
+		<longitude>-4.036603</longitude>
+		<elevation>151 ft</elevation>
+		</location>
+		<station_id>IENGLAND301</station_id>
+		<station_type>Davis Vantage Pro 2</station_type>
+		<observation_time>Last Updated on December 4, 9:09 AM GMT</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 09:09:00 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>48.6 F (9.2 C)</temperature_string>
+		<temp_f>48.6</temp_f>
+		<temp_c>9.2</temp_c>
+		<relative_humidity>94</relative_humidity>
+		<wind_string>From the SW at 4.0 MPH </wind_string>
+		<wind_dir>SW</wind_dir>
+		<wind_degrees>217</wind_degrees>
+		<wind_mph>4.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>30.40" (1029.3 mb)</pressure_string>
+		<pressure_mb>1029.3</pressure_mb>
+		<pressure_in>30.40</pressure_in>
+		<dewpoint_string>47.0 F (8.3 C)</dewpoint_string>
+		<dewpoint_f>47.0</dewpoint_f>
+		<dewpoint_c>8.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>47 F (8 C)</windchill_string>
+		<windchill_f>47</windchill_f>
+		<windchill_c>8</windchill_c>
+		
+		<solar_radiation>25</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IENGLAND301</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=50.311401,-4.036603</ob_url>
+	</current_observation>
+

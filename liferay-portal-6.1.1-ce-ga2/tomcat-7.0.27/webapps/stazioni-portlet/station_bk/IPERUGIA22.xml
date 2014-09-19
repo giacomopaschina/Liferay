@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Monte Cucco, Sigillo, PERUGIA</full>
+		<neighborhood>Monte Cucco</neighborhood>
+		<city>Sigillo</city>
+		<state>PERUGIA</state>
+		<zip></zip>
+		<latitude>43.348862</latitude>
+		<longitude>12.773761</longitude>
+		<elevation>3953 ft</elevation>
+		</location>
+		<station_id>IPERUGIA22</station_id>
+		<station_type>Sint Wind PI</station_type>
+		<observation_time>Last Updated on December 4, 12:04 AM CET</observation_time>
+		<observation_time_rfc822>Tue, 03 Dec 2013 23:04:01 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>29.5 F (-1.4 C)</temperature_string>
+		<temp_f>29.5</temp_f>
+		<temp_c>-1.4</temp_c>
+		<relative_humidity>72</relative_humidity>
+		<wind_string>From the ENE at 16.7 MPH Gusting to 18.6 MPH</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>67</wind_degrees>
+		<wind_mph>16.7</wind_mph>
+		<wind_gust_mph>18.6</wind_gust_mph>
+		<pressure_string>30.07" (1018.2 mb)</pressure_string>
+		<pressure_mb>1018.2</pressure_mb>
+		<pressure_in>30.07</pressure_in>
+		<dewpoint_string>21.8 F (-5.7 C)</dewpoint_string>
+		<dewpoint_f>21.8</dewpoint_f>
+		<dewpoint_c>-5.7</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>18 F (-8 C)</windchill_string>
+		<windchill_f>18</windchill_f>
+		<windchill_c>-8</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>-999.00 in (-2537.5 mm)</precip_1hr_string>
+		<precip_1hr_in>-999.00</precip_1hr_in>
+		<precip_1hr_metric>-2537.5</precip_1hr_metric>
+		<precip_today_string>-999.00 in (-2537.5 cm)</precip_today_string>
+		<precip_today_in>-999.00</precip_today_in>
+		<precip_today_metric>-2537.5 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IPERUGIA22</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=43.348862,12.773761</ob_url>
+	</current_observation>
+

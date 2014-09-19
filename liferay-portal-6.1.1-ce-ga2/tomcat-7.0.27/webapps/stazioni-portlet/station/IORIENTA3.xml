@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>TOTALGAZ PINAMALAYAN, Pinamalayan, ORIENTAL MINDORO</full>
+		<neighborhood>TOTALGAZ PINAMALAYAN</neighborhood>
+		<city>Pinamalayan</city>
+		<state>ORIENTAL MINDORO</state>
+		<zip></zip>
+		<latitude>13.037143</latitude>
+		<longitude>121.486511</longitude>
+		<elevation>39 ft</elevation>
+		</location>
+		<station_id>IORIENTA3</station_id>
+		<station_type>Davis Vantage Vue</station_type>
+		<observation_time>Last Updated on June 18, 8:46 PM HKT</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:46:34 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>78.7 F (25.9 C)</temperature_string>
+		<temp_f>78.7</temp_f>
+		<temp_c>25.9</temp_c>
+		<relative_humidity>94</relative_humidity>
+		<wind_string>From the WNW at 1.0 MPH Gusting to 4.0 MPH</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>295</wind_degrees>
+		<wind_mph>1.0</wind_mph>
+		<wind_gust_mph>4.0</wind_gust_mph>
+		<pressure_string>29.79" (1008.7 mb)</pressure_string>
+		<pressure_mb>1008.7</pressure_mb>
+		<pressure_in>29.79</pressure_in>
+		<dewpoint_string>77.0 F (25.0 C)</dewpoint_string>
+		<dewpoint_f>77.0</dewpoint_f>
+		<dewpoint_c>25.0</dewpoint_c>
+		
+		<heat_index_string>82 F (28 C)</heat_index_string>
+		<heat_index_f>82</heat_index_f>
+		<heat_index_c>28</heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IORIENTA3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=13.037143,121.486511</ob_url>
+	</current_observation>
+

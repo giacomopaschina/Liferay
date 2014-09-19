@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Pinerolo, Bibiana, Torino</full>
+		<neighborhood>Pinerolo</neighborhood>
+		<city>Bibiana</city>
+		<state>Torino</state>
+		<zip></zip>
+		<latitude>44.798504</latitude>
+		<longitude>7.288522</longitude>
+		<elevation>1383 ft</elevation>
+		</location>
+		<station_id>ITURINBI1</station_id>
+		<station_type>Oregon Scientific WMR928NX</station_type>
+		<observation_time>Last Updated on December 4, 12:20 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:20:06 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>51.3 F (10.7 C)</temperature_string>
+		<temp_f>51.3</temp_f>
+		<temp_c>10.7</temp_c>
+		<relative_humidity>19</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>East</wind_dir>
+		<wind_degrees>88</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>30.09" (1018.8 mb)</pressure_string>
+		<pressure_mb>1018.8</pressure_mb>
+		<pressure_in>30.09</pressure_in>
+		<dewpoint_string>10.4 F (-12.0 C)</dewpoint_string>
+		<dewpoint_f>10.4</dewpoint_f>
+		<dewpoint_c>-12.0</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ITURINBI1</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=44.798504,7.288522</ob_url>
+	</current_observation>
+

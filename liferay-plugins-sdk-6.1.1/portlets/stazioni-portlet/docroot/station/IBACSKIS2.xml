@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Jaszszentlaszlo, Bacs-Kiskun</full>
+		<neighborhood></neighborhood>
+		<city>Jaszszentlaszlo</city>
+		<state>Bacs-Kiskun</state>
+		<zip></zip>
+		<latitude>46.570618</latitude>
+		<longitude>19.747217</longitude>
+		<elevation>328 ft</elevation>
+		</location>
+		<station_id>IBACSKIS2</station_id>
+		<station_type>WS 2350</station_type>
+		<observation_time>Last Updated on January 8, 2:30 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 08 Jan 2014 13:30:47 GMT</observation_time_rfc822>
+		<weather>OVC</weather>
+		<temperature_string>41.9 F (5.5 C)</temperature_string>
+		<temp_f>41.9</temp_f>
+		<temp_c>5.5</temp_c>
+		<relative_humidity>94</relative_humidity>
+		<wind_string>From the WSW at 1.0 MPH Gusting to 3.0 MPH</wind_string>
+		<wind_dir>WSW</wind_dir>
+		<wind_degrees>238</wind_degrees>
+		<wind_mph>1.0</wind_mph>
+		<wind_gust_mph>3.0</wind_gust_mph>
+		<pressure_string>30.30" (1026.0 mb)</pressure_string>
+		<pressure_mb>1026.0</pressure_mb>
+		<pressure_in>30.30</pressure_in>
+		<dewpoint_string>40.3 F (4.6 C)</dewpoint_string>
+		<dewpoint_f>40.3</dewpoint_f>
+		<dewpoint_c>4.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.02 in (0.1 cm)</precip_today_string>
+		<precip_today_in>0.02</precip_today_in>
+		<precip_today_metric>0.1 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBACSKIS2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=46.570618,19.747217</ob_url>
+	</current_observation>
+

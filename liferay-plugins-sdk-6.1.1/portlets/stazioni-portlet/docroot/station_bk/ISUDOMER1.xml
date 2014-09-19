@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Sudomerice, Sudomerice, Jihomoravsky kraj</full>
+		<neighborhood>Sudomerice</neighborhood>
+		<city>Sudomerice</city>
+		<state>Jihomoravsky kraj</state>
+		<zip></zip>
+		<latitude>48.868912</latitude>
+		<longitude>17.256399</longitude>
+		<elevation>620 ft</elevation>
+		</location>
+		<station_id>ISUDOMER1</station_id>
+		<station_type>Davis Vantage Pro2 Plus</station_type>
+		<observation_time>Last Updated on December 4, 12:42 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:42:29 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>37.0 F (2.8 C)</temperature_string>
+		<temp_f>37.0</temp_f>
+		<temp_c>2.8</temp_c>
+		<relative_humidity>73</relative_humidity>
+		<wind_string>From the SW at 6.0 MPH Gusting to 13.0 MPH</wind_string>
+		<wind_dir>SW</wind_dir>
+		<wind_degrees>217</wind_degrees>
+		<wind_mph>6.0</wind_mph>
+		<wind_gust_mph>13.0</wind_gust_mph>
+		<pressure_string>30.27" (1024.9 mb)</pressure_string>
+		<pressure_mb>1024.9</pressure_mb>
+		<pressure_in>30.27</pressure_in>
+		<dewpoint_string>29.2 F (-1.6 C)</dewpoint_string>
+		<dewpoint_f>29.2</dewpoint_f>
+		<dewpoint_c>-1.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>32 F (0 C)</windchill_string>
+		<windchill_f>32</windchill_f>
+		<windchill_c>0</windchill_c>
+		
+		<solar_radiation>258</solar_radiation>
+		<UV>0.8</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISUDOMER1</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=48.868912,17.256399</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Glenview, Hamilton, WAIKATO</full>
+		<neighborhood>Glenview</neighborhood>
+		<city>Hamilton</city>
+		<state>WAIKATO</state>
+		<zip></zip>
+		<latitude>-37.828846</latitude>
+		<longitude>175.291260</longitude>
+		<elevation>157 ft</elevation>
+		</location>
+		<station_id>IWAIKATO4</station_id>
+		<station_type>WM-918</station_type>
+		<observation_time>Last Updated on December 5, 12:57 AM NZDT</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:57:02 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>62.2 F (16.8 C)</temperature_string>
+		<temp_f>62.2</temp_f>
+		<temp_c>16.8</temp_c>
+		<relative_humidity>95</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>NE</wind_dir>
+		<wind_degrees>48</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.94" (1013.8 mb)</pressure_string>
+		<pressure_mb>1013.8</pressure_mb>
+		<pressure_in>29.94</pressure_in>
+		<dewpoint_string>61.0 F (16.1 C)</dewpoint_string>
+		<dewpoint_f>61.0</dewpoint_f>
+		<dewpoint_c>16.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.08 in (0.2 mm)</precip_1hr_string>
+		<precip_1hr_in>0.08</precip_1hr_in>
+		<precip_1hr_metric>0.2</precip_1hr_metric>
+		<precip_today_string>-999.00 in (-2537.5 cm)</precip_today_string>
+		<precip_today_in>-999.00</precip_today_in>
+		<precip_today_metric>-2537.5 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IWAIKATO4</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-37.828846,175.291260</ob_url>
+	</current_observation>
+

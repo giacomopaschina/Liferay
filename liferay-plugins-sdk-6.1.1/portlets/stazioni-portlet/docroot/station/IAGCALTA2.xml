@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Stazione CaltabellottaMeteo, Caltabellotta, AG</full>
+		<neighborhood>Stazione CaltabellottaMeteo</neighborhood>
+		<city>Caltabellotta</city>
+		<state>AG</state>
+		<zip></zip>
+		<latitude>37.577301</latitude>
+		<longitude>13.216843</longitude>
+		<elevation>2730 ft</elevation>
+		</location>
+		<station_id>IAGCALTA2</station_id>
+		<station_type>Amatoriale</station_type>
+		<observation_time>Last Updated on June 18, 2:28 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:28:22 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>73.2 F (22.9 C)</temperature_string>
+		<temp_f>73.2</temp_f>
+		<temp_c>22.9</temp_c>
+		<relative_humidity>63</relative_humidity>
+		<wind_string>From the South at 3.0 MPH Gusting to 9.0 MPH</wind_string>
+		<wind_dir>South</wind_dir>
+		<wind_degrees>177</wind_degrees>
+		<wind_mph>3.0</wind_mph>
+		<wind_gust_mph>9.0</wind_gust_mph>
+		<pressure_string>29.93" (1013.4 mb)</pressure_string>
+		<pressure_mb>1013.4</pressure_mb>
+		<pressure_in>29.93</pressure_in>
+		<dewpoint_string>59.9 F (15.5 C)</dewpoint_string>
+		<dewpoint_f>59.9</dewpoint_f>
+		<dewpoint_c>15.5</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>977</solar_radiation>
+		<UV>8.8</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IAGCALTA2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=37.577301,13.216843</ob_url>
+	</current_observation>
+

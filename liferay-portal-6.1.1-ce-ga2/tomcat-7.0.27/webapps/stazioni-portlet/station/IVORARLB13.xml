@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Feldkirch, VORARLBERG</full>
+		<neighborhood></neighborhood>
+		<city>Feldkirch</city>
+		<state>VORARLBERG</state>
+		<zip></zip>
+		<latitude>47.249500</latitude>
+		<longitude>9.577332</longitude>
+		<elevation>1716 ft</elevation>
+		</location>
+		<station_id>IVORARLB13</station_id>
+		<station_type>HP 1000 WiFi solar</station_type>
+		<observation_time>Last Updated on June 18, 3:06 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:06:29 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>78.4 F (25.8 C)</temperature_string>
+		<temp_f>78.4</temp_f>
+		<temp_c>25.8</temp_c>
+		<relative_humidity>32</relative_humidity>
+		<wind_string>From the WNW at 9.2 MPH Gusting to 12.3 MPH</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>302</wind_degrees>
+		<wind_mph>9.2</wind_mph>
+		<wind_gust_mph>12.3</wind_gust_mph>
+		<pressure_string>28.10" (951.5 mb)</pressure_string>
+		<pressure_mb>951.5</pressure_mb>
+		<pressure_in>28.10</pressure_in>
+		<dewpoint_string>46.2 F (7.9 C)</dewpoint_string>
+		<dewpoint_f>46.2</dewpoint_f>
+		<dewpoint_c>7.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>887</solar_radiation>
+		<UV>6.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVORARLB13</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=47.249500,9.577332</ob_url>
+	</current_observation>
+

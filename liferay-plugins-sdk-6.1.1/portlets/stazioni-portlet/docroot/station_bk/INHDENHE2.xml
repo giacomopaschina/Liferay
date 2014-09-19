@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Meteo-Julianadorp, Julianadorp, Noord Holland</full>
+		<neighborhood>Meteo-Julianadorp</neighborhood>
+		<city>Julianadorp</city>
+		<state>Noord Holland</state>
+		<zip></zip>
+		<latitude>52.887138</latitude>
+		<longitude>4.735835</longitude>
+		<elevation>24 ft</elevation>
+		</location>
+		<station_id>INHDENHE2</station_id>
+		<station_type>Davis Vantage Pro2</station_type>
+		<observation_time>Last Updated on December 4, 12:53 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:53:00 GMT</observation_time_rfc822>
+		<weather>-RA</weather>
+		<temperature_string>46.4 F (8.0 C)</temperature_string>
+		<temp_f>46.4</temp_f>
+		<temp_c>8.0</temp_c>
+		<relative_humidity>95</relative_humidity>
+		<wind_string>From the NNW at 13.8 MPH Gusting to 13.8 MPH</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>333</wind_degrees>
+		<wind_mph>13.8</wind_mph>
+		<wind_gust_mph>13.8</wind_gust_mph>
+		<pressure_string>30.20" (1022.6 mb)</pressure_string>
+		<pressure_mb>1022.6</pressure_mb>
+		<pressure_in>30.20</pressure_in>
+		<dewpoint_string>45.0 F (7.2 C)</dewpoint_string>
+		<dewpoint_f>45.0</dewpoint_f>
+		<dewpoint_c>7.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>40 F (5 C)</windchill_string>
+		<windchill_f>40</windchill_f>
+		<windchill_c>5</windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.02 in (0.1 mm)</precip_1hr_string>
+		<precip_1hr_in>0.02</precip_1hr_in>
+		<precip_1hr_metric>0.1</precip_1hr_metric>
+		<precip_today_string>0.02 in (0.1 cm)</precip_today_string>
+		<precip_today_in>0.02</precip_today_in>
+		<precip_today_metric>0.1 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INHDENHE2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=52.887138,4.735835</ob_url>
+	</current_observation>
+

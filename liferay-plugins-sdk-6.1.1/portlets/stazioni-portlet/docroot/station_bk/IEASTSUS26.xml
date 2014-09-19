@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Seaford, East Sussex</full>
+		<neighborhood></neighborhood>
+		<city>Seaford</city>
+		<state>East Sussex</state>
+		<zip></zip>
+		<latitude>50.787083</latitude>
+		<longitude>0.117331</longitude>
+		<elevation>0 ft</elevation>
+		</location>
+		<station_id>IEASTSUS26</station_id>
+		<station_type>Davis VP2 Plus 24hr FARS UV Solar</station_type>
+		<observation_time>Last Updated on December 4, 12:11 PM GMT</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 12:11:50 GMT</observation_time_rfc822>
+		<weather>BKN</weather>
+		<temperature_string>49.8 F (9.9 C)</temperature_string>
+		<temp_f>49.8</temp_f>
+		<temp_c>9.9</temp_c>
+		<relative_humidity>86</relative_humidity>
+		<wind_string>From the WNW at 8.1 MPH Gusting to 8.1 MPH</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>296</wind_degrees>
+		<wind_mph>8.1</wind_mph>
+		<wind_gust_mph>8.1</wind_gust_mph>
+		<pressure_string>30.25" (1024.3 mb)</pressure_string>
+		<pressure_mb>1024.3</pressure_mb>
+		<pressure_in>30.25</pressure_in>
+		<dewpoint_string>45.8 F (7.7 C)</dewpoint_string>
+		<dewpoint_f>45.8</dewpoint_f>
+		<dewpoint_c>7.7</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>46 F (8 C)</windchill_string>
+		<windchill_f>46</windchill_f>
+		<windchill_c>8</windchill_c>
+		
+		<solar_radiation>58</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IEASTSUS26</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=50.787083,0.117331</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Massing, BAYERN</full>
+		<neighborhood></neighborhood>
+		<city>Massing</city>
+		<state>BAYERN</state>
+		<zip></zip>
+		<latitude>48.393051</latitude>
+		<longitude>12.650820</longitude>
+		<elevation>1404 ft</elevation>
+		</location>
+		<station_id>IBAYERNM4</station_id>
+		<station_type>WS 2300 mit Windsensor TX 20</station_type>
+		<observation_time>Last Updated on June 18, 3:17 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:17:25 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>87.1 F (30.6 C)</temperature_string>
+		<temp_f>87.1</temp_f>
+		<temp_c>30.6</temp_c>
+		<relative_humidity>33</relative_humidity>
+		<wind_string>From the East at 3.8 MPH </wind_string>
+		<wind_dir>East</wind_dir>
+		<wind_degrees>90</wind_degrees>
+		<wind_mph>3.8</wind_mph>
+		<wind_gust_mph>-999.0</wind_gust_mph>
+		<pressure_string>29.80" (1009.0 mb)</pressure_string>
+		<pressure_mb>1009.0</pressure_mb>
+		<pressure_in>29.80</pressure_in>
+		<dewpoint_string>54.3 F (12.4 C)</dewpoint_string>
+		<dewpoint_f>54.3</dewpoint_f>
+		<dewpoint_c>12.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBAYERNM4</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=48.393051,12.650820</ob_url>
+	</current_observation>
+

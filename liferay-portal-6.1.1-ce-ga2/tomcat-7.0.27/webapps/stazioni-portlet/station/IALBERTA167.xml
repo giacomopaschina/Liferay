@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Valley Center, Red Deer, ALBERTA</full>
+		<neighborhood>Valley Center</neighborhood>
+		<city>Red Deer</city>
+		<state>ALBERTA</state>
+		<zip></zip>
+		<latitude>52.259830</latitude>
+		<longitude>-113.586983</longitude>
+		<elevation>2861 ft</elevation>
+		</location>
+		<station_id>IALBERTA167</station_id>
+		<station_type>AcuRite</station_type>
+		<observation_time>Last Updated on June 16, 7:15 PM MDT</observation_time>
+		<observation_time_rfc822>Tue, 17 Jun 2014 01:15:36 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>56.1 F (13.4 C)</temperature_string>
+		<temp_f>56.1</temp_f>
+		<temp_c>13.4</temp_c>
+		<relative_humidity>83</relative_humidity>
+		<wind_string>From the West at 1.7 MPH </wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>270</wind_degrees>
+		<wind_mph>1.7</wind_mph>
+		<wind_gust_mph>-999.0</wind_gust_mph>
+		<pressure_string>29.92" (1013.1 mb)</pressure_string>
+		<pressure_mb>1013.1</pressure_mb>
+		<pressure_in>29.92</pressure_in>
+		<dewpoint_string>51.0 F (10.6 C)</dewpoint_string>
+		<dewpoint_f>51.0</dewpoint_f>
+		<dewpoint_c>10.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>-999.00 in (-2537.5 mm)</precip_1hr_string>
+		<precip_1hr_in>-999.00</precip_1hr_in>
+		<precip_1hr_metric>-2537.5</precip_1hr_metric>
+		<precip_today_string>0.17 in (0.4 cm)</precip_today_string>
+		<precip_today_in>0.17</precip_today_in>
+		<precip_today_metric>0.4 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IALBERTA167</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=52.259830,-113.586983</ob_url>
+	</current_observation>
+

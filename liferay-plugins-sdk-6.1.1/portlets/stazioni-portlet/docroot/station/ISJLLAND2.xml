@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Syvstjerne, Vaerloese, SJAELLAND</full>
+		<neighborhood>Syvstjerne</neighborhood>
+		<city>Vaerloese</city>
+		<state>SJAELLAND</state>
+		<zip></zip>
+		<latitude>55.774738</latitude>
+		<longitude>12.385074</longitude>
+		<elevation>174 ft</elevation>
+		</location>
+		<station_id>ISJLLAND2</station_id>
+		<station_type>Vantage Pro 2 Plus</station_type>
+		<observation_time>Last Updated on June 18, 3:06 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:06:26 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>77.7 F (25.4 C)</temperature_string>
+		<temp_f>77.7</temp_f>
+		<temp_c>25.4</temp_c>
+		<relative_humidity>45</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>303</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>9.0</wind_gust_mph>
+		<pressure_string>29.97" (1014.8 mb)</pressure_string>
+		<pressure_mb>1014.8</pressure_mb>
+		<pressure_in>29.97</pressure_in>
+		<dewpoint_string>55.0 F (12.8 C)</dewpoint_string>
+		<dewpoint_f>55.0</dewpoint_f>
+		<dewpoint_c>12.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>788</solar_radiation>
+		<UV>5.4</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISJLLAND2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=55.774738,12.385074</ob_url>
+	</current_observation>
+

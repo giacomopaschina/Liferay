@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Warstock, Birmingham, </full>
+		<neighborhood>Warstock</neighborhood>
+		<city>Birmingham</city>
+		<state></state>
+		<zip></zip>
+		<latitude>52.408707</latitude>
+		<longitude>-1.869055</longitude>
+		<elevation>502 ft</elevation>
+		</location>
+		<station_id>IBIRMING9</station_id>
+		<station_type>Texas Instruments WLS-8000</station_type>
+		<observation_time>Last Updated on December 4, 12:08 PM GMT</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 12:08:43 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>43.7 F (6.5 C)</temperature_string>
+		<temp_f>43.7</temp_f>
+		<temp_c>6.5</temp_c>
+		<relative_humidity>82</relative_humidity>
+		<wind_string>From the NNW at 3.3 MPH Gusting to 3.6 MPH</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>346</wind_degrees>
+		<wind_mph>3.3</wind_mph>
+		<wind_gust_mph>3.6</wind_gust_mph>
+		<pressure_string>30.42" (1030.0 mb)</pressure_string>
+		<pressure_mb>1030.0</pressure_mb>
+		<pressure_in>30.42</pressure_in>
+		<dewpoint_string>39.0 F (3.9 C)</dewpoint_string>
+		<dewpoint_f>39.0</dewpoint_f>
+		<dewpoint_c>3.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>42 F (6 C)</windchill_string>
+		<windchill_f>42</windchill_f>
+		<windchill_c>6</windchill_c>
+		
+		<solar_radiation>167</solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBIRMING9</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=52.408707,-1.869055</ob_url>
+	</current_observation>
+

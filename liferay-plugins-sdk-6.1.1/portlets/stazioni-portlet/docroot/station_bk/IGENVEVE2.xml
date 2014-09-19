@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Versoix, GENEVE</full>
+		<neighborhood></neighborhood>
+		<city>Versoix</city>
+		<state>GENEVE</state>
+		<zip></zip>
+		<latitude>46.295624</latitude>
+		<longitude>6.165336</longitude>
+		<elevation>394 ft</elevation>
+		</location>
+		<station_id>IGENVEVE2</station_id>
+		<station_type>Vantage Pro 2</station_type>
+		<observation_time>Last Updated on December 4, 12:35 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:35:36 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>32.2 F (0.1 C)</temperature_string>
+		<temp_f>32.2</temp_f>
+		<temp_c>0.1</temp_c>
+		<relative_humidity>96</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>NE</wind_dir>
+		<wind_degrees>41</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>2.0</wind_gust_mph>
+		<pressure_string>30.45" (1031.0 mb)</pressure_string>
+		<pressure_mb>1031.0</pressure_mb>
+		<pressure_in>30.45</pressure_in>
+		<dewpoint_string>31.0 F (-0.6 C)</dewpoint_string>
+		<dewpoint_f>31.0</dewpoint_f>
+		<dewpoint_c>-0.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>121</solar_radiation>
+		<UV>0.8</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IGENVEVE2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=46.295624,6.165336</ob_url>
+	</current_observation>
+

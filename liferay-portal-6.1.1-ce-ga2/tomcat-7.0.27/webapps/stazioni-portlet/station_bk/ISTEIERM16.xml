@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>DW0598, Sankt Veit Am Vogau, STEIERMARK</full>
+		<neighborhood>DW0598</neighborhood>
+		<city>Sankt Veit Am Vogau</city>
+		<state>STEIERMARK</state>
+		<zip></zip>
+		<latitude>46.750858</latitude>
+		<longitude>15.628179</longitude>
+		<elevation>886 ft</elevation>
+		</location>
+		<station_id>ISTEIERM16</station_id>
+		<station_type>1-Wire</station_type>
+		<observation_time>Last Updated on December 4, 12:30 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:30:09 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>34.5 F (1.4 C)</temperature_string>
+		<temp_f>34.5</temp_f>
+		<temp_c>1.4</temp_c>
+		<relative_humidity>0</relative_humidity>
+		<wind_string>From the East at 1.5 MPH Gusting to 2.8 MPH</wind_string>
+		<wind_dir>East</wind_dir>
+		<wind_degrees>98</wind_degrees>
+		<wind_mph>1.5</wind_mph>
+		<wind_gust_mph>2.8</wind_gust_mph>
+		<pressure_string>0.00" (0.0 mb)</pressure_string>
+		<pressure_mb>0.0</pressure_mb>
+		<pressure_in>0.00</pressure_in>
+		<dewpoint_string>0.0 F (-17.8 C)</dewpoint_string>
+		<dewpoint_f>0.0</dewpoint_f>
+		<dewpoint_c>-17.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISTEIERM16</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=46.750858,15.628179</ob_url>
+	</current_observation>
+

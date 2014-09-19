@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>REINGRUBER SALONTA, SALONTA, BIHOR</full>
+		<neighborhood>REINGRUBER SALONTA</neighborhood>
+		<city>SALONTA</city>
+		<state>BIHOR</state>
+		<zip></zip>
+		<latitude>46.795593</latitude>
+		<longitude>21.640749</longitude>
+		<elevation>306 ft</elevation>
+		</location>
+		<station_id>IBIHORSA3</station_id>
+		<station_type>LA CROSSE TECHNOLOGY 3650</station_type>
+		<observation_time>Last Updated on December 3, 3:08 PM EET</observation_time>
+		<observation_time_rfc822>Tue, 03 Dec 2013 13:08:21 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>45.0 F (7.2 C)</temperature_string>
+		<temp_f>45.0</temp_f>
+		<temp_c>7.2</temp_c>
+		<relative_humidity>53</relative_humidity>
+		<wind_string>From the NNW at 28.5 MPH Gusting to 28.5 MPH</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>337</wind_degrees>
+		<wind_mph>28.5</wind_mph>
+		<wind_gust_mph>28.5</wind_gust_mph>
+		<pressure_string>30.38" (1028.7 mb)</pressure_string>
+		<pressure_mb>1028.7</pressure_mb>
+		<pressure_in>30.38</pressure_in>
+		<dewpoint_string>28.8 F (-1.8 C)</dewpoint_string>
+		<dewpoint_f>28.8</dewpoint_f>
+		<dewpoint_c>-1.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>36 F (2 C)</windchill_string>
+		<windchill_f>36</windchill_f>
+		<windchill_c>2</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBIHORSA3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=46.795593,21.640749</ob_url>
+	</current_observation>
+

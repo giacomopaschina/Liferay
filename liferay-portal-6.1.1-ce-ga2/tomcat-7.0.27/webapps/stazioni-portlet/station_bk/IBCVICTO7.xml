@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Triangle Mountain, Victoria, BC</full>
+		<neighborhood>Triangle Mountain</neighborhood>
+		<city>Victoria</city>
+		<state>BC</state>
+		<zip></zip>
+		<latitude>48.423893</latitude>
+		<longitude>-123.511269</longitude>
+		<elevation>600 ft</elevation>
+		</location>
+		<station_id>IBCVICTO7</station_id>
+		<station_type>La Crosse WS 2310</station_type>
+		<observation_time>Last Updated on December 2, 8:44 PM PST</observation_time>
+		<observation_time_rfc822>Tue, 03 Dec 2013 04:44:55 GMT</observation_time_rfc822>
+		<weather>RA</weather>
+		<temperature_string>34.9 F (1.6 C)</temperature_string>
+		<temp_f>34.9</temp_f>
+		<temp_c>1.6</temp_c>
+		<relative_humidity>82</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>ESE</wind_dir>
+		<wind_degrees>112</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>30.00" (1015.8 mb)</pressure_string>
+		<pressure_mb>1015.8</pressure_mb>
+		<pressure_in>30.00</pressure_in>
+		<dewpoint_string>29.9 F (-1.2 C)</dewpoint_string>
+		<dewpoint_f>29.9</dewpoint_f>
+		<dewpoint_c>-1.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>4.26 in (10.8 mm)</precip_1hr_string>
+		<precip_1hr_in>4.26</precip_1hr_in>
+		<precip_1hr_metric>10.8</precip_1hr_metric>
+		<precip_today_string>37.61 in (95.5 cm)</precip_today_string>
+		<precip_today_in>37.61</precip_today_in>
+		<precip_today_metric>95.5 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBCVICTO7</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=48.423893,-123.511269</ob_url>
+	</current_observation>
+

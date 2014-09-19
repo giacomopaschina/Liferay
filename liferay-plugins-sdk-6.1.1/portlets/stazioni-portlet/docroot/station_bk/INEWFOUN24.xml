@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>EAST END, ST JOHN'S, NEWFOUNDLAND AND LABRADOR</full>
+		<neighborhood>EAST END</neighborhood>
+		<city>ST JOHN'S</city>
+		<state>NEWFOUNDLAND AND LABRADOR</state>
+		<zip></zip>
+		<latitude>47.608150</latitude>
+		<longitude>-52.721310</longitude>
+		<elevation>381 ft</elevation>
+		</location>
+		<station_id>INEWFOUN24</station_id>
+		<station_type>National GEO</station_type>
+		<observation_time>Last Updated on December 4, 8:07 AM NST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:37:35 GMT</observation_time_rfc822>
+		<weather>RA</weather>
+		<temperature_string>50.0 F (10.0 C)</temperature_string>
+		<temp_f>50.0</temp_f>
+		<temp_c>10.0</temp_c>
+		<relative_humidity>100</relative_humidity>
+		<wind_string>From the NNE at 24.2 MPH Gusting to 24.2 MPH</wind_string>
+		<wind_dir>NNE</wind_dir>
+		<wind_degrees>22</wind_degrees>
+		<wind_mph>24.2</wind_mph>
+		<wind_gust_mph>24.2</wind_gust_mph>
+		<pressure_string>29.18" (988.0 mb)</pressure_string>
+		<pressure_mb>988.0</pressure_mb>
+		<pressure_in>29.18</pressure_in>
+		<dewpoint_string>50.0 F (10.0 C)</dewpoint_string>
+		<dewpoint_f>50.0</dewpoint_f>
+		<dewpoint_c>10.0</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>43 F (6 C)</windchill_string>
+		<windchill_f>43</windchill_f>
+		<windchill_c>6</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.13 in (0.3 mm)</precip_1hr_string>
+		<precip_1hr_in>0.13</precip_1hr_in>
+		<precip_1hr_metric>0.3</precip_1hr_metric>
+		<precip_today_string>0.54 in (1.4 cm)</precip_today_string>
+		<precip_today_in>0.54</precip_today_in>
+		<precip_today_metric>1.4 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INEWFOUN24</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=47.608150,-52.721310</ob_url>
+	</current_observation>
+

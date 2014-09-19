@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Gorgeous Inn Waiheke, Waiheke Island, AUCKLAND</full>
+		<neighborhood>Gorgeous Inn Waiheke</neighborhood>
+		<city>Waiheke Island</city>
+		<state>AUCKLAND</state>
+		<zip></zip>
+		<latitude>-36.790234</latitude>
+		<longitude>174.999176</longitude>
+		<elevation>100 ft</elevation>
+		</location>
+		<station_id>IAUCKLAN100</station_id>
+		<station_type>La Crosse WS2355</station_type>
+		<observation_time>Last Updated on December 4, 4:50 PM NZDT</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 03:50:54 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>62.9 F (17.2 C)</temperature_string>
+		<temp_f>62.9</temp_f>
+		<temp_c>17.2</temp_c>
+		<relative_humidity>95</relative_humidity>
+		<wind_string>From the East at 6.2 MPH Gusting to 6.2 MPH</wind_string>
+		<wind_dir>East</wind_dir>
+		<wind_degrees>90</wind_degrees>
+		<wind_mph>6.2</wind_mph>
+		<wind_gust_mph>6.2</wind_gust_mph>
+		<pressure_string>29.70" (1005.6 mb)</pressure_string>
+		<pressure_mb>1005.6</pressure_mb>
+		<pressure_in>29.70</pressure_in>
+		<dewpoint_string>61.5 F (16.4 C)</dewpoint_string>
+		<dewpoint_f>61.5</dewpoint_f>
+		<dewpoint_c>16.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.06 in (0.2 mm)</precip_1hr_string>
+		<precip_1hr_in>0.06</precip_1hr_in>
+		<precip_1hr_metric>0.2</precip_1hr_metric>
+		<precip_today_string>0.94 in (2.4 cm)</precip_today_string>
+		<precip_today_in>0.94</precip_today_in>
+		<precip_today_metric>2.4 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IAUCKLAN100</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-36.790234,174.999176</ob_url>
+	</current_observation>
+

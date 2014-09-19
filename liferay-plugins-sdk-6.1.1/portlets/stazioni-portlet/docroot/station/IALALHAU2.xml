@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Alhaurin De La Torre, Malaga</full>
+		<neighborhood></neighborhood>
+		<city>Alhaurin De La Torre</city>
+		<state>Malaga</state>
+		<zip></zip>
+		<latitude>36.660259</latitude>
+		<longitude>-4.545465</longitude>
+		<elevation>360 ft</elevation>
+		</location>
+		<station_id>IALALHAU2</station_id>
+		<station_type>Oregon Scientific WMR928NX</station_type>
+		<observation_time>Last Updated on June 18, 2:51 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:51:27 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>91.0 F (32.8 C)</temperature_string>
+		<temp_f>91.0</temp_f>
+		<temp_c>32.8</temp_c>
+		<relative_humidity>28</relative_humidity>
+		<wind_string>From the SE at 7.0 MPH Gusting to 11.0 MPH</wind_string>
+		<wind_dir>SE</wind_dir>
+		<wind_degrees>127</wind_degrees>
+		<wind_mph>7.0</wind_mph>
+		<wind_gust_mph>11.0</wind_gust_mph>
+		<pressure_string>29.91" (1012.8 mb)</pressure_string>
+		<pressure_mb>1012.8</pressure_mb>
+		<pressure_in>29.91</pressure_in>
+		<dewpoint_string>51.8 F (11.0 C)</dewpoint_string>
+		<dewpoint_f>51.8</dewpoint_f>
+		<dewpoint_c>11.0</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>-999.00 in (-2537.5 cm)</precip_today_string>
+		<precip_today_in>-999.00</precip_today_in>
+		<precip_today_metric>-2537.5 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IALALHAU2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=36.660259,-4.545465</ob_url>
+	</current_observation>
+

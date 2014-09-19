@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Petone, Lower Hutt, WELLINGTON</full>
+		<neighborhood>Petone</neighborhood>
+		<city>Lower Hutt</city>
+		<state>WELLINGTON</state>
+		<zip></zip>
+		<latitude>-41.229168</latitude>
+		<longitude>174.886948</longitude>
+		<elevation>0 ft</elevation>
+		</location>
+		<station_id>IWELLING80</station_id>
+		<station_type>Ambient Weather WS-2080</station_type>
+		<observation_time>Last Updated on June 17, 10:28 AM NZST</observation_time>
+		<observation_time_rfc822>Mon, 16 Jun 2014 22:28:04 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>59.4 F (15.2 C)</temperature_string>
+		<temp_f>59.4</temp_f>
+		<temp_c>15.2</temp_c>
+		<relative_humidity>87</relative_humidity>
+		<wind_string>From the NE at 7.6 MPH Gusting to 10.7 MPH</wind_string>
+		<wind_dir>NE</wind_dir>
+		<wind_degrees>45</wind_degrees>
+		<wind_mph>7.6</wind_mph>
+		<wind_gust_mph>10.7</wind_gust_mph>
+		<pressure_string>29.55" (1000.6 mb)</pressure_string>
+		<pressure_mb>1000.6</pressure_mb>
+		<pressure_in>29.55</pressure_in>
+		<dewpoint_string>55.5 F (13.1 C)</dewpoint_string>
+		<dewpoint_f>55.5</dewpoint_f>
+		<dewpoint_c>13.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IWELLING80</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-41.229168,174.886948</ob_url>
+	</current_observation>
+

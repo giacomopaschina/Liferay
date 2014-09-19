@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Greystone, Mississippi Mills, ON</full>
+		<neighborhood>Greystone</neighborhood>
+		<city>Mississippi Mills</city>
+		<state>ON</state>
+		<zip></zip>
+		<latitude>45.241810</latitude>
+		<longitude>-76.165039</longitude>
+		<elevation>300 ft</elevation>
+		</location>
+		<station_id>IONMISSI8</station_id>
+		<station_type>WMR968</station_type>
+		<observation_time>Last Updated on December 4, 6:38 AM EST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:38:20 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>158.0 F (70.0 C)</temperature_string>
+		<temp_f>158.0</temp_f>
+		<temp_c>70.0</temp_c>
+		<relative_humidity>85</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>0</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.00" (981.9 mb)</pressure_string>
+		<pressure_mb>981.9</pressure_mb>
+		<pressure_in>29.00</pressure_in>
+		<dewpoint_string>151.0 F (66.1 C)</dewpoint_string>
+		<dewpoint_f>151.0</dewpoint_f>
+		<dewpoint_c>66.1</dewpoint_c>
+		
+		<heat_index_string>780 F (416 C)</heat_index_string>
+		<heat_index_f>780</heat_index_f>
+		<heat_index_c>416</heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IONMISSI8</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.241810,-76.165039</ob_url>
+	</current_observation>
+

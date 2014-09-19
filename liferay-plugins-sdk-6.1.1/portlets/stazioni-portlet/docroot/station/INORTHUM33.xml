@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>High Shaws, Hexham, NORTHUMBERLAND</full>
+		<neighborhood>High Shaws</neighborhood>
+		<city>Hexham</city>
+		<state>NORTHUMBERLAND</state>
+		<zip></zip>
+		<latitude>54.973862</latitude>
+		<longitude>-2.123538</longitude>
+		<elevation>390 ft</elevation>
+		</location>
+		<station_id>INORTHUM33</station_id>
+		<station_type>RMS300</station_type>
+		<observation_time>Last Updated on June 18, 1:51 PM BST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:51:53 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>69.6 F (20.9 C)</temperature_string>
+		<temp_f>69.6</temp_f>
+		<temp_c>20.9</temp_c>
+		<relative_humidity>70</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>-999</wind_degrees>
+		<wind_mph>-999.0</wind_mph>
+		<wind_gust_mph>-999.0</wind_gust_mph>
+		<pressure_string>-999.00" (-33826.1 mb)</pressure_string>
+		<pressure_mb>-33826.1</pressure_mb>
+		<pressure_in>-999.00</pressure_in>
+		<dewpoint_string>59.1 F (15.1 C)</dewpoint_string>
+		<dewpoint_f>59.1</dewpoint_f>
+		<dewpoint_c>15.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>-999.00 in (-2537.5 mm)</precip_1hr_string>
+		<precip_1hr_in>-999.00</precip_1hr_in>
+		<precip_1hr_metric>-2537.5</precip_1hr_metric>
+		<precip_today_string>-999.00 in (-2537.5 cm)</precip_today_string>
+		<precip_today_in>-999.00</precip_today_in>
+		<precip_today_metric>-2537.5 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INORTHUM33</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=54.973862,-2.123538</ob_url>
+	</current_observation>
+

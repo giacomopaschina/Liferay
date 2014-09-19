@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Younghusband, Younghusband, SA</full>
+		<neighborhood>Younghusband</neighborhood>
+		<city>Younghusband</city>
+		<state>SA</state>
+		<zip></zip>
+		<latitude>-34.900002</latitude>
+		<longitude>139.500000</longitude>
+		<elevation>100 ft</elevation>
+		</location>
+		<station_id>ISAYOUNG2</station_id>
+		<station_type>Vantage Pro</station_type>
+		<observation_time>Last Updated on December 4, 9:59 PM CST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:29:09 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>51.5 F (10.8 C)</temperature_string>
+		<temp_f>51.5</temp_f>
+		<temp_c>10.8</temp_c>
+		<relative_humidity>87</relative_humidity>
+		<wind_string>From the SW at 1.0 MPH Gusting to 2.0 MPH</wind_string>
+		<wind_dir>SW</wind_dir>
+		<wind_degrees>220</wind_degrees>
+		<wind_mph>1.0</wind_mph>
+		<wind_gust_mph>2.0</wind_gust_mph>
+		<pressure_string>29.83" (1010.0 mb)</pressure_string>
+		<pressure_mb>1010.0</pressure_mb>
+		<pressure_in>29.83</pressure_in>
+		<dewpoint_string>48.0 F (8.9 C)</dewpoint_string>
+		<dewpoint_f>48.0</dewpoint_f>
+		<dewpoint_c>8.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.11 in (0.3 mm)</precip_1hr_string>
+		<precip_1hr_in>0.11</precip_1hr_in>
+		<precip_1hr_metric>0.3</precip_1hr_metric>
+		<precip_today_string>0.11 in (0.3 cm)</precip_today_string>
+		<precip_today_in>0.11</precip_today_in>
+		<precip_today_metric>0.3 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISAYOUNG2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-34.900002,139.500000</ob_url>
+	</current_observation>
+

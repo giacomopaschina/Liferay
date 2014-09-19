@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Erfjord, Suldal, ROGALAND</full>
+		<neighborhood>Erfjord</neighborhood>
+		<city>Suldal</city>
+		<state>ROGALAND</state>
+		<zip></zip>
+		<latitude>59.343258</latitude>
+		<longitude>6.218697</longitude>
+		<elevation>312 ft</elevation>
+		</location>
+		<station_id>IROGALAN65</station_id>
+		<station_type>National Geographic</station_type>
+		<observation_time>Last Updated on December 4, 12:59 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:59:21 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>38.3 F (3.5 C)</temperature_string>
+		<temp_f>38.3</temp_f>
+		<temp_c>3.5</temp_c>
+		<relative_humidity>99</relative_humidity>
+		<wind_string>From the South at 3.1 MPH Gusting to 5.4 MPH</wind_string>
+		<wind_dir>South</wind_dir>
+		<wind_degrees>180</wind_degrees>
+		<wind_mph>3.1</wind_mph>
+		<wind_gust_mph>5.4</wind_gust_mph>
+		<pressure_string>30.17" (1021.6 mb)</pressure_string>
+		<pressure_mb>1021.6</pressure_mb>
+		<pressure_in>30.17</pressure_in>
+		<dewpoint_string>38.0 F (3.3 C)</dewpoint_string>
+		<dewpoint_f>38.0</dewpoint_f>
+		<dewpoint_c>3.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>36 F (2 C)</windchill_string>
+		<windchill_f>36</windchill_f>
+		<windchill_c>2</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.08 in (0.2 cm)</precip_today_string>
+		<precip_today_in>0.08</precip_today_in>
+		<precip_today_metric>0.2 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IROGALAN65</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=59.343258,6.218697</ob_url>
+	</current_observation>
+

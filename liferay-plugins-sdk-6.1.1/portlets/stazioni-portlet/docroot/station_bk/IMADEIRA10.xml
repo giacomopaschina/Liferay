@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Sitio do Salao - S. Roque, Funchal, MADEIRA</full>
+		<neighborhood>Sitio do Salao - S. Roque</neighborhood>
+		<city>Funchal</city>
+		<state>MADEIRA</state>
+		<zip></zip>
+		<latitude>32.662708</latitude>
+		<longitude>-16.922626</longitude>
+		<elevation>732 ft</elevation>
+		</location>
+		<station_id>IMADEIRA10</station_id>
+		<station_type>Oregon Scientific WMR180</station_type>
+		<observation_time>Last Updated on December 4, 12:01 PM WET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 12:01:30 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>66.2 F (19.0 C)</temperature_string>
+		<temp_f>66.2</temp_f>
+		<temp_c>19.0</temp_c>
+		<relative_humidity>94</relative_humidity>
+		<wind_string>From the SSE at 6.2 MPH Gusting to 12.5 MPH</wind_string>
+		<wind_dir>SSE</wind_dir>
+		<wind_degrees>149</wind_degrees>
+		<wind_mph>6.2</wind_mph>
+		<wind_gust_mph>12.5</wind_gust_mph>
+		<pressure_string>29.95" (1014.1 mb)</pressure_string>
+		<pressure_mb>1014.1</pressure_mb>
+		<pressure_in>29.95</pressure_in>
+		<dewpoint_string>64.4 F (18.0 C)</dewpoint_string>
+		<dewpoint_f>64.4</dewpoint_f>
+		<dewpoint_c>18.0</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.04 in (0.1 mm)</precip_1hr_string>
+		<precip_1hr_in>0.04</precip_1hr_in>
+		<precip_1hr_metric>0.1</precip_1hr_metric>
+		<precip_today_string>0.74 in (1.9 cm)</precip_today_string>
+		<precip_today_in>0.74</precip_today_in>
+		<precip_today_metric>1.9 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IMADEIRA10</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=32.662708,-16.922626</ob_url>
+	</current_observation>
+

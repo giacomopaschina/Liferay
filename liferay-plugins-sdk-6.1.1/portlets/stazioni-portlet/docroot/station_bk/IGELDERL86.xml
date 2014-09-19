@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Homoet, Homoet, GELDERLAND</full>
+		<neighborhood>Homoet</neighborhood>
+		<city>Homoet</city>
+		<state>GELDERLAND</state>
+		<zip></zip>
+		<latitude>51.938911</latitude>
+		<longitude>5.786881</longitude>
+		<elevation>20 ft</elevation>
+		</location>
+		<station_id>IGELDERL86</station_id>
+		<station_type>Davis Vantage Pro 2</station_type>
+		<observation_time>Last Updated on December 4, 12:51 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:51:56 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>43.6 F (6.4 C)</temperature_string>
+		<temp_f>43.6</temp_f>
+		<temp_c>6.4</temp_c>
+		<relative_humidity>92</relative_humidity>
+		<wind_string>From the West at 11.0 MPH Gusting to 13.0 MPH</wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>268</wind_degrees>
+		<wind_mph>11.0</wind_mph>
+		<wind_gust_mph>13.0</wind_gust_mph>
+		<pressure_string>30.22" (1023.2 mb)</pressure_string>
+		<pressure_mb>1023.2</pressure_mb>
+		<pressure_in>30.22</pressure_in>
+		<dewpoint_string>41.4 F (5.2 C)</dewpoint_string>
+		<dewpoint_f>41.4</dewpoint_f>
+		<dewpoint_c>5.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>38 F (3 C)</windchill_string>
+		<windchill_f>38</windchill_f>
+		<windchill_c>3</windchill_c>
+		
+		<solar_radiation>42</solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IGELDERL86</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=51.938911,5.786881</ob_url>
+	</current_observation>
+

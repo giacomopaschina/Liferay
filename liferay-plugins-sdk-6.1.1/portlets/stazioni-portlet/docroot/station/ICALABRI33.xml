@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Caraffa, Caraffa Di Catanzaro, CALABRIA</full>
+		<neighborhood>Caraffa</neighborhood>
+		<city>Caraffa Di Catanzaro</city>
+		<state>CALABRIA</state>
+		<zip></zip>
+		<latitude>38.878296</latitude>
+		<longitude>16.484274</longitude>
+		<elevation>1178 ft</elevation>
+		</location>
+		<station_id>ICALABRI33</station_id>
+		<station_type>Conrad Te831X</station_type>
+		<observation_time>Last Updated on February 13, 12:46 AM CET</observation_time>
+		<observation_time_rfc822>Wed, 12 Feb 2014 23:46:23 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>45.0 F (7.2 C)</temperature_string>
+		<temp_f>45.0</temp_f>
+		<temp_c>7.2</temp_c>
+		<relative_humidity>95</relative_humidity>
+		<wind_string>From the NW at 3.4 MPH Gusting to 3.4 MPH</wind_string>
+		<wind_dir>NW</wind_dir>
+		<wind_degrees>315</wind_degrees>
+		<wind_mph>3.4</wind_mph>
+		<wind_gust_mph>3.4</wind_gust_mph>
+		<pressure_string>30.16" (1021.2 mb)</pressure_string>
+		<pressure_mb>1021.2</pressure_mb>
+		<pressure_in>30.16</pressure_in>
+		<dewpoint_string>43.7 F (6.5 C)</dewpoint_string>
+		<dewpoint_f>43.7</dewpoint_f>
+		<dewpoint_c>6.5</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>44 F (6 C)</windchill_string>
+		<windchill_f>44</windchill_f>
+		<windchill_c>6</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.03 in (0.1 mm)</precip_1hr_string>
+		<precip_1hr_in>0.03</precip_1hr_in>
+		<precip_1hr_metric>0.1</precip_1hr_metric>
+		<precip_today_string>0.03 in (0.1 cm)</precip_today_string>
+		<precip_today_in>0.03</precip_today_in>
+		<precip_today_metric>0.1 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ICALABRI33</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=38.878296,16.484274</ob_url>
+	</current_observation>
+

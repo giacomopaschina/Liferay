@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>meteo laiano, Laiano, Sant'Agata dei Goti</full>
+		<neighborhood>meteo laiano</neighborhood>
+		<city>Laiano</city>
+		<state>Sant'Agata dei Goti</state>
+		<zip></zip>
+		<latitude>41.124424</latitude>
+		<longitude>14.532203</longitude>
+		<elevation>1571 ft</elevation>
+		</location>
+		<station_id>IBENEVEN2</station_id>
+		<station_type>Vantage Pro 2 plus</station_type>
+		<observation_time>Last Updated on December 4, 8:30 AM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 07:30:22 GMT</observation_time_rfc822>
+		<weather>SCT</weather>
+		<temperature_string>46.5 F (8.1 C)</temperature_string>
+		<temp_f>46.5</temp_f>
+		<temp_c>8.1</temp_c>
+		<relative_humidity>61</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>East</wind_dir>
+		<wind_degrees>80</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>9.0</wind_gust_mph>
+		<pressure_string>30.23" (1023.6 mb)</pressure_string>
+		<pressure_mb>1023.6</pressure_mb>
+		<pressure_in>30.23</pressure_in>
+		<dewpoint_string>33.7 F (0.9 C)</dewpoint_string>
+		<dewpoint_f>33.7</dewpoint_f>
+		<dewpoint_c>0.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>160</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBENEVEN2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=41.124424,14.532203</ob_url>
+	</current_observation>
+

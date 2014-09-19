@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Edgemont, Calgary, AB</full>
+		<neighborhood>Edgemont</neighborhood>
+		<city>Calgary</city>
+		<state>AB</state>
+		<zip></zip>
+		<latitude>51.125629</latitude>
+		<longitude>-114.160133</longitude>
+		<elevation>3576 ft</elevation>
+		</location>
+		<station_id>IABCALGA32</station_id>
+		<station_type>Davis Instruments 6250 Vantage Vue</station_type>
+		<observation_time>Last Updated on March 2, 2:25 AM MST</observation_time>
+		<observation_time_rfc822>Sun, 02 Mar 2014 09:25:54 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>-22.2 F (-30.1 C)</temperature_string>
+		<temp_f>-22.2</temp_f>
+		<temp_c>-30.1</temp_c>
+		<relative_humidity>76</relative_humidity>
+		<wind_string>From the SSE at 8.0 MPH Gusting to 12.0 MPH</wind_string>
+		<wind_dir>SSE</wind_dir>
+		<wind_degrees>148</wind_degrees>
+		<wind_mph>8.0</wind_mph>
+		<wind_gust_mph>12.0</wind_gust_mph>
+		<pressure_string>25.96" (879.0 mb)</pressure_string>
+		<pressure_mb>879.0</pressure_mb>
+		<pressure_in>25.96</pressure_in>
+		<dewpoint_string>-27.3 F (-32.9 C)</dewpoint_string>
+		<dewpoint_f>-27.3</dewpoint_f>
+		<dewpoint_c>-32.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>-41 F (-41 C)</windchill_string>
+		<windchill_f>-41</windchill_f>
+		<windchill_c>-41</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IABCALGA32</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=51.125629,-114.160133</ob_url>
+	</current_observation>
+

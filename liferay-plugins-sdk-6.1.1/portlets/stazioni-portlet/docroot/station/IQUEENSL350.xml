@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Margate Redcliffe, Margate, QUEENSLAND</full>
+		<neighborhood>Margate Redcliffe</neighborhood>
+		<city>Margate</city>
+		<state>QUEENSLAND</state>
+		<zip></zip>
+		<latitude>-27.244169</latitude>
+		<longitude>153.098480</longitude>
+		<elevation>72 ft</elevation>
+		</location>
+		<station_id>IQUEENSL350</station_id>
+		<station_type>Oregon Scientific Professional Weather Center</station_type>
+		<observation_time>Last Updated on June 7, 7:38 PM EST</observation_time>
+		<observation_time_rfc822>Sat, 07 Jun 2014 09:38:10 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>45.5 F (7.5 C)</temperature_string>
+		<temp_f>45.5</temp_f>
+		<temp_c>7.5</temp_c>
+		<relative_humidity>10</relative_humidity>
+		<wind_string>From the ESE at 14.5 MPH Gusting to 57.0 MPH</wind_string>
+		<wind_dir>ESE</wind_dir>
+		<wind_degrees>112</wind_degrees>
+		<wind_mph>14.5</wind_mph>
+		<wind_gust_mph>57.0</wind_gust_mph>
+		<pressure_string>29.78" (1008.4 mb)</pressure_string>
+		<pressure_mb>1008.4</pressure_mb>
+		<pressure_in>29.78</pressure_in>
+		<dewpoint_string>-7.9 F (-22.2 C)</dewpoint_string>
+		<dewpoint_f>-7.9</dewpoint_f>
+		<dewpoint_c>-22.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>39 F (4 C)</windchill_string>
+		<windchill_f>39</windchill_f>
+		<windchill_c>4</windchill_c>
+		
+		<solar_radiation>31</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IQUEENSL350</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-27.244169,153.098480</ob_url>
+	</current_observation>
+

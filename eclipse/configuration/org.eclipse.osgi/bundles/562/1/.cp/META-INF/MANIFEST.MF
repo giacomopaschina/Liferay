@@ -1,0 +1,44 @@
+Manifest-Version: 1.0
+Export-Package: org.eclipse.m2e.core.ui.internal;x-internal:=true,org.
+ eclipse.m2e.core.ui.internal.actions;x-friends:="org.eclipse.m2e.edit
+ or,org.eclipse.m2e.editor.xml",org.eclipse.m2e.core.ui.internal.compo
+ nents;x-friends:="org.eclipse.m2e.editor,org.eclipse.m2e.editor.xml",
+ org.eclipse.m2e.core.ui.internal.console;x-internal:=true,org.eclipse
+ .m2e.core.ui.internal.dialogs;x-friends:="org.eclipse.m2e.editor",org
+ .eclipse.m2e.core.ui.internal.editing;x-friends:="org.eclipse.m2e.edi
+ tor.xml,org.eclipse.m2e.editor,org.eclipse.m2e.refactoring",org.eclip
+ se.m2e.core.ui.internal.lifecyclemapping;x-internal:=true,org.eclipse
+ .m2e.core.ui.internal.preferences;x-internal:=true,org.eclipse.m2e.co
+ re.ui.internal.search.util;x-friends:="org.eclipse.m2e.editor",org.ec
+ lipse.m2e.core.ui.internal.util;x-friends:="org.eclipse.m2e.editor",o
+ rg.eclipse.m2e.core.ui.internal.views;x-internal:=true,org.eclipse.m2
+ e.core.ui.internal.views.nodes;x-internal:=true,org.eclipse.m2e.core.
+ ui.internal.wizards;x-friends:="org.eclipse.m2e.editor"
+Bundle-ActivationPolicy: lazy
+Built-By: greg
+Bundle-Name: %Bundle-Name
+Bundle-Localization: plugin
+Created-By: Apache Maven
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6,JavaSE-1.7
+Require-Bundle: org.eclipse.m2e.core;bundle-version="[1.5.0,1.6.0)",or
+ g.eclipse.core.resources;bundle-version="3.5.2",org.eclipse.core.runt
+ ime;bundle-version="3.5.0",org.eclipse.m2e.model.edit;bundle-version=
+ "[1.5.0,1.6.0)",org.eclipse.m2e.maven.runtime;bundle-version="[1.5.0,
+ 1.6.0)",org.eclipse.m2e.archetype.common;bundle-version="[1.5.0,1.6.0
+ )",com.ibm.icu;bundle-version="4.0.1",org.eclipse.m2e.maven.indexer;b
+ undle-version="[1.5.0,1.6.0)",org.eclipse.ui.console;bundle-version="
+ 3.4.0",org.eclipse.ui.ide;bundle-version="3.5.2",org.eclipse.core.fil
+ esystem;bundle-version="1.2.1",org.eclipse.core.expressions;bundle-ve
+ rsion="3.4.101",org.eclipse.ui.forms;bundle-version="3.4.1",org.slf4j
+ .api;bundle-version="1.6.2",org.eclipse.jface.text,org.eclipse.ui
+Bundle-Vendor: %Bundle-Vendor
+Bundle-Version: 1.5.0.20140310-0533
+Build-Jdk: 1.7.0_45
+Bundle-Activator: org.eclipse.m2e.core.ui.internal.M2EUIPluginActivato
+ r
+Bundle-ManifestVersion: 2
+Import-Package: org.eclipse.compare.rangedifferencer,org.eclipse.ltk.c
+ ore.refactoring
+Bundle-SymbolicName: org.eclipse.m2e.core.ui;singleton:=true
+Archiver-Version: Plexus Archiver
+

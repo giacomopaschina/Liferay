@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Ballater, SCOTLAND</full>
+		<neighborhood></neighborhood>
+		<city>Ballater</city>
+		<state>SCOTLAND</state>
+		<zip></zip>
+		<latitude>57.059601</latitude>
+		<longitude>-3.034000</longitude>
+		<elevation>673 ft</elevation>
+		</location>
+		<station_id>ISCOTLAN43</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on June 18, 1:43 PM BST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:43:55 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>81.1 F (27.3 C)</temperature_string>
+		<temp_f>81.1</temp_f>
+		<temp_c>27.3</temp_c>
+		<relative_humidity>59</relative_humidity>
+		<wind_string>From the East at 2.0 MPH Gusting to 10.0 MPH</wind_string>
+		<wind_dir>East</wind_dir>
+		<wind_degrees>86</wind_degrees>
+		<wind_mph>2.0</wind_mph>
+		<wind_gust_mph>10.0</wind_gust_mph>
+		<pressure_string>30.21" (1022.9 mb)</pressure_string>
+		<pressure_mb>1022.9</pressure_mb>
+		<pressure_in>30.21</pressure_in>
+		<dewpoint_string>65.4 F (18.6 C)</dewpoint_string>
+		<dewpoint_f>65.4</dewpoint_f>
+		<dewpoint_c>18.6</dewpoint_c>
+		
+		<heat_index_string>83 F (28 C)</heat_index_string>
+		<heat_index_f>83</heat_index_f>
+		<heat_index_c>28</heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISCOTLAN43</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=57.059601,-3.034000</ob_url>
+	</current_observation>
+

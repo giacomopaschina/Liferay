@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Korsberga, KORSBERGA</full>
+		<neighborhood></neighborhood>
+		<city>Korsberga</city>
+		<state>KORSBERGA</state>
+		<zip></zip>
+		<latitude>57.310081</latitude>
+		<longitude>15.242527</longitude>
+		<elevation>620 ft</elevation>
+		</location>
+		<station_id>IKORSBER2</station_id>
+		<station_type>wh-1080</station_type>
+		<observation_time>Last Updated on December 4, 11:30 AM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 10:30:19 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>43.0 F (6.1 C)</temperature_string>
+		<temp_f>43.0</temp_f>
+		<temp_c>6.1</temp_c>
+		<relative_humidity>97</relative_humidity>
+		<wind_string>From the NW at 8.2 MPH Gusting to 24.7 MPH</wind_string>
+		<wind_dir>NW</wind_dir>
+		<wind_degrees>305</wind_degrees>
+		<wind_mph>8.2</wind_mph>
+		<wind_gust_mph>24.7</wind_gust_mph>
+		<pressure_string>30.05" (1017.5 mb)</pressure_string>
+		<pressure_mb>1017.5</pressure_mb>
+		<pressure_in>30.05</pressure_in>
+		<dewpoint_string>42.2 F (5.7 C)</dewpoint_string>
+		<dewpoint_f>42.2</dewpoint_f>
+		<dewpoint_c>5.7</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>38 F (3 C)</windchill_string>
+		<windchill_f>38</windchill_f>
+		<windchill_c>3</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.06 in (0.2 cm)</precip_today_string>
+		<precip_today_in>0.06</precip_today_in>
+		<precip_today_metric>0.2 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IKORSBER2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=57.310081,15.242527</ob_url>
+	</current_observation>
+

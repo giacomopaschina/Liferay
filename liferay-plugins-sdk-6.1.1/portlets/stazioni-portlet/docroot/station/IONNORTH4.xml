@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Parkhill, ON</full>
+		<neighborhood></neighborhood>
+		<city>Parkhill</city>
+		<state>ON</state>
+		<zip></zip>
+		<latitude>43.159000</latitude>
+		<longitude>-81.685059</longitude>
+		<elevation>639 ft</elevation>
+		</location>
+		<station_id>IONNORTH4</station_id>
+		<station_type>Davis Vantage Vue</station_type>
+		<observation_time>Last Updated on June 18, 9:13 AM EDT</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:13:35 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>60.8 F (16.0 C)</temperature_string>
+		<temp_f>60.8</temp_f>
+		<temp_c>16.0</temp_c>
+		<relative_humidity>95</relative_humidity>
+		<wind_string>From the SE at 1.0 MPH Gusting to 2.0 MPH</wind_string>
+		<wind_dir>SE</wind_dir>
+		<wind_degrees>126</wind_degrees>
+		<wind_mph>1.0</wind_mph>
+		<wind_gust_mph>2.0</wind_gust_mph>
+		<pressure_string>29.34" (993.5 mb)</pressure_string>
+		<pressure_mb>993.5</pressure_mb>
+		<pressure_in>29.34</pressure_in>
+		<dewpoint_string>59.4 F (15.2 C)</dewpoint_string>
+		<dewpoint_f>59.4</dewpoint_f>
+		<dewpoint_c>15.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.05 in (0.1 mm)</precip_1hr_string>
+		<precip_1hr_in>0.05</precip_1hr_in>
+		<precip_1hr_metric>0.1</precip_1hr_metric>
+		<precip_today_string>0.05 in (0.1 cm)</precip_today_string>
+		<precip_today_in>0.05</precip_today_in>
+		<precip_today_metric>0.1 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IONNORTH4</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=43.159000,-81.685059</ob_url>
+	</current_observation>
+

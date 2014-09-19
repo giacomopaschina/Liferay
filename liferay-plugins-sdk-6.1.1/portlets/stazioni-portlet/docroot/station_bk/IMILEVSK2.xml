@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Milevsko, CZ</full>
+		<neighborhood></neighborhood>
+		<city>Milevsko</city>
+		<state>CZ</state>
+		<zip></zip>
+		<latitude>49.446487</latitude>
+		<longitude>14.365340</longitude>
+		<elevation>1558 ft</elevation>
+		</location>
+		<station_id>IMILEVSK2</station_id>
+		<station_type>W-8681</station_type>
+		<observation_time>Last Updated on December 4, 12:30 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:30:07 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>34.0 F (1.1 C)</temperature_string>
+		<temp_f>34.0</temp_f>
+		<temp_c>1.1</temp_c>
+		<relative_humidity>97</relative_humidity>
+		<wind_string>From the NW at 3.1 MPH Gusting to 6.0 MPH</wind_string>
+		<wind_dir>NW</wind_dir>
+		<wind_degrees>315</wind_degrees>
+		<wind_mph>3.1</wind_mph>
+		<wind_gust_mph>6.0</wind_gust_mph>
+		<pressure_string>30.15" (1020.9 mb)</pressure_string>
+		<pressure_mb>1020.9</pressure_mb>
+		<pressure_in>30.15</pressure_in>
+		<dewpoint_string>33.2 F (0.7 C)</dewpoint_string>
+		<dewpoint_f>33.2</dewpoint_f>
+		<dewpoint_c>0.7</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>31 F (-0 C)</windchill_string>
+		<windchill_f>31</windchill_f>
+		<windchill_c>-0</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IMILEVSK2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=49.446487,14.365340</ob_url>
+	</current_observation>
+

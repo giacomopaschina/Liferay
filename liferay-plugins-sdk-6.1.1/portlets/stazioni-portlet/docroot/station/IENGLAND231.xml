@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Hailsham, ENGLAND</full>
+		<neighborhood></neighborhood>
+		<city>Hailsham</city>
+		<state>ENGLAND</state>
+		<zip></zip>
+		<latitude>50.870728</latitude>
+		<longitude>0.248625</longitude>
+		<elevation>112 ft</elevation>
+		</location>
+		<station_id>IENGLAND231</station_id>
+		<station_type>Davis Vantage Vue</station_type>
+		<observation_time>Last Updated on May 22, 2:27 PM BST</observation_time>
+		<observation_time_rfc822>Thu, 22 May 2014 13:27:13 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>61.2 F (16.2 C)</temperature_string>
+		<temp_f>61.2</temp_f>
+		<temp_c>16.2</temp_c>
+		<relative_humidity>81</relative_humidity>
+		<wind_string>From the East at 3.0 MPH Gusting to 10.0 MPH</wind_string>
+		<wind_dir>East</wind_dir>
+		<wind_degrees>92</wind_degrees>
+		<wind_mph>3.0</wind_mph>
+		<wind_gust_mph>10.0</wind_gust_mph>
+		<pressure_string>29.59" (1001.9 mb)</pressure_string>
+		<pressure_mb>1001.9</pressure_mb>
+		<pressure_in>29.59</pressure_in>
+		<dewpoint_string>55.4 F (13.0 C)</dewpoint_string>
+		<dewpoint_f>55.4</dewpoint_f>
+		<dewpoint_c>13.0</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.02 in (0.1 cm)</precip_today_string>
+		<precip_today_in>0.02</precip_today_in>
+		<precip_today_metric>0.1 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IENGLAND231</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=50.870728,0.248625</ob_url>
+	</current_observation>
+

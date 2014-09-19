@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Botnaholten, Floro, SOGN OG FJORDANE</full>
+		<neighborhood>Botnaholten</neighborhood>
+		<city>Floro</city>
+		<state>SOGN OG FJORDANE</state>
+		<zip></zip>
+		<latitude>61.601879</latitude>
+		<longitude>5.075319</longitude>
+		<elevation>260 ft</elevation>
+		</location>
+		<station_id>ISOGNOGF13</station_id>
+		<station_type>Jenkinsbird Weather Pro</station_type>
+		<observation_time>Last Updated on December 4, 12:59 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:59:22 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>37.8 F (3.2 C)</temperature_string>
+		<temp_f>37.8</temp_f>
+		<temp_c>3.2</temp_c>
+		<relative_humidity>79</relative_humidity>
+		<wind_string>From the North at 8.3 MPH Gusting to 13.6 MPH</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>360</wind_degrees>
+		<wind_mph>8.3</wind_mph>
+		<wind_gust_mph>13.6</wind_gust_mph>
+		<pressure_string>29.56" (1000.9 mb)</pressure_string>
+		<pressure_mb>1000.9</pressure_mb>
+		<pressure_in>29.56</pressure_in>
+		<dewpoint_string>31.8 F (-0.1 C)</dewpoint_string>
+		<dewpoint_f>31.8</dewpoint_f>
+		<dewpoint_c>-0.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>32 F (-0 C)</windchill_string>
+		<windchill_f>32</windchill_f>
+		<windchill_c>-0</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.40 in (1.0 cm)</precip_today_string>
+		<precip_today_in>0.40</precip_today_in>
+		<precip_today_metric>1.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISOGNOGF13</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=61.601879,5.075319</ob_url>
+	</current_observation>
+

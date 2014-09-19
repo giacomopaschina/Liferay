@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Lagos, LAGOS, FARO</full>
+		<neighborhood>Lagos</neighborhood>
+		<city>LAGOS</city>
+		<state>FARO</state>
+		<zip></zip>
+		<latitude>37.096107</latitude>
+		<longitude>-8.680516</longitude>
+		<elevation>177 ft</elevation>
+		</location>
+		<station_id>IFAROLAG5</station_id>
+		<station_type>FINEOFFSET</station_type>
+		<observation_time>Last Updated on June 6, 4:34 PM WEST</observation_time>
+		<observation_time_rfc822>Fri, 06 Jun 2014 15:34:00 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>61.9 F (16.6 C)</temperature_string>
+		<temp_f>61.9</temp_f>
+		<temp_c>16.6</temp_c>
+		<relative_humidity>73</relative_humidity>
+		<wind_string>From the NNW at 15.2 MPH Gusting to 26.6 MPH</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>339</wind_degrees>
+		<wind_mph>15.2</wind_mph>
+		<wind_gust_mph>26.6</wind_gust_mph>
+		<pressure_string>30.11" (1019.5 mb)</pressure_string>
+		<pressure_mb>1019.5</pressure_mb>
+		<pressure_in>30.11</pressure_in>
+		<dewpoint_string>53.1 F (11.7 C)</dewpoint_string>
+		<dewpoint_f>53.1</dewpoint_f>
+		<dewpoint_c>11.7</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>6</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IFAROLAG5</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=37.096107,-8.680516</ob_url>
+	</current_observation>
+

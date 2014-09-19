@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>××¤×¨ ××× ×, kfar yona, SHARON</full>
+		<neighborhood>××¤×¨ ××× ×</neighborhood>
+		<city>kfar yona</city>
+		<state>SHARON</state>
+		<zip></zip>
+		<latitude>32.313725</latitude>
+		<longitude>34.938709</longitude>
+		<elevation>154 ft</elevation>
+		</location>
+		<station_id>ISHARONU2</station_id>
+		<station_type>Davis Vantage Pro2 (Wireless)</station_type>
+		<observation_time>Last Updated on June 18, 3:44 PM IDT</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:44:37 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>79.1 F (26.2 C)</temperature_string>
+		<temp_f>79.1</temp_f>
+		<temp_c>26.2</temp_c>
+		<relative_humidity>79</relative_humidity>
+		<wind_string>From the SSW at 6.0 MPH Gusting to 13.0 MPH</wind_string>
+		<wind_dir>SSW</wind_dir>
+		<wind_degrees>211</wind_degrees>
+		<wind_mph>6.0</wind_mph>
+		<wind_gust_mph>13.0</wind_gust_mph>
+		<pressure_string>29.86" (1011.1 mb)</pressure_string>
+		<pressure_mb>1011.1</pressure_mb>
+		<pressure_in>29.86</pressure_in>
+		<dewpoint_string>72.0 F (22.2 C)</dewpoint_string>
+		<dewpoint_f>72.0</dewpoint_f>
+		<dewpoint_c>22.2</dewpoint_c>
+		
+		<heat_index_string>82 F (28 C)</heat_index_string>
+		<heat_index_f>82</heat_index_f>
+		<heat_index_c>28</heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>267</solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISHARONU2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=32.313725,34.938709</ob_url>
+	</current_observation>
+

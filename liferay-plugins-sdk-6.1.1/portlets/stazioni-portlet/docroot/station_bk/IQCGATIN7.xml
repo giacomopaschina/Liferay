@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>HW50/VérendryeO, Gatineau, QC</full>
+		<neighborhood>HW50/VérendryeO</neighborhood>
+		<city>Gatineau</city>
+		<state>QC</state>
+		<zip></zip>
+		<latitude>45.491501</latitude>
+		<longitude>-75.726761</longitude>
+		<elevation>197 ft</elevation>
+		</location>
+		<station_id>IQCGATIN7</station_id>
+		<station_type>265NC</station_type>
+		<observation_time>Last Updated on December 3, 8:30 PM EST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 01:30:06 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>30.9 F (-0.6 C)</temperature_string>
+		<temp_f>30.9</temp_f>
+		<temp_c>-0.6</temp_c>
+		<relative_humidity>89</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>0</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.92" (1013.1 mb)</pressure_string>
+		<pressure_mb>1013.1</pressure_mb>
+		<pressure_in>29.92</pressure_in>
+		<dewpoint_string>28.0 F (-2.2 C)</dewpoint_string>
+		<dewpoint_f>28.0</dewpoint_f>
+		<dewpoint_c>-2.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.13 in (0.3 cm)</precip_today_string>
+		<precip_today_in>0.13</precip_today_in>
+		<precip_today_metric>0.3 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IQCGATIN7</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.491501,-75.726761</ob_url>
+	</current_observation>
+

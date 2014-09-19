@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Laingholm, Waitakere, AUCKLAND</full>
+		<neighborhood>Laingholm</neighborhood>
+		<city>Waitakere</city>
+		<state>AUCKLAND</state>
+		<zip></zip>
+		<latitude>-36.958794</latitude>
+		<longitude>174.624222</longitude>
+		<elevation>364 ft</elevation>
+		</location>
+		<station_id>IAUCKLAN76</station_id>
+		<station_type>WS2083</station_type>
+		<observation_time>Last Updated on December 4, 6:59 PM NZDT</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 05:59:38 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>62.1 F (16.7 C)</temperature_string>
+		<temp_f>62.1</temp_f>
+		<temp_c>16.7</temp_c>
+		<relative_humidity>98</relative_humidity>
+		<wind_string>From the SW at 2.2 MPH Gusting to 6.9 MPH</wind_string>
+		<wind_dir>SW</wind_dir>
+		<wind_degrees>225</wind_degrees>
+		<wind_mph>2.2</wind_mph>
+		<wind_gust_mph>6.9</wind_gust_mph>
+		<pressure_string>29.81" (1009.4 mb)</pressure_string>
+		<pressure_mb>1009.4</pressure_mb>
+		<pressure_in>29.81</pressure_in>
+		<dewpoint_string>61.5 F (16.4 C)</dewpoint_string>
+		<dewpoint_f>61.5</dewpoint_f>
+		<dewpoint_c>16.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.05 in (0.1 mm)</precip_1hr_string>
+		<precip_1hr_in>0.05</precip_1hr_in>
+		<precip_1hr_metric>0.1</precip_1hr_metric>
+		<precip_today_string>1.19 in (3.0 cm)</precip_today_string>
+		<precip_today_in>1.19</precip_today_in>
+		<precip_today_metric>3.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IAUCKLAN76</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-36.958794,174.624222</ob_url>
+	</current_observation>
+

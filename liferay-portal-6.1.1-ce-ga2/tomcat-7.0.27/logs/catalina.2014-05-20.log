@@ -1,0 +1,452 @@
+May 20, 2014 1:29:12 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+May 20, 2014 1:29:12 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+May 20, 2014 1:29:12 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+May 20, 2014 1:29:12 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 784 ms
+May 20, 2014 1:29:12 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+May 20, 2014 1:29:12 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.27
+May 20, 2014 1:29:12 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/conf/Catalina/localhost/ncWMS-portlet.xml
+May 20, 2014 1:29:12 PM org.apache.catalina.startup.HostConfig deployDescriptor
+WARNING: A docBase /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/ncWMS-portlet inside the host appBase has been specified, and will be ignored
+May 20, 2014 1:29:12 PM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'source' to 'org.eclipse.jst.jee.server:ncWMS-portlet' did not find a matching property.
+May 20, 2014 1:29:13 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/conf/Catalina/localhost/ROOT.xml
+May 20, 2014 1:29:42 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/conf/Catalina/localhost/stazioni-portlet.xml
+May 20, 2014 1:29:42 PM org.apache.catalina.startup.HostConfig deployDescriptor
+WARNING: A docBase /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/stazioni-portlet inside the host appBase has been specified, and will be ignored
+May 20, 2014 1:29:43 PM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'source' to 'org.eclipse.jst.jee.server:stazioni-portlet' did not find a matching property.
+May 20, 2014 1:29:44 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/ncWMS.war
+May 20, 2014 1:29:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/marketplace-portlet
+May 20, 2014 1:29:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/welcome-theme
+May 20, 2014 1:29:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/resources-importer-web
+May 20, 2014 1:29:48 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+May 20, 2014 1:29:48 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+May 20, 2014 1:29:48 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 35957 ms
+May 20, 2014 1:31:45 PM org.geotoolkit.referencing.factory.epsg.ThreadedEpsgFactory createBackingStore
+INFO: Connected to EPSG database "jdbc:hsqldb:/home/giacomo/.geotoolkit.org/EPSG/HSQL/7.06" on "HSQL Database Engine".
+May 20, 2014 1:32:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:32:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:33:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:33:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:34:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:34:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:35:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:35:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:36:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:36:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:37:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:37:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:38:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:38:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:39:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:39:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:40:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:40:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:41:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:41:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:42:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:42:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:43:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:43:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:44:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:44:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:45:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:45:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:46:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:46:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:47:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:47:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:48:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:48:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:49:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:49:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:50:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:50:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:51:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:51:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:52:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:52:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:53:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:53:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:54:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:54:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:55:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:55:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:56:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:56:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:57:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:57:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:58:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:58:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:59:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 1:59:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:00:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:00:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:01:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:01:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:02:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:02:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:03:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:03:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:04:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:04:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:05:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:05:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:06:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:06:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:07:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:07:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:08:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:08:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:09:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:09:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:10:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:10:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:11:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:11:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:12:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:12:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:13:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:13:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:14:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:14:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:15:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:15:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:16:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:16:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:17:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:17:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:18:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:18:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:19:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:19:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:20:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:20:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:21:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:21:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:22:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:22:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:23:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:23:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:24:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:24:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:25:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:25:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:26:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:26:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:27:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:27:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:28:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:28:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:29:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:29:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:30:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:30:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:31:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:31:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:32:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:32:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:33:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:33:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:34:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:34:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:35:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:35:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:36:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:36:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:37:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:37:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:38:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:38:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:39:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:39:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:40:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:40:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:41:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:41:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:42:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:42:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:43:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:43:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:44:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:44:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:45:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:45:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:46:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:46:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:47:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:47:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:48:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:48:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:49:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:49:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:50:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:50:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:51:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:51:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:52:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:52:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:53:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:53:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:54:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:54:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:55:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:55:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:56:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:56:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:57:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:57:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:58:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:58:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:59:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 2:59:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 3:00:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 3:00:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 3:01:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 3:01:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 3:02:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 3:02:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 3:03:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 3:03:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 3:04:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 3:04:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 3:05:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 3:05:45 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 3:06:15 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 3:06:43 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+May 20, 2014 3:06:43 PM java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: /etc/.java/.systemPrefs/org create failed.
+May 20, 2014 3:06:43 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+May 20, 2014 3:06:43 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+May 20, 2014 3:06:43 PM org.hsqldb.persist.Logger logInfoEvent
+INFO: Database closed
+May 20, 2014 3:06:46 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [org.python.google.common.base.internal.Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+May 20, 2014 3:06:46 PM org.apache.catalina.loader.WebappClassLoader clearReferencesJdbc
+SEVERE: The web application [/ncWMS] registered the JDBC driver [org.h2.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+May 20, 2014 3:06:46 PM org.apache.catalina.loader.WebappClassLoader clearReferencesJdbc
+SEVERE: The web application [/ncWMS] registered the JDBC driver [org.hsqldb.jdbcDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+May 20, 2014 3:06:46 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/ncWMS] appears to have started a thread named [ReferenceQueueConsumer] but has failed to stop it. This is very likely to create a memory leak.
+May 20, 2014 3:06:46 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/ncWMS] appears to have started a thread named [ReferencingStoreDisposer] but has failed to stop it. This is very likely to create a memory leak.
+May 20, 2014 3:06:46 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/ncWMS] appears to have started a thread named [CacheReferences] but has failed to stop it. This is very likely to create a memory leak.
+May 20, 2014 3:06:46 PM org.apache.catalina.loader.WebappClassLoader checkThreadLocalMapForLeaks
+SEVERE: The web application [/ncWMS] created a ThreadLocal with key of type [org.geotoolkit.referencing.factory.ThreadedAuthorityFactory$1] (value [org.geotoolkit.referencing.factory.ThreadedAuthorityFactory$1@5e672a9e]) and a value of type [org.geotoolkit.referencing.factory.ThreadedAuthorityFactory.Usage] (value [Usage[<*>: 0]]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+May 20, 2014 3:06:46 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+May 20, 2014 3:06:46 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+May 20, 2014 3:06:46 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+May 20, 2014 3:06:46 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]

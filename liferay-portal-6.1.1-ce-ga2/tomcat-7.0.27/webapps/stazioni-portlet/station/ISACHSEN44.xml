@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Quedlinburg, SACHSEN-ANHALT</full>
+		<neighborhood></neighborhood>
+		<city>Quedlinburg</city>
+		<state>SACHSEN-ANHALT</state>
+		<zip></zip>
+		<latitude>51.800335</latitude>
+		<longitude>11.188073</longitude>
+		<elevation>410 ft</elevation>
+		</location>
+		<station_id>ISACHSEN44</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on June 18, 2:40 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:40:04 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>32.0 F (0.0 C)</temperature_string>
+		<temp_f>32.0</temp_f>
+		<temp_c>0.0</temp_c>
+		<relative_humidity>0</relative_humidity>
+		<wind_string>From the NE at 1.1 MPH </wind_string>
+		<wind_dir>NE</wind_dir>
+		<wind_degrees>45</wind_degrees>
+		<wind_mph>1.1</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.39" (995.1 mb)</pressure_string>
+		<pressure_mb>995.1</pressure_mb>
+		<pressure_in>29.39</pressure_in>
+		<dewpoint_string>32.0 F (0.0 C)</dewpoint_string>
+		<dewpoint_f>32.0</dewpoint_f>
+		<dewpoint_c>0.0</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV>1.1</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISACHSEN44</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=51.800335,11.188073</ob_url>
+	</current_observation>
+

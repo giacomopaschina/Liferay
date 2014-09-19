@@ -1,0 +1,60 @@
+<toc label="IvyDE user documentation">
+    <topic label="Release Notes" href="doc/release-notes.html">
+    </topic>
+    <topic label="License" href="doc/undefined.html">
+    </topic>
+    <topic label="Compatibility" href="doc/compatibility.html">
+    </topic>
+    <topic label="Installation" href="doc/install.html">
+    </topic>
+    <topic label="Classpath Container" href="doc/cp_container.html">
+        <topic label="Create a container" href="doc/cpc/create.html">
+        </topic>
+        <topic label="Edit the classpath" href="doc/cpc/edit.html">
+        </topic>
+        <topic label="Launching resolve" href="doc/cpc/resolve.html">
+        </topic>
+        <topic label="Retrieve dependencies" href="doc/cpc/retrieve.html">
+        </topic>
+        <topic label="Jar mapping" href="doc/cpc/jarmapping.html">
+        </topic>
+        <topic label="Clean the caches" href="doc/cpc/cleancache.html">
+        </topic>
+        <topic label="Resolve in workspace" href="doc/cpc/workspace.html">
+        </topic>
+        <topic label="Launch configuration" href="doc/cpc/launch.html">
+        </topic>
+        <topic label="Use with maven poms" href="doc/cpc/maven.html">
+        </topic>
+        <topic label="WTP integration" href="doc/cpc/wtp.html">
+        </topic>
+    </topic>
+    <topic label="Non-Java dependencies" href="doc/non-java.html">
+    </topic>
+    <topic label="Ivy file editor" href="doc/ivyeditor.html">
+    </topic>
+    <topic label="Ivy settings editor" href="doc/settingseditor.html">
+    </topic>
+    <topic label="Eclipse global preferences" href="doc/preferences.html">
+    </topic>
+    <topic label="Eclipse variables" href="doc/eclipsevar.html">
+    </topic>
+    <topic label="Ivy Console" href="doc/console.html">
+    </topic>
+    <topic label="Eclipse's Ant integration" href="doc/ant.html">
+    </topic>
+    <topic label="Reverse Dependency Explorer" href="doc/revdepexplorer.html">
+    </topic>
+    <topic label="Resolve Visualizer" href="doc/resolve-visualizer.html">
+    </topic>
+    <topic label="Developer doc" href="doc/dev.html">
+        <topic label="Building" href="doc/dev/build.html">
+        </topic>
+        <topic label="Releasing" href="doc/dev/release.html">
+        </topic>
+        <topic label="Updatesite" href="doc/dev/updatesite.html">
+        </topic>
+        <topic label="Development Environment Setup" href="doc/dev/dev-env-setup.html">
+        </topic>
+    </topic>
+</toc>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Mary River Camp, Baffin Island, NUNAVUT</full>
+		<neighborhood>Mary River Camp</neighborhood>
+		<city>Baffin Island</city>
+		<state>NUNAVUT</state>
+		<zip></zip>
+		<latitude>71.326874</latitude>
+		<longitude>-79.375183</longitude>
+		<elevation>600 ft</elevation>
+		</location>
+		<station_id>INUNAVUT2</station_id>
+		<station_type>Davis Vantage Vue</station_type>
+		<observation_time>Last Updated on December 4, 6:37 AM EST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:37:34 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>-5.3 F (-20.7 C)</temperature_string>
+		<temp_f>-5.3</temp_f>
+		<temp_c>-20.7</temp_c>
+		<relative_humidity>76</relative_humidity>
+		<wind_string>From the ENE at 11.0 MPH Gusting to 13.0 MPH</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>61</wind_degrees>
+		<wind_mph>11.0</wind_mph>
+		<wind_gust_mph>13.0</wind_gust_mph>
+		<pressure_string>30.20" (1022.6 mb)</pressure_string>
+		<pressure_mb>1022.6</pressure_mb>
+		<pressure_in>30.20</pressure_in>
+		<dewpoint_string>-10.9 F (-23.8 C)</dewpoint_string>
+		<dewpoint_f>-10.9</dewpoint_f>
+		<dewpoint_c>-23.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>-23 F (-31 C)</windchill_string>
+		<windchill_f>-23</windchill_f>
+		<windchill_c>-31</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INUNAVUT2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=71.326874,-79.375183</ob_url>
+	</current_observation>
+

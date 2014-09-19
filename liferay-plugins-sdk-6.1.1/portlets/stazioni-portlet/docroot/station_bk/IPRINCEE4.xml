@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Winter Bay Observatory, Millcove, PRINCE EDWARD ISLAND</full>
+		<neighborhood>Winter Bay Observatory</neighborhood>
+		<city>Millcove</city>
+		<state>PRINCE EDWARD ISLAND</state>
+		<zip></zip>
+		<latitude>46.373955</latitude>
+		<longitude>-63.034664</longitude>
+		<elevation>150 ft</elevation>
+		</location>
+		<station_id>IPRINCEE4</station_id>
+		<station_type>Davis Vantage Vue</station_type>
+		<observation_time>Last Updated on December 4, 7:35 AM AST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:35:18 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>34.2 F (1.2 C)</temperature_string>
+		<temp_f>34.2</temp_f>
+		<temp_c>1.2</temp_c>
+		<relative_humidity>98</relative_humidity>
+		<wind_string>From the NNW at 7.0 MPH Gusting to 15.0 MPH</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>332</wind_degrees>
+		<wind_mph>7.0</wind_mph>
+		<wind_gust_mph>15.0</wind_gust_mph>
+		<pressure_string>29.45" (997.2 mb)</pressure_string>
+		<pressure_mb>997.2</pressure_mb>
+		<pressure_in>29.45</pressure_in>
+		<dewpoint_string>33.7 F (0.9 C)</dewpoint_string>
+		<dewpoint_f>33.7</dewpoint_f>
+		<dewpoint_c>0.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>28 F (-2 C)</windchill_string>
+		<windchill_f>28</windchill_f>
+		<windchill_c>-2</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>1.86 in (4.7 cm)</precip_today_string>
+		<precip_today_in>1.86</precip_today_in>
+		<precip_today_metric>4.7 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IPRINCEE4</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=46.373955,-63.034664</ob_url>
+	</current_observation>
+

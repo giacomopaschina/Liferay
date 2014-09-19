@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Dakota Crossing, Winnipeg, MANITOBA</full>
+		<neighborhood>Dakota Crossing</neighborhood>
+		<city>Winnipeg</city>
+		<state>MANITOBA</state>
+		<zip></zip>
+		<latitude>49.819328</latitude>
+		<longitude>-97.094452</longitude>
+		<elevation>-107507 ft</elevation>
+		</location>
+		<station_id>IMANITOB70</station_id>
+		<station_type>LaCrosse</station_type>
+		<observation_time>Last Updated on December 4, 5:37 AM CST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:37:15 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>15.1 F (-9.4 C)</temperature_string>
+		<temp_f>15.1</temp_f>
+		<temp_c>-9.4</temp_c>
+		<relative_humidity>83</relative_humidity>
+		<wind_string>From the NE at 7.2 MPH Gusting to 12.1 MPH</wind_string>
+		<wind_dir>NE</wind_dir>
+		<wind_degrees>45</wind_degrees>
+		<wind_mph>7.2</wind_mph>
+		<wind_gust_mph>12.1</wind_gust_mph>
+		<pressure_string>30.02" (1016.5 mb)</pressure_string>
+		<pressure_mb>1016.5</pressure_mb>
+		<pressure_in>30.02</pressure_in>
+		<dewpoint_string>10.9 F (-11.7 C)</dewpoint_string>
+		<dewpoint_f>10.9</dewpoint_f>
+		<dewpoint_c>-11.7</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>5 F (-15 C)</windchill_string>
+		<windchill_f>5</windchill_f>
+		<windchill_c>-15</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IMANITOB70</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=49.819328,-97.094452</ob_url>
+	</current_observation>
+

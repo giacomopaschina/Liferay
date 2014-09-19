@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Kerpen, NORDRHEIN-WESTFALEN</full>
+		<neighborhood></neighborhood>
+		<city>Kerpen</city>
+		<state>NORDRHEIN-WESTFALEN</state>
+		<zip></zip>
+		<latitude>50.874180</latitude>
+		<longitude>6.702750</longitude>
+		<elevation>259 ft</elevation>
+		</location>
+		<station_id>INORDRHE161</station_id>
+		<station_type>TFA Nexus</station_type>
+		<observation_time>Last Updated on June 15, 12:00 AM CEST</observation_time>
+		<observation_time_rfc822>Sat, 14 Jun 2014 22:00:30 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>63.5 F (17.5 C)</temperature_string>
+		<temp_f>63.5</temp_f>
+		<temp_c>17.5</temp_c>
+		<relative_humidity>69</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>360</wind_degrees>
+		<wind_mph>0.1</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>30.15" (1020.9 mb)</pressure_string>
+		<pressure_mb>1020.9</pressure_mb>
+		<pressure_in>30.15</pressure_in>
+		<dewpoint_string>53.1 F (11.7 C)</dewpoint_string>
+		<dewpoint_f>53.1</dewpoint_f>
+		<dewpoint_c>11.7</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV>1.4</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INORDRHE161</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=50.874180,6.702750</ob_url>
+	</current_observation>
+

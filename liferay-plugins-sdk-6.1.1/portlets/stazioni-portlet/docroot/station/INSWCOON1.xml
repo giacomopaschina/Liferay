@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>EPSO, Coonabarabran, NSW</full>
+		<neighborhood>EPSO</neighborhood>
+		<city>Coonabarabran</city>
+		<state>NSW</state>
+		<zip></zip>
+		<latitude>-31.260059</latitude>
+		<longitude>149.220856</longitude>
+		<elevation>1856 ft</elevation>
+		</location>
+		<station_id>INSWCOON1</station_id>
+		<station_type>La Crosse WS-3610</station_type>
+		<observation_time>Last Updated on June 18, 10:00 PM EST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:00:01 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>43.5 F (6.4 C)</temperature_string>
+		<temp_f>43.5</temp_f>
+		<temp_c>6.4</temp_c>
+		<relative_humidity>88</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>NE</wind_dir>
+		<wind_degrees>45</wind_degrees>
+		<wind_mph>0.1</wind_mph>
+		<wind_gust_mph>1.6</wind_gust_mph>
+		<pressure_string>30.36" (1028.0 mb)</pressure_string>
+		<pressure_mb>1028.0</pressure_mb>
+		<pressure_in>30.36</pressure_in>
+		<dewpoint_string>40.2 F (4.6 C)</dewpoint_string>
+		<dewpoint_f>40.2</dewpoint_f>
+		<dewpoint_c>4.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INSWCOON1</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-31.260059,149.220856</ob_url>
+	</current_observation>
+

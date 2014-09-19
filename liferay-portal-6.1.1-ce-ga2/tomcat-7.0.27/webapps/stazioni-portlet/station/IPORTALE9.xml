@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Urbanizacao Lysias, Portalegre, PORTALEGRE</full>
+		<neighborhood>Urbanizacao Lysias</neighborhood>
+		<city>Portalegre</city>
+		<state>PORTALEGRE</state>
+		<zip></zip>
+		<latitude>39.276474</latitude>
+		<longitude>-7.424834</longitude>
+		<elevation>1293 ft</elevation>
+		</location>
+		<station_id>IPORTALE9</station_id>
+		<station_type>PCE FWS-20</station_type>
+		<observation_time>Last Updated on June 12, 5:31 PM WEST</observation_time>
+		<observation_time_rfc822>Thu, 12 Jun 2014 16:31:08 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>93.2 F (34.0 C)</temperature_string>
+		<temp_f>93.2</temp_f>
+		<temp_c>34.0</temp_c>
+		<relative_humidity>25</relative_humidity>
+		<wind_string>From the ENE at 3.8 MPH Gusting to 11.4 MPH</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>58</wind_degrees>
+		<wind_mph>3.8</wind_mph>
+		<wind_gust_mph>11.4</wind_gust_mph>
+		<pressure_string>30.05" (1017.5 mb)</pressure_string>
+		<pressure_mb>1017.5</pressure_mb>
+		<pressure_in>30.05</pressure_in>
+		<dewpoint_string>52.2 F (11.2 C)</dewpoint_string>
+		<dewpoint_f>52.2</dewpoint_f>
+		<dewpoint_c>11.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IPORTALE9</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=39.276474,-7.424834</ob_url>
+	</current_observation>
+

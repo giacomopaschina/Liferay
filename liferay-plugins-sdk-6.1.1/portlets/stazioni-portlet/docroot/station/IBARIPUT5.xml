@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Putignano (BA), Putignano, zona Parco Grande, Bari</full>
+		<neighborhood>Putignano (BA)</neighborhood>
+		<city>Putignano, zona Parco Grande</city>
+		<state>Bari</state>
+		<zip></zip>
+		<latitude>40.824333</latitude>
+		<longitude>17.114639</longitude>
+		<elevation>1099 ft</elevation>
+		</location>
+		<station_id>IBARIPUT5</station_id>
+		<station_type>Davis Vantage Pro 2</station_type>
+		<observation_time>Last Updated on June 18, 2:42 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:42:04 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>58.8 F (14.9 C)</temperature_string>
+		<temp_f>58.8</temp_f>
+		<temp_c>14.9</temp_c>
+		<relative_humidity>93</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>32767</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.90" (1012.4 mb)</pressure_string>
+		<pressure_mb>1012.4</pressure_mb>
+		<pressure_in>29.90</pressure_in>
+		<dewpoint_string>56.8 F (13.8 C)</dewpoint_string>
+		<dewpoint_f>56.8</dewpoint_f>
+		<dewpoint_c>13.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.55 in (1.4 mm)</precip_1hr_string>
+		<precip_1hr_in>0.55</precip_1hr_in>
+		<precip_1hr_metric>1.4</precip_1hr_metric>
+		<precip_today_string>0.63 in (1.6 cm)</precip_today_string>
+		<precip_today_in>0.63</precip_today_in>
+		<precip_today_metric>1.6 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBARIPUT5</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=40.824333,17.114639</ob_url>
+	</current_observation>
+

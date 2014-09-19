@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Massey, West Auckland, Auckland</full>
+		<neighborhood>Massey</neighborhood>
+		<city>West Auckland</city>
+		<state>Auckland</state>
+		<zip></zip>
+		<latitude>-36.841164</latitude>
+		<longitude>174.625107</longitude>
+		<elevation>42 ft</elevation>
+		</location>
+		<station_id>IWAITAKE1</station_id>
+		<station_type>La CrosseWS2355</station_type>
+		<observation_time>Last Updated on June 19, 12:46 AM NZST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:46:06 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>49.5 F (9.7 C)</temperature_string>
+		<temp_f>49.5</temp_f>
+		<temp_c>9.7</temp_c>
+		<relative_humidity>87</relative_humidity>
+		<wind_string>From the SW at 2.3 MPH </wind_string>
+		<wind_dir>SW</wind_dir>
+		<wind_degrees>225</wind_degrees>
+		<wind_mph>2.3</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.80" (1009.0 mb)</pressure_string>
+		<pressure_mb>1009.0</pressure_mb>
+		<pressure_in>29.80</pressure_in>
+		<dewpoint_string>45.8 F (7.7 C)</dewpoint_string>
+		<dewpoint_f>45.8</dewpoint_f>
+		<dewpoint_c>7.7</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IWAITAKE1</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-36.841164,174.625107</ob_url>
+	</current_observation>
+

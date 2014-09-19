@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Valsassina, Barzio, (LC)</full>
+		<neighborhood>Valsassina</neighborhood>
+		<city>Barzio</city>
+		<state>(LC)</state>
+		<zip></zip>
+		<latitude>45.933514</latitude>
+		<longitude>9.490000</longitude>
+		<elevation>3589 ft</elevation>
+		</location>
+		<station_id>IBARZIO(1</station_id>
+		<station_type>Davis Vantage Pro</station_type>
+		<observation_time>Last Updated on May 22, 6:30 PM CEST</observation_time>
+		<observation_time_rfc822>Thu, 22 May 2014 16:30:24 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>-999.0 F (-572.8 C)</temperature_string>
+		<temp_f>-999.0</temp_f>
+		<temp_c>-572.8</temp_c>
+		<relative_humidity>81</relative_humidity>
+		<wind_string>From the South at 2.0 MPH Gusting to 10.0 MPH</wind_string>
+		<wind_dir>South</wind_dir>
+		<wind_degrees>180</wind_degrees>
+		<wind_mph>2.0</wind_mph>
+		<wind_gust_mph>10.0</wind_gust_mph>
+		<pressure_string>29.87" (1011.4 mb)</pressure_string>
+		<pressure_mb>1011.4</pressure_mb>
+		<pressure_in>29.87</pressure_in>
+		<dewpoint_string>-999.0 F (-572.8 C)</dewpoint_string>
+		<dewpoint_f>-999.0</dewpoint_f>
+		<dewpoint_c>-572.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.06 in (0.2 mm)</precip_1hr_string>
+		<precip_1hr_in>0.06</precip_1hr_in>
+		<precip_1hr_metric>0.2</precip_1hr_metric>
+		<precip_today_string>-999.00 in (-2537.5 cm)</precip_today_string>
+		<precip_today_in>-999.00</precip_today_in>
+		<precip_today_metric>-2537.5 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBARZIO(1</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.933514,9.490000</ob_url>
+	</current_observation>
+

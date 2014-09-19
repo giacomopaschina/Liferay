@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, , </full>
+		<neighborhood></neighborhood>
+		<city></city>
+		<state></state>
+		<zip></zip>
+		<latitude></latitude>
+		<longitude></longitude>
+		<elevation> ft</elevation>
+		</location>
+		<station_id>#WXSTATION.CUR.StationID</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on , </observation_time>
+		<observation_time_rfc822>, ::0 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string> F ( C)</temperature_string>
+		<temp_f></temp_f>
+		<temp_c></temp_c>
+		<relative_humidity></relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir></wind_dir>
+		<wind_degrees></wind_degrees>
+		<wind_mph></wind_mph>
+		<wind_gust_mph></wind_gust_mph>
+		<pressure_string>" ( mb)</pressure_string>
+		<pressure_mb></pressure_mb>
+		<pressure_in></pressure_in>
+		<dewpoint_string> F ( C)</dewpoint_string>
+		<dewpoint_f></dewpoint_f>
+		<dewpoint_c></dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string> in ( mm)</precip_1hr_string>
+		<precip_1hr_in></precip_1hr_in>
+		<precip_1hr_metric></precip_1hr_metric>
+		<precip_today_string> in ( )</precip_today_string>
+		<precip_today_in></precip_today_in>
+		<precip_today_metric> </precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=#WXSTATION.CUR.StationID</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=,</ob_url>
+	</current_observation>
+

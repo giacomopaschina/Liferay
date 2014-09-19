@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Strensall, York, NORTH YORKSHIRE</full>
+		<neighborhood>Strensall</neighborhood>
+		<city>York</city>
+		<state>NORTH YORKSHIRE</state>
+		<zip></zip>
+		<latitude>54.032600</latitude>
+		<longitude>-1.039100</longitude>
+		<elevation>62 ft</elevation>
+		</location>
+		<station_id>INORTHYO6</station_id>
+		<station_type>Irox TE923</station_type>
+		<observation_time>Last Updated on June 18, 12:21 AM BST</observation_time>
+		<observation_time_rfc822>Tue, 17 Jun 2014 23:21:09 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>60.1 F (15.6 C)</temperature_string>
+		<temp_f>60.1</temp_f>
+		<temp_c>15.6</temp_c>
+		<relative_humidity>65</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>337</wind_degrees>
+		<wind_mph>0.4</wind_mph>
+		<wind_gust_mph>1.3</wind_gust_mph>
+		<pressure_string>30.26" (1024.6 mb)</pressure_string>
+		<pressure_mb>1024.6</pressure_mb>
+		<pressure_in>30.26</pressure_in>
+		<dewpoint_string>48.3 F (9.1 C)</dewpoint_string>
+		<dewpoint_f>48.3</dewpoint_f>
+		<dewpoint_c>9.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INORTHYO6</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=54.032600,-1.039100</ob_url>
+	</current_observation>
+

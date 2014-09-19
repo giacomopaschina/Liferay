@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Blagoevgrad, Blagoevgrad, Blagoevgrad</full>
+		<neighborhood>Blagoevgrad</neighborhood>
+		<city>Blagoevgrad</city>
+		<state>Blagoevgrad</state>
+		<zip></zip>
+		<latitude>42.018097</latitude>
+		<longitude>23.098194</longitude>
+		<elevation>1257 ft</elevation>
+		</location>
+		<station_id>IBLAGOEV14</station_id>
+		<station_type>Matrix-TFA, Kat. No 35.1034</station_type>
+		<observation_time>Last Updated on June 18, 4:08 PM EEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:08:34 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>78.6 F (25.9 C)</temperature_string>
+		<temp_f>78.6</temp_f>
+		<temp_c>25.9</temp_c>
+		<relative_humidity>53</relative_humidity>
+		<wind_string>From the SSW at 10.4 MPH Gusting to 10.4 MPH</wind_string>
+		<wind_dir>SSW</wind_dir>
+		<wind_degrees>202</wind_degrees>
+		<wind_mph>10.4</wind_mph>
+		<wind_gust_mph>10.4</wind_gust_mph>
+		<pressure_string>29.81" (1009.4 mb)</pressure_string>
+		<pressure_mb>1009.4</pressure_mb>
+		<pressure_in>29.81</pressure_in>
+		<dewpoint_string>60.1 F (15.6 C)</dewpoint_string>
+		<dewpoint_f>60.1</dewpoint_f>
+		<dewpoint_c>15.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.23 in (0.6 cm)</precip_today_string>
+		<precip_today_in>0.23</precip_today_in>
+		<precip_today_metric>0.6 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBLAGOEV14</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=42.018097,23.098194</ob_url>
+	</current_observation>
+

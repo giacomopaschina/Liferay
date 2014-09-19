@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>the Rocks at Cribbons, Antigonish, NOVA SCOTIA</full>
+		<neighborhood>the Rocks at Cribbons</neighborhood>
+		<city>Antigonish</city>
+		<state>NOVA SCOTIA</state>
+		<zip></zip>
+		<latitude>45.758076</latitude>
+		<longitude>-61.897400</longitude>
+		<elevation>69 ft</elevation>
+		</location>
+		<station_id>INOVASCO84</station_id>
+		<station_type>other</station_type>
+		<observation_time>Last Updated on December 4, 7:37 AM AST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:37:37 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>37.8 F (3.2 C)</temperature_string>
+		<temp_f>37.8</temp_f>
+		<temp_c>3.2</temp_c>
+		<relative_humidity>98</relative_humidity>
+		<wind_string>From the NW at 22.8 MPH Gusting to 39.6 MPH</wind_string>
+		<wind_dir>NW</wind_dir>
+		<wind_degrees>314</wind_degrees>
+		<wind_mph>22.8</wind_mph>
+		<wind_gust_mph>39.6</wind_gust_mph>
+		<pressure_string>29.95" (1014.1 mb)</pressure_string>
+		<pressure_mb>1014.1</pressure_mb>
+		<pressure_in>29.95</pressure_in>
+		<dewpoint_string>37.2 F (2.9 C)</dewpoint_string>
+		<dewpoint_f>37.2</dewpoint_f>
+		<dewpoint_c>2.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>27 F (-3 C)</windchill_string>
+		<windchill_f>27</windchill_f>
+		<windchill_c>-3</windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>1.11 in (2.8 mm)</precip_1hr_string>
+		<precip_1hr_in>1.11</precip_1hr_in>
+		<precip_1hr_metric>2.8</precip_1hr_metric>
+		<precip_today_string>310.60 in (788.9 cm)</precip_today_string>
+		<precip_today_in>310.60</precip_today_in>
+		<precip_today_metric>788.9 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INOVASCO84</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.758076,-61.897400</ob_url>
+	</current_observation>
+

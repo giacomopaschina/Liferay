@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Besate, LOMBARDIA</full>
+		<neighborhood></neighborhood>
+		<city>Besate</city>
+		<state>LOMBARDIA</state>
+		<zip></zip>
+		<latitude>45.308235</latitude>
+		<longitude>8.971210</longitude>
+		<elevation>335 ft</elevation>
+		</location>
+		<station_id>ILOMBARD57</station_id>
+		<station_type>WeatherWise 3081H</station_type>
+		<observation_time>Last Updated on December 4, 12:14 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:14:03 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>42.8 F (6.0 C)</temperature_string>
+		<temp_f>42.8</temp_f>
+		<temp_c>6.0</temp_c>
+		<relative_humidity>85</relative_humidity>
+		<wind_string>From the WSW at 1.0 MPH Gusting to 3.0 MPH</wind_string>
+		<wind_dir>WSW</wind_dir>
+		<wind_degrees>248</wind_degrees>
+		<wind_mph>1.0</wind_mph>
+		<wind_gust_mph>3.0</wind_gust_mph>
+		<pressure_string>30.19" (1022.2 mb)</pressure_string>
+		<pressure_mb>1022.2</pressure_mb>
+		<pressure_in>30.19</pressure_in>
+		<dewpoint_string>38.6 F (3.7 C)</dewpoint_string>
+		<dewpoint_f>38.6</dewpoint_f>
+		<dewpoint_c>3.7</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>421</solar_radiation>
+		<UV>1.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ILOMBARD57</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.308235,8.971210</ob_url>
+	</current_observation>
+

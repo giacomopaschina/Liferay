@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Feilding, Feilding, Manawatu-Wanganui</full>
+		<neighborhood>Feilding</neighborhood>
+		<city>Feilding</city>
+		<state>Manawatu-Wanganui</state>
+		<zip></zip>
+		<latitude>-40.225101</latitude>
+		<longitude>175.566879</longitude>
+		<elevation>243 ft</elevation>
+		</location>
+		<station_id>IMANAWAT15</station_id>
+		<station_type>LaCrosse WS-2355</station_type>
+		<observation_time>Last Updated on December 5, 12:57 AM NZDT</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:57:00 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>63.7 F (17.6 C)</temperature_string>
+		<temp_f>63.7</temp_f>
+		<temp_c>17.6</temp_c>
+		<relative_humidity>86</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>ESE</wind_dir>
+		<wind_degrees>123</wind_degrees>
+		<wind_mph>0.7</wind_mph>
+		<wind_gust_mph>2.0</wind_gust_mph>
+		<pressure_string>29.91" (1012.8 mb)</pressure_string>
+		<pressure_mb>1012.8</pressure_mb>
+		<pressure_in>29.91</pressure_in>
+		<dewpoint_string>59.4 F (15.2 C)</dewpoint_string>
+		<dewpoint_f>59.4</dewpoint_f>
+		<dewpoint_c>15.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.19 in (0.5 mm)</precip_1hr_string>
+		<precip_1hr_in>0.19</precip_1hr_in>
+		<precip_1hr_metric>0.5</precip_1hr_metric>
+		<precip_today_string>0.16 in (0.4 cm)</precip_today_string>
+		<precip_today_in>0.16</precip_today_in>
+		<precip_today_metric>0.4 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IMANAWAT15</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-40.225101,175.566879</ob_url>
+	</current_observation>
+

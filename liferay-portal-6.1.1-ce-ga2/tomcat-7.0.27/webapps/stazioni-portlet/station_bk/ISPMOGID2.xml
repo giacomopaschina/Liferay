@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Arua Lagos II - Mastria - LaCrosse, Mogi Das Cruzes, SP</full>
+		<neighborhood>Arua Lagos II - Mastria - LaCrosse</neighborhood>
+		<city>Mogi Das Cruzes</city>
+		<state>SP</state>
+		<zip></zip>
+		<latitude>-23.463881</latitude>
+		<longitude>-46.270294</longitude>
+		<elevation>2474 ft</elevation>
+		</location>
+		<station_id>ISPMOGID2</station_id>
+		<station_type>LA CROSSE WS-2812U-IT</station_type>
+		<observation_time>Last Updated on December 4, 9:20 AM BRST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:20:18 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>72.3 F (22.4 C)</temperature_string>
+		<temp_f>72.3</temp_f>
+		<temp_c>22.4</temp_c>
+		<relative_humidity>83</relative_humidity>
+		<wind_string>From the NE at 2.0 MPH Gusting to 8.0 MPH</wind_string>
+		<wind_dir>NE</wind_dir>
+		<wind_degrees>35</wind_degrees>
+		<wind_mph>2.0</wind_mph>
+		<wind_gust_mph>8.0</wind_gust_mph>
+		<pressure_string>29.83" (1010.0 mb)</pressure_string>
+		<pressure_mb>1010.0</pressure_mb>
+		<pressure_in>29.83</pressure_in>
+		<dewpoint_string>66.9 F (19.4 C)</dewpoint_string>
+		<dewpoint_f>66.9</dewpoint_f>
+		<dewpoint_c>19.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISPMOGID2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-23.463881,-46.270294</ob_url>
+	</current_observation>
+

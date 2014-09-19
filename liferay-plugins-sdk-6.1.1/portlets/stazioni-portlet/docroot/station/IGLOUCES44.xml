@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Chedworth, Chedworth, GLOUCESTERSHIRE</full>
+		<neighborhood>Chedworth</neighborhood>
+		<city>Chedworth</city>
+		<state>GLOUCESTERSHIRE</state>
+		<zip></zip>
+		<latitude>51.802155</latitude>
+		<longitude>-1.923049</longitude>
+		<elevation>702 ft</elevation>
+		</location>
+		<station_id>IGLOUCES44</station_id>
+		<station_type>Davis Vantage Pro</station_type>
+		<observation_time>Last Updated on June 18, 1:47 PM BST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:47:03 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>64.8 F (18.2 C)</temperature_string>
+		<temp_f>64.8</temp_f>
+		<temp_c>18.2</temp_c>
+		<relative_humidity>72</relative_humidity>
+		<wind_string>From the NNE at 2.0 MPH Gusting to 6.0 MPH</wind_string>
+		<wind_dir>NNE</wind_dir>
+		<wind_degrees>30</wind_degrees>
+		<wind_mph>2.0</wind_mph>
+		<wind_gust_mph>6.0</wind_gust_mph>
+		<pressure_string>30.28" (1025.3 mb)</pressure_string>
+		<pressure_mb>1025.3</pressure_mb>
+		<pressure_in>30.28</pressure_in>
+		<dewpoint_string>55.6 F (13.1 C)</dewpoint_string>
+		<dewpoint_f>55.6</dewpoint_f>
+		<dewpoint_c>13.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>236</solar_radiation>
+		<UV>1.4</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IGLOUCES44</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=51.802155,-1.923049</ob_url>
+	</current_observation>
+

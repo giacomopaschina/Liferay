@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Symington, Symington, SOUTH LANARKSHIRE</full>
+		<neighborhood>Symington</neighborhood>
+		<city>Symington</city>
+		<state>SOUTH LANARKSHIRE</state>
+		<zip></zip>
+		<latitude>55.596344</latitude>
+		<longitude>-3.591419</longitude>
+		<elevation>728 ft</elevation>
+		</location>
+		<station_id>ISOUTHLA21</station_id>
+		<station_type>Davis Vantage Vue</station_type>
+		<observation_time>Last Updated on December 4, 12:18 PM GMT</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 12:18:34 GMT</observation_time_rfc822>
+		<weather>RA</weather>
+		<temperature_string>38.2 F (3.4 C)</temperature_string>
+		<temp_f>38.2</temp_f>
+		<temp_c>3.4</temp_c>
+		<relative_humidity>92</relative_humidity>
+		<wind_string>From the WNW at 17.3 MPH Gusting to 17.3 MPH</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>290</wind_degrees>
+		<wind_mph>17.3</wind_mph>
+		<wind_gust_mph>17.3</wind_gust_mph>
+		<pressure_string>30.31" (1026.3 mb)</pressure_string>
+		<pressure_mb>1026.3</pressure_mb>
+		<pressure_in>30.31</pressure_in>
+		<dewpoint_string>36.1 F (2.3 C)</dewpoint_string>
+		<dewpoint_f>36.1</dewpoint_f>
+		<dewpoint_c>2.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>29 F (-2 C)</windchill_string>
+		<windchill_f>29</windchill_f>
+		<windchill_c>-2</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.01 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.01</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.01 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.01</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISOUTHLA21</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=55.596344,-3.591419</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Poslingford, Sudbury, SUFFOLK</full>
+		<neighborhood>Poslingford</neighborhood>
+		<city>Sudbury</city>
+		<state>SUFFOLK</state>
+		<zip></zip>
+		<latitude>52.106998</latitude>
+		<longitude>0.584000</longitude>
+		<elevation>270 ft</elevation>
+		</location>
+		<station_id>ISUFFOLK58</station_id>
+		<station_type>Weather Display</station_type>
+		<observation_time>Last Updated on May 25, 8:39 AM BST</observation_time>
+		<observation_time_rfc822>Sun, 25 May 2014 07:39:45 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>139.6 F (59.8 C)</temperature_string>
+		<temp_f>139.6</temp_f>
+		<temp_c>59.8</temp_c>
+		<relative_humidity>99</relative_humidity>
+		<wind_string>From the SSE at 3.5 MPH Gusting to 3.5 MPH</wind_string>
+		<wind_dir>SSE</wind_dir>
+		<wind_degrees>158</wind_degrees>
+		<wind_mph>3.5</wind_mph>
+		<wind_gust_mph>3.5</wind_gust_mph>
+		<pressure_string>30.00" (1015.8 mb)</pressure_string>
+		<pressure_mb>1015.8</pressure_mb>
+		<pressure_in>30.00</pressure_in>
+		<dewpoint_string>139.3 F (59.6 C)</dewpoint_string>
+		<dewpoint_f>139.3</dewpoint_f>
+		<dewpoint_c>59.6</dewpoint_c>
+		
+		<heat_index_string>629 F (331 C)</heat_index_string>
+		<heat_index_f>629</heat_index_f>
+		<heat_index_c>331</heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISUFFOLK58</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=52.106998,0.584000</ob_url>
+	</current_observation>
+

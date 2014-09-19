@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Fazenda Santa Fe, Morro Agudo</full>
+		<neighborhood></neighborhood>
+		<city>Fazenda Santa Fe</city>
+		<state>Morro Agudo</state>
+		<zip></zip>
+		<latitude>-20.622723</latitude>
+		<longitude>-48.268852</longitude>
+		<elevation>1500 ft</elevation>
+		</location>
+		<station_id>ISAOPAUL16</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on December 4, 9:34 AM BRST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:34:15 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>87.6 F (30.9 C)</temperature_string>
+		<temp_f>87.6</temp_f>
+		<temp_c>30.9</temp_c>
+		<relative_humidity>63</relative_humidity>
+		<wind_string>From the SSE at 4.5 MPH Gusting to 9.8 MPH</wind_string>
+		<wind_dir>SSE</wind_dir>
+		<wind_degrees>168</wind_degrees>
+		<wind_mph>4.5</wind_mph>
+		<wind_gust_mph>9.8</wind_gust_mph>
+		<pressure_string>29.82" (1009.7 mb)</pressure_string>
+		<pressure_mb>1009.7</pressure_mb>
+		<pressure_in>29.82</pressure_in>
+		<dewpoint_string>73.5 F (23.1 C)</dewpoint_string>
+		<dewpoint_f>73.5</dewpoint_f>
+		<dewpoint_c>23.1</dewpoint_c>
+		
+		<heat_index_string>96 F (35 C)</heat_index_string>
+		<heat_index_f>96</heat_index_f>
+		<heat_index_c>35</heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.05 in (0.1 cm)</precip_today_string>
+		<precip_today_in>0.05</precip_today_in>
+		<precip_today_metric>0.1 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISAOPAUL16</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-20.622723,-48.268852</ob_url>
+	</current_observation>
+

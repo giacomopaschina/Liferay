@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Coromandel Town, Preece Point, COROMANDEL</full>
+		<neighborhood>Coromandel Town</neighborhood>
+		<city>Preece Point</city>
+		<state>COROMANDEL</state>
+		<zip></zip>
+		<latitude>-36.774944</latitude>
+		<longitude>175.508789</longitude>
+		<elevation>69 ft</elevation>
+		</location>
+		<station_id>ICOROMAN2</station_id>
+		<station_type>Davis Vantage Pro 2</station_type>
+		<observation_time>Last Updated on June 16, 10:12 PM NZST</observation_time>
+		<observation_time_rfc822>Mon, 16 Jun 2014 10:12:16 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>60.6 F (15.9 C)</temperature_string>
+		<temp_f>60.6</temp_f>
+		<temp_c>15.9</temp_c>
+		<relative_humidity>94</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>0</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>1.0</wind_gust_mph>
+		<pressure_string>29.92" (1013.1 mb)</pressure_string>
+		<pressure_mb>1013.1</pressure_mb>
+		<pressure_in>29.92</pressure_in>
+		<dewpoint_string>58.9 F (14.9 C)</dewpoint_string>
+		<dewpoint_f>58.9</dewpoint_f>
+		<dewpoint_c>14.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.12 in (0.3 mm)</precip_1hr_string>
+		<precip_1hr_in>0.12</precip_1hr_in>
+		<precip_1hr_metric>0.3</precip_1hr_metric>
+		<precip_today_string>0.19 in (0.5 cm)</precip_today_string>
+		<precip_today_in>0.19</precip_today_in>
+		<precip_today_metric>0.5 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ICOROMAN2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-36.774944,175.508789</ob_url>
+	</current_observation>
+

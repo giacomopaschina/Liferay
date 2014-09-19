@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Uithuizermeeden, GRONINGEN</full>
+		<neighborhood></neighborhood>
+		<city>Uithuizermeeden</city>
+		<state>GRONINGEN</state>
+		<zip></zip>
+		<latitude>53.417725</latitude>
+		<longitude>6.725564</longitude>
+		<elevation>0 ft</elevation>
+		</location>
+		<station_id>IGRONING16</station_id>
+		<station_type>Davis Pro2</station_type>
+		<observation_time>Last Updated on December 4, 12:52 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:52:41 GMT</observation_time_rfc822>
+		<weather>RA</weather>
+		<temperature_string>45.5 F (7.5 C)</temperature_string>
+		<temp_f>45.5</temp_f>
+		<temp_c>7.5</temp_c>
+		<relative_humidity>99</relative_humidity>
+		<wind_string>From the NNW at 11.5 MPH Gusting to 11.5 MPH</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>341</wind_degrees>
+		<wind_mph>11.5</wind_mph>
+		<wind_gust_mph>11.5</wind_gust_mph>
+		<pressure_string>30.13" (1020.2 mb)</pressure_string>
+		<pressure_mb>1020.2</pressure_mb>
+		<pressure_in>30.13</pressure_in>
+		<dewpoint_string>45.2 F (7.3 C)</dewpoint_string>
+		<dewpoint_f>45.2</dewpoint_f>
+		<dewpoint_c>7.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>40 F (4 C)</windchill_string>
+		<windchill_f>40</windchill_f>
+		<windchill_c>4</windchill_c>
+		
+		<solar_radiation>19</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.04 in (0.1 mm)</precip_1hr_string>
+		<precip_1hr_in>0.04</precip_1hr_in>
+		<precip_1hr_metric>0.1</precip_1hr_metric>
+		<precip_today_string>0.05 in (0.1 cm)</precip_today_string>
+		<precip_today_in>0.05</precip_today_in>
+		<precip_today_metric>0.1 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IGRONING16</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=53.417725,6.725564</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Sarnia, Sherwood, Sarnia, Ontario</full>
+		<neighborhood>Sarnia, Sherwood</neighborhood>
+		<city>Sarnia</city>
+		<state>Ontario</state>
+		<zip></zip>
+		<latitude>42.964237</latitude>
+		<longitude>-82.351784</longitude>
+		<elevation>594 ft</elevation>
+		</location>
+		<station_id>IONTARIO242</station_id>
+		<station_type>Oregon Scientific WMR200A</station_type>
+		<observation_time>Last Updated on June 18, 9:15 AM EDT</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:15:16 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>62.8 F (17.1 C)</temperature_string>
+		<temp_f>62.8</temp_f>
+		<temp_c>17.1</temp_c>
+		<relative_humidity>96</relative_humidity>
+		<wind_string>From the WSW at 1.6 MPH Gusting to 3.5 MPH</wind_string>
+		<wind_dir>WSW</wind_dir>
+		<wind_degrees>248</wind_degrees>
+		<wind_mph>1.6</wind_mph>
+		<wind_gust_mph>3.5</wind_gust_mph>
+		<pressure_string>30.06" (1017.8 mb)</pressure_string>
+		<pressure_mb>1017.8</pressure_mb>
+		<pressure_in>30.06</pressure_in>
+		<dewpoint_string>61.6 F (16.4 C)</dewpoint_string>
+		<dewpoint_f>61.6</dewpoint_f>
+		<dewpoint_c>16.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.13 in (0.3 mm)</precip_1hr_string>
+		<precip_1hr_in>0.13</precip_1hr_in>
+		<precip_1hr_metric>0.3</precip_1hr_metric>
+		<precip_today_string>0.13 in (0.3 cm)</precip_today_string>
+		<precip_today_in>0.13</precip_today_in>
+		<precip_today_metric>0.3 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IONTARIO242</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=42.964237,-82.351784</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Mantova, Porto Mantovano, Lombardia</full>
+		<neighborhood>Mantova</neighborhood>
+		<city>Porto Mantovano</city>
+		<state>Lombardia</state>
+		<zip></zip>
+		<latitude>45.198643</latitude>
+		<longitude>10.798573</longitude>
+		<elevation>95 ft</elevation>
+		</location>
+		<station_id>IVENETOP15</station_id>
+		<station_type>davis vantage pro2</station_type>
+		<observation_time>Last Updated on June 12, 4:12 AM CEST</observation_time>
+		<observation_time_rfc822>Thu, 12 Jun 2014 02:12:44 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>77.3 F (25.2 C)</temperature_string>
+		<temp_f>77.3</temp_f>
+		<temp_c>25.2</temp_c>
+		<relative_humidity>52</relative_humidity>
+		<wind_string>From the North at 255.3 MPH </wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>0</wind_degrees>
+		<wind_mph>255.3</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>30.06" (1017.8 mb)</pressure_string>
+		<pressure_mb>1017.8</pressure_mb>
+		<pressure_in>30.06</pressure_in>
+		<dewpoint_string>58.3 F (14.6 C)</dewpoint_string>
+		<dewpoint_f>58.3</dewpoint_f>
+		<dewpoint_c>14.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVENETOP15</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.198643,10.798573</ob_url>
+	</current_observation>
+

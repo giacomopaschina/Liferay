@@ -1,0 +1,29 @@
+Buildfile: /home/giacomo/Liferay/liferay-plugins-sdk-6.1.1/portlets/stazioni-portlet/build.xml
+compile:
+merge:
+     [copy] Copying 5 files to /home/giacomo/Liferay/liferay-plugins-sdk-6.1.1/portlets/stazioni-portlet/docroot/WEB-INF/lib
+compile-java:
+merge:
+war:
+build-css:
+     [java] Jul 15, 2014 3:13:24 PM com.liferay.portal.kernel.log.Jdk14LogImpl info
+     [java] INFO: No server detectedLoading jar:file:/home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/ROOT/WEB-INF/lib/portal-impl.jar!/system.properties
+     [java] Jul 15, 2014 3:13:24 PM com.liferay.portal.kernel.log.Jdk14LogImpl info
+     [java] INFO: Global shared lib directory /home/giacomo/Liferay/liferay-plugins-sdk-6.1.1/lib/
+     [java] Jul 15, 2014 3:13:24 PM com.liferay.portal.kernel.log.Jdk14LogImpl info
+     [java] INFO: Global lib directory /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/lib/ext/
+     [java] Jul 15, 2014 3:13:24 PM com.liferay.portal.kernel.log.Jdk14LogImpl info
+     [java] INFO: Portal lib directory /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/ROOT/WEB-INF/lib/
+     [java] Loading jar:file:/home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/ROOT/WEB-INF/lib/portal-impl.jar!/portal.properties
+     [java] Jul 15, 2014 3:13:25 PM com.liferay.portal.kernel.log.Jdk14LogImpl info
+     [java] INFO: Properties for portal loaded from [jar:file:/home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/ROOT/WEB-INF/lib/portal-impl.jar!/portal.properties]
+compile:
+merge:
+compile-java:
+merge:
+build-common-plugin.war:
+   [delete] Deleting: /home/giacomo/Liferay/liferay-plugins-sdk-6.1.1/dist/stazioni-portlet-6.1.1.1.war
+clean-portal-dependencies:
+      [zip] Building zip: /home/giacomo/Liferay/liferay-plugins-sdk-6.1.1/dist/stazioni-portlet-6.1.1.1.war
+BUILD SUCCESSFUL
+Total time: 6 seconds

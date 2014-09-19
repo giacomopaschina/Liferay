@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Tijuana B.C., Tijuana, BAJA CALIFORNIA</full>
+		<neighborhood>Tijuana B.C.</neighborhood>
+		<city>Tijuana</city>
+		<state>BAJA CALIFORNIA</state>
+		<zip></zip>
+		<latitude>32.526657</latitude>
+		<longitude>-117.107361</longitude>
+		<elevation>184 ft</elevation>
+		</location>
+		<station_id>IBAJACAL52</station_id>
+		<station_type>Davis Vantage Pro 2</station_type>
+		<observation_time>Last Updated on December 4, 3:50 AM PST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:50:54 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>56.8 F (13.8 C)</temperature_string>
+		<temp_f>56.8</temp_f>
+		<temp_c>13.8</temp_c>
+		<relative_humidity>72</relative_humidity>
+		<wind_string>From the West at 4.0 MPH Gusting to 15.0 MPH</wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>279</wind_degrees>
+		<wind_mph>4.0</wind_mph>
+		<wind_gust_mph>15.0</wind_gust_mph>
+		<pressure_string>29.68" (1005.0 mb)</pressure_string>
+		<pressure_mb>1005.0</pressure_mb>
+		<pressure_in>29.68</pressure_in>
+		<dewpoint_string>48.0 F (8.9 C)</dewpoint_string>
+		<dewpoint_f>48.0</dewpoint_f>
+		<dewpoint_c>8.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBAJACAL52</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=32.526657,-117.107361</ob_url>
+	</current_observation>
+

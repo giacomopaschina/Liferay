@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Glenroy, VIC</full>
+		<neighborhood></neighborhood>
+		<city>Glenroy</city>
+		<state>VIC</state>
+		<zip></zip>
+		<latitude>-37.699200</latitude>
+		<longitude>144.942368</longitude>
+		<elevation>325 ft</elevation>
+		</location>
+		<station_id>IVICGLEN2</station_id>
+		<station_type>Lacrosse WS-2308</station_type>
+		<observation_time>Last Updated on May 3, 3:20 PM EST</observation_time>
+		<observation_time_rfc822>Sat, 03 May 2014 05:20:02 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>134.4 F (56.9 C)</temperature_string>
+		<temp_f>134.4</temp_f>
+		<temp_c>56.9</temp_c>
+		<relative_humidity>99</relative_humidity>
+		<wind_string>From the SW at 6.0 MPH Gusting to 8.7 MPH</wind_string>
+		<wind_dir>SW</wind_dir>
+		<wind_degrees>225</wind_degrees>
+		<wind_mph>6.0</wind_mph>
+		<wind_gust_mph>8.7</wind_gust_mph>
+		<pressure_string>29.52" (999.5 mb)</pressure_string>
+		<pressure_mb>999.5</pressure_mb>
+		<pressure_in>29.52</pressure_in>
+		<dewpoint_string>134.1 F (56.7 C)</dewpoint_string>
+		<dewpoint_f>134.1</dewpoint_f>
+		<dewpoint_c>56.7</dewpoint_c>
+		
+		<heat_index_string>554 F (290 C)</heat_index_string>
+		<heat_index_f>554</heat_index_f>
+		<heat_index_c>290</heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.08 in (0.2 mm)</precip_1hr_string>
+		<precip_1hr_in>0.08</precip_1hr_in>
+		<precip_1hr_metric>0.2</precip_1hr_metric>
+		<precip_today_string>0.08 in (0.2 cm)</precip_today_string>
+		<precip_today_in>0.08</precip_today_in>
+		<precip_today_metric>0.2 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVICGLEN2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-37.699200,144.942368</ob_url>
+	</current_observation>
+

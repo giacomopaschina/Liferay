@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, ALCALA DE HENARES, COMUNIDAD DE MADRID</full>
+		<neighborhood></neighborhood>
+		<city>ALCALA DE HENARES</city>
+		<state>COMUNIDAD DE MADRID</state>
+		<zip></zip>
+		<latitude>40.499687</latitude>
+		<longitude>-3.362767</longitude>
+		<elevation>1991 ft</elevation>
+		</location>
+		<station_id>ICOMUNID138</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on June 18, 2:55 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:55:08 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>83.4 F (28.6 C)</temperature_string>
+		<temp_f>83.4</temp_f>
+		<temp_c>28.6</temp_c>
+		<relative_humidity>23</relative_humidity>
+		<wind_string>From the NNW at 3.0 MPH Gusting to 6.0 MPH</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>338</wind_degrees>
+		<wind_mph>3.0</wind_mph>
+		<wind_gust_mph>6.0</wind_gust_mph>
+		<pressure_string>29.76" (1007.7 mb)</pressure_string>
+		<pressure_mb>1007.7</pressure_mb>
+		<pressure_in>29.76</pressure_in>
+		<dewpoint_string>41.7 F (5.4 C)</dewpoint_string>
+		<dewpoint_f>41.7</dewpoint_f>
+		<dewpoint_c>5.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ICOMUNID138</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=40.499687,-3.362767</ob_url>
+	</current_observation>
+

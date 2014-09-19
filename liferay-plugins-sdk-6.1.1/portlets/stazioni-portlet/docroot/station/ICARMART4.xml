@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Llanelli, CARMARTHENSHIRE</full>
+		<neighborhood></neighborhood>
+		<city>Llanelli</city>
+		<state>CARMARTHENSHIRE</state>
+		<zip></zip>
+		<latitude>51.679951</latitude>
+		<longitude>-4.140789</longitude>
+		<elevation>40 ft</elevation>
+		</location>
+		<station_id>ICARMART4</station_id>
+		<station_type>Davis VP2 with Fars.</station_type>
+		<observation_time>Last Updated on June 18, 1:43 PM BST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:43:40 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>68.4 F (20.2 C)</temperature_string>
+		<temp_f>68.4</temp_f>
+		<temp_c>20.2</temp_c>
+		<relative_humidity>71</relative_humidity>
+		<wind_string>From the SW at 6.4 MPH Gusting to 11.5 MPH</wind_string>
+		<wind_dir>SW</wind_dir>
+		<wind_degrees>220</wind_degrees>
+		<wind_mph>6.4</wind_mph>
+		<wind_gust_mph>11.5</wind_gust_mph>
+		<pressure_string>30.33" (1027.0 mb)</pressure_string>
+		<pressure_mb>1027.0</pressure_mb>
+		<pressure_in>30.33</pressure_in>
+		<dewpoint_string>58.6 F (14.8 C)</dewpoint_string>
+		<dewpoint_f>58.6</dewpoint_f>
+		<dewpoint_c>14.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ICARMART4</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=51.679951,-4.140789</ob_url>
+	</current_observation>
+

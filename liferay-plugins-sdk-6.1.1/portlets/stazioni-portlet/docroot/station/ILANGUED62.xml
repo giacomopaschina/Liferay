@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Vias, Vias, LANGUEDOC-ROUSSILLON</full>
+		<neighborhood>Vias</neighborhood>
+		<city>Vias</city>
+		<state>LANGUEDOC-ROUSSILLON</state>
+		<zip></zip>
+		<latitude>43.313160</latitude>
+		<longitude>3.413407</longitude>
+		<elevation>56 ft</elevation>
+		</location>
+		<station_id>ILANGUED62</station_id>
+		<station_type>WMR 200</station_type>
+		<observation_time>Last Updated on June 17, 7:21 PM CEST</observation_time>
+		<observation_time_rfc822>Tue, 17 Jun 2014 17:21:38 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>69.3 F (20.7 C)</temperature_string>
+		<temp_f>69.3</temp_f>
+		<temp_c>20.7</temp_c>
+		<relative_humidity>66</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>South</wind_dir>
+		<wind_degrees>180</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.94" (1013.8 mb)</pressure_string>
+		<pressure_mb>1013.8</pressure_mb>
+		<pressure_in>29.94</pressure_in>
+		<dewpoint_string>57.4 F (14.1 C)</dewpoint_string>
+		<dewpoint_f>57.4</dewpoint_f>
+		<dewpoint_c>14.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.47 in (1.2 mm)</precip_1hr_string>
+		<precip_1hr_in>0.47</precip_1hr_in>
+		<precip_1hr_metric>1.2</precip_1hr_metric>
+		<precip_today_string>0.05 in (0.1 cm)</precip_today_string>
+		<precip_today_in>0.05</precip_today_in>
+		<precip_today_metric>0.1 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ILANGUED62</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=43.313160,3.413407</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Southside, Fredericton, New Brunswick</full>
+		<neighborhood>Southside</neighborhood>
+		<city>Fredericton</city>
+		<state>New Brunswick</state>
+		<zip></zip>
+		<latitude>45.953491</latitude>
+		<longitude>-66.690926</longitude>
+		<elevation>226 ft</elevation>
+		</location>
+		<station_id>INEWBRUN21</station_id>
+		<station_type>Acurite 5 in 1</station_type>
+		<observation_time>Last Updated on February 17, 1:12 PM AST</observation_time>
+		<observation_time_rfc822>Mon, 17 Feb 2014 17:12:33 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>17.1 F (-8.3 C)</temperature_string>
+		<temp_f>17.1</temp_f>
+		<temp_c>-8.3</temp_c>
+		<relative_humidity>80</relative_humidity>
+		<wind_string>From the NW at 8.3 MPH </wind_string>
+		<wind_dir>NW</wind_dir>
+		<wind_degrees>315</wind_degrees>
+		<wind_mph>8.3</wind_mph>
+		<wind_gust_mph>-999.0</wind_gust_mph>
+		<pressure_string>29.84" (1010.4 mb)</pressure_string>
+		<pressure_mb>1010.4</pressure_mb>
+		<pressure_in>29.84</pressure_in>
+		<dewpoint_string>12.0 F (-11.1 C)</dewpoint_string>
+		<dewpoint_f>12.0</dewpoint_f>
+		<dewpoint_c>-11.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>6 F (-14 C)</windchill_string>
+		<windchill_f>6</windchill_f>
+		<windchill_c>-14</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>-999.00 in (-2537.5 mm)</precip_1hr_string>
+		<precip_1hr_in>-999.00</precip_1hr_in>
+		<precip_1hr_metric>-2537.5</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INEWBRUN21</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.953491,-66.690926</ob_url>
+	</current_observation>
+

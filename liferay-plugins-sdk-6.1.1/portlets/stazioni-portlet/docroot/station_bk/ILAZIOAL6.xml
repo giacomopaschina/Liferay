@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Tecchiena di Alatri, LAZIO</full>
+		<neighborhood></neighborhood>
+		<city>Tecchiena di Alatri</city>
+		<state>LAZIO</state>
+		<zip></zip>
+		<latitude>41.682503</latitude>
+		<longitude>13.346879</longitude>
+		<elevation>797 ft</elevation>
+		</location>
+		<station_id>ILAZIOAL6</station_id>
+		<station_type>Davis Vantage Pro 2</station_type>
+		<observation_time>Last Updated on December 4, 12:18 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:18:32 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>54.6 F (12.6 C)</temperature_string>
+		<temp_f>54.6</temp_f>
+		<temp_c>12.6</temp_c>
+		<relative_humidity>68</relative_humidity>
+		<wind_string>From the SSW at 3.5 MPH Gusting to 3.5 MPH</wind_string>
+		<wind_dir>SSW</wind_dir>
+		<wind_degrees>213</wind_degrees>
+		<wind_mph>3.5</wind_mph>
+		<wind_gust_mph>3.5</wind_gust_mph>
+		<pressure_string>30.24" (1023.9 mb)</pressure_string>
+		<pressure_mb>1023.9</pressure_mb>
+		<pressure_in>30.24</pressure_in>
+		<dewpoint_string>44.2 F (6.8 C)</dewpoint_string>
+		<dewpoint_f>44.2</dewpoint_f>
+		<dewpoint_c>6.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>443</solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ILAZIOAL6</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=41.682503,13.346879</ob_url>
+	</current_observation>
+

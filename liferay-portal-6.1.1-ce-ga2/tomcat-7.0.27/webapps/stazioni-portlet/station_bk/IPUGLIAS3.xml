@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Cerfignano, PUGLIA</full>
+		<neighborhood></neighborhood>
+		<city>Cerfignano</city>
+		<state>PUGLIA</state>
+		<zip></zip>
+		<latitude>40.064724</latitude>
+		<longitude>18.444313</longitude>
+		<elevation>0 ft</elevation>
+		</location>
+		<station_id>IPUGLIAS3</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on December 4, 12:19 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:19:57 GMT</observation_time_rfc822>
+		<weather>RA</weather>
+		<temperature_string>56.1 F (13.4 C)</temperature_string>
+		<temp_f>56.1</temp_f>
+		<temp_c>13.4</temp_c>
+		<relative_humidity>69</relative_humidity>
+		<wind_string>From the North at 10.0 MPH Gusting to 17.0 MPH</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>357</wind_degrees>
+		<wind_mph>10.0</wind_mph>
+		<wind_gust_mph>17.0</wind_gust_mph>
+		<pressure_string>30.11" (1019.5 mb)</pressure_string>
+		<pressure_mb>1019.5</pressure_mb>
+		<pressure_in>30.11</pressure_in>
+		<dewpoint_string>46.0 F (7.8 C)</dewpoint_string>
+		<dewpoint_f>46.0</dewpoint_f>
+		<dewpoint_c>7.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.02 in (0.1 cm)</precip_today_string>
+		<precip_today_in>0.02</precip_today_in>
+		<precip_today_metric>0.1 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IPUGLIAS3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=40.064724,18.444313</ob_url>
+	</current_observation>
+

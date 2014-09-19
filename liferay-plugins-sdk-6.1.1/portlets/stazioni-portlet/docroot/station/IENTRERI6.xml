@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>LRI501 Canal10 www.10tv.com.ar, SAN JOSE, ENTRE RIOS ARGENTINA</full>
+		<neighborhood>LRI501 Canal10 www.10tv.com.ar</neighborhood>
+		<city>SAN JOSE</city>
+		<state>ENTRE RIOS ARGENTINA</state>
+		<zip></zip>
+		<latitude>-32.207928</latitude>
+		<longitude>-58.218063</longitude>
+		<elevation>92 ft</elevation>
+		</location>
+		<station_id>IENTRERI6</station_id>
+		<station_type>Canal10 TV - Davis/Sinometer</station_type>
+		<observation_time>Last Updated on June 18, 9:57 AM ART</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:57:09 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>52.0 F (11.1 C)</temperature_string>
+		<temp_f>52.0</temp_f>
+		<temp_c>11.1</temp_c>
+		<relative_humidity>67</relative_humidity>
+		<wind_string>From the SE at 6.2 MPH Gusting to 11.4 MPH</wind_string>
+		<wind_dir>SE</wind_dir>
+		<wind_degrees>131</wind_degrees>
+		<wind_mph>6.2</wind_mph>
+		<wind_gust_mph>11.4</wind_gust_mph>
+		<pressure_string>30.52" (1033.4 mb)</pressure_string>
+		<pressure_mb>1033.4</pressure_mb>
+		<pressure_in>30.52</pressure_in>
+		<dewpoint_string>41.4 F (5.2 C)</dewpoint_string>
+		<dewpoint_f>41.4</dewpoint_f>
+		<dewpoint_c>5.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IENTRERI6</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-32.207928,-58.218063</ob_url>
+	</current_observation>
+

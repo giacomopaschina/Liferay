@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Lodi (San Bernardo), Lodi, Lombardia</full>
+		<neighborhood>Lodi (San Bernardo)</neighborhood>
+		<city>Lodi</city>
+		<state>Lombardia</state>
+		<zip></zip>
+		<latitude>45.299191</latitude>
+		<longitude>9.520555</longitude>
+		<elevation>256 ft</elevation>
+		</location>
+		<station_id>ILOMBARD30</station_id>
+		<station_type>Davis Vantage Pro2 Plus Wireless 24h</station_type>
+		<observation_time>Last Updated on June 18, 2:46 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:46:01 GMT</observation_time_rfc822>
+		<weather>BKN</weather>
+		<temperature_string>76.8 F (24.9 C)</temperature_string>
+		<temp_f>76.8</temp_f>
+		<temp_c>24.9</temp_c>
+		<relative_humidity>51</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>57</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.94" (1013.8 mb)</pressure_string>
+		<pressure_mb>1013.8</pressure_mb>
+		<pressure_in>29.94</pressure_in>
+		<dewpoint_string>57.3 F (14.1 C)</dewpoint_string>
+		<dewpoint_f>57.3</dewpoint_f>
+		<dewpoint_c>14.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>362</solar_radiation>
+		<UV>4.3</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ILOMBARD30</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.299191,9.520555</ob_url>
+	</current_observation>
+

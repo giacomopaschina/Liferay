@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context docBase="/home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/stazioni-portlet" reloadable="true" source="org.eclipse.jst.jee.server:stazioni-portlet"/>

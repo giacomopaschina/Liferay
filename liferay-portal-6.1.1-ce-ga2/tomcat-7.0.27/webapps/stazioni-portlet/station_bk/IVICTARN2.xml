@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Tarnagulla, VIC</full>
+		<neighborhood></neighborhood>
+		<city>Tarnagulla</city>
+		<state>VIC</state>
+		<zip></zip>
+		<latitude>-36.768665</latitude>
+		<longitude>143.829376</longitude>
+		<elevation>660 ft</elevation>
+		</location>
+		<station_id>IVICTARN2</station_id>
+		<station_type>Oregon WMR200</station_type>
+		<observation_time>Last Updated on December 4, 8:51 PM EST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 09:51:38 GMT</observation_time_rfc822>
+		<weather>OVC</weather>
+		<temperature_string>58.5 F (14.7 C)</temperature_string>
+		<temp_f>58.5</temp_f>
+		<temp_c>14.7</temp_c>
+		<relative_humidity>52</relative_humidity>
+		<wind_string>From the SSW at 6.0 MPH Gusting to 6.0 MPH</wind_string>
+		<wind_dir>SSW</wind_dir>
+		<wind_degrees>202</wind_degrees>
+		<wind_mph>6.0</wind_mph>
+		<wind_gust_mph>6.0</wind_gust_mph>
+		<pressure_string>29.20" (988.7 mb)</pressure_string>
+		<pressure_mb>988.7</pressure_mb>
+		<pressure_in>29.20</pressure_in>
+		<dewpoint_string>40.9 F (4.9 C)</dewpoint_string>
+		<dewpoint_f>40.9</dewpoint_f>
+		<dewpoint_c>4.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVICTARN2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-36.768665,143.829376</ob_url>
+	</current_observation>
+

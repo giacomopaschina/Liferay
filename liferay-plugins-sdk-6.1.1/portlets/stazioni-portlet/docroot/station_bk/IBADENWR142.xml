@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Singen, Germany, Engen, BADEN-WüRTTEMBERG</full>
+		<neighborhood>Singen, Germany</neighborhood>
+		<city>Engen</city>
+		<state>BADEN-WüRTTEMBERG</state>
+		<zip></zip>
+		<latitude>47.857780</latitude>
+		<longitude>8.763580</longitude>
+		<elevation>1841 ft</elevation>
+		</location>
+		<station_id>IBADENWR142</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on December 4, 12:45 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:45:12 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>37.4 F (3.0 C)</temperature_string>
+		<temp_f>37.4</temp_f>
+		<temp_c>3.0</temp_c>
+		<relative_humidity>81</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>SSW</wind_dir>
+		<wind_degrees>196</wind_degrees>
+		<wind_mph>0.2</wind_mph>
+		<wind_gust_mph>2.5</wind_gust_mph>
+		<pressure_string>30.23" (1023.6 mb)</pressure_string>
+		<pressure_mb>1023.6</pressure_mb>
+		<pressure_in>30.23</pressure_in>
+		<dewpoint_string>32.2 F (0.1 C)</dewpoint_string>
+		<dewpoint_f>32.2</dewpoint_f>
+		<dewpoint_c>0.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>211</solar_radiation>
+		<UV>1.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBADENWR142</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=47.857780,8.763580</ob_url>
+	</current_observation>
+

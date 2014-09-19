@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Opcina Brinje, Brinje, Licko-Senjska Zupanija</full>
+		<neighborhood>Opcina Brinje</neighborhood>
+		<city>Brinje</city>
+		<state>Licko-Senjska Zupanija</state>
+		<zip></zip>
+		<latitude>45.000401</latitude>
+		<longitude>15.135865</longitude>
+		<elevation>1558 ft</elevation>
+		</location>
+		<station_id>ILICKOSE3</station_id>
+		<station_type>Oregon Scientific WMR100NA</station_type>
+		<observation_time>Last Updated on June 18, 3:17 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:17:33 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>68.4 F (20.2 C)</temperature_string>
+		<temp_f>68.4</temp_f>
+		<temp_c>20.2</temp_c>
+		<relative_humidity>22</relative_humidity>
+		<wind_string>From the NE at 10.1 MPH Gusting to 13.9 MPH</wind_string>
+		<wind_dir>NE</wind_dir>
+		<wind_degrees>45</wind_degrees>
+		<wind_mph>10.1</wind_mph>
+		<wind_gust_mph>13.9</wind_gust_mph>
+		<pressure_string>30.00" (1015.8 mb)</pressure_string>
+		<pressure_mb>1015.8</pressure_mb>
+		<pressure_in>30.00</pressure_in>
+		<dewpoint_string>28.1 F (-2.2 C)</dewpoint_string>
+		<dewpoint_f>28.1</dewpoint_f>
+		<dewpoint_c>-2.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ILICKOSE3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.000401,15.135865</ob_url>
+	</current_observation>
+

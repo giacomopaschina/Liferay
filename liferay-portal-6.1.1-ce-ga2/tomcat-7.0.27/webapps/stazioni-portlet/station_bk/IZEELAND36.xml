@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Kalkoensprenk, Vlissingen, ZEELAND</full>
+		<neighborhood>Kalkoensprenk</neighborhood>
+		<city>Vlissingen</city>
+		<state>ZEELAND</state>
+		<zip></zip>
+		<latitude>51.465294</latitude>
+		<longitude>3.578002</longitude>
+		<elevation>3 ft</elevation>
+		</location>
+		<station_id>IZEELAND36</station_id>
+		<station_type>WS5000</station_type>
+		<observation_time>Last Updated on December 4, 12:50 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:50:09 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>47.7 F (8.7 C)</temperature_string>
+		<temp_f>47.7</temp_f>
+		<temp_c>8.7</temp_c>
+		<relative_humidity>88</relative_humidity>
+		<wind_string>From the WNW at 7.6 MPH Gusting to 7.6 MPH</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>292</wind_degrees>
+		<wind_mph>7.6</wind_mph>
+		<wind_gust_mph>7.6</wind_gust_mph>
+		<pressure_string>30.31" (1026.3 mb)</pressure_string>
+		<pressure_mb>1026.3</pressure_mb>
+		<pressure_in>30.31</pressure_in>
+		<dewpoint_string>44.3 F (6.8 C)</dewpoint_string>
+		<dewpoint_f>44.3</dewpoint_f>
+		<dewpoint_c>6.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>44 F (7 C)</windchill_string>
+		<windchill_f>44</windchill_f>
+		<windchill_c>7</windchill_c>
+		
+		<solar_radiation>25</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IZEELAND36</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=51.465294,3.578002</ob_url>
+	</current_observation>
+

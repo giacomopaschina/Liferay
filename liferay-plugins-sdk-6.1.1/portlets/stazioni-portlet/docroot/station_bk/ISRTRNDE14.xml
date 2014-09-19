@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Kalvskinnet, Trondheim, SoR-TRoNDELAG</full>
+		<neighborhood>Kalvskinnet</neighborhood>
+		<city>Trondheim</city>
+		<state>SoR-TRoNDELAG</state>
+		<zip></zip>
+		<latitude>63.429108</latitude>
+		<longitude>10.382194</longitude>
+		<elevation>60 ft</elevation>
+		</location>
+		<station_id>ISRTRNDE14</station_id>
+		<station_type>WH1080</station_type>
+		<observation_time>Last Updated on December 4, 12:45 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:45:04 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>35.1 F (1.7 C)</temperature_string>
+		<temp_f>35.1</temp_f>
+		<temp_c>1.7</temp_c>
+		<relative_humidity>89</relative_humidity>
+		<wind_string>From the SW at 11.4 MPH Gusting to 14.5 MPH</wind_string>
+		<wind_dir>SW</wind_dir>
+		<wind_degrees>225</wind_degrees>
+		<wind_mph>11.4</wind_mph>
+		<wind_gust_mph>14.5</wind_gust_mph>
+		<pressure_string>29.43" (996.5 mb)</pressure_string>
+		<pressure_mb>996.5</pressure_mb>
+		<pressure_in>29.43</pressure_in>
+		<dewpoint_string>32.2 F (0.1 C)</dewpoint_string>
+		<dewpoint_f>32.2</dewpoint_f>
+		<dewpoint_c>0.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>27 F (-3 C)</windchill_string>
+		<windchill_f>27</windchill_f>
+		<windchill_c>-3</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.02 in (0.1 mm)</precip_1hr_string>
+		<precip_1hr_in>0.02</precip_1hr_in>
+		<precip_1hr_metric>0.1</precip_1hr_metric>
+		<precip_today_string>0.02 in (0.1 cm)</precip_today_string>
+		<precip_today_in>0.02</precip_today_in>
+		<precip_today_metric>0.1 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISRTRNDE14</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=63.429108,10.382194</ob_url>
+	</current_observation>
+

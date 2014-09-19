@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Fleuve St-Laurent, St-Romuald, Levis, QUEBEC</full>
+		<neighborhood>Fleuve St-Laurent, St-Romuald</neighborhood>
+		<city>Levis</city>
+		<state>QUEBEC</state>
+		<zip></zip>
+		<latitude>46.750324</latitude>
+		<longitude>-71.255417</longitude>
+		<elevation>0 ft</elevation>
+		</location>
+		<station_id>IQUBECLV2</station_id>
+		<station_type>Fine Offset</station_type>
+		<observation_time>Last Updated on December 4, 6:40 AM EST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:40:27 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>30.4 F (-0.9 C)</temperature_string>
+		<temp_f>30.4</temp_f>
+		<temp_c>-0.9</temp_c>
+		<relative_humidity>95</relative_humidity>
+		<wind_string>From the East at 14.3 MPH Gusting to 18.3 MPH</wind_string>
+		<wind_dir>East</wind_dir>
+		<wind_degrees>86</wind_degrees>
+		<wind_mph>14.3</wind_mph>
+		<wind_gust_mph>18.3</wind_gust_mph>
+		<pressure_string>29.71" (1006.0 mb)</pressure_string>
+		<pressure_mb>1006.0</pressure_mb>
+		<pressure_in>29.71</pressure_in>
+		<dewpoint_string>29.1 F (-1.6 C)</dewpoint_string>
+		<dewpoint_f>29.1</dewpoint_f>
+		<dewpoint_c>-1.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>20 F (-7 C)</windchill_string>
+		<windchill_f>20</windchill_f>
+		<windchill_c>-7</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IQUBECLV2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=46.750324,-71.255417</ob_url>
+	</current_observation>
+

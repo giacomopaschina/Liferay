@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Odense SV, Odense SV, FYN</full>
+		<neighborhood>Odense SV</neighborhood>
+		<city>Odense SV</city>
+		<state>FYN</state>
+		<zip></zip>
+		<latitude>55.368908</latitude>
+		<longitude>10.351560</longitude>
+		<elevation>72 ft</elevation>
+		</location>
+		<station_id>IFYNODEN2</station_id>
+		<station_type>Vantage PRO 2</station_type>
+		<observation_time>Last Updated on December 4, 12:38 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:38:09 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>44.8 F (7.1 C)</temperature_string>
+		<temp_f>44.8</temp_f>
+		<temp_c>7.1</temp_c>
+		<relative_humidity>87</relative_humidity>
+		<wind_string>From the NNW at 4.0 MPH Gusting to 13.0 MPH</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>342</wind_degrees>
+		<wind_mph>4.0</wind_mph>
+		<wind_gust_mph>13.0</wind_gust_mph>
+		<pressure_string>29.96" (1014.4 mb)</pressure_string>
+		<pressure_mb>1014.4</pressure_mb>
+		<pressure_in>29.96</pressure_in>
+		<dewpoint_string>41.0 F (5.0 C)</dewpoint_string>
+		<dewpoint_f>41.0</dewpoint_f>
+		<dewpoint_c>5.0</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>43 F (6 C)</windchill_string>
+		<windchill_f>43</windchill_f>
+		<windchill_c>6</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.04 in (0.1 cm)</precip_today_string>
+		<precip_today_in>0.04</precip_today_in>
+		<precip_today_metric>0.1 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IFYNODEN2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=55.368908,10.351560</ob_url>
+	</current_observation>
+

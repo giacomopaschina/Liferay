@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Navojoa Dolphin, Navojoa, SONORA</full>
+		<neighborhood>Navojoa Dolphin</neighborhood>
+		<city>Navojoa</city>
+		<state>SONORA</state>
+		<zip></zip>
+		<latitude>27.075077</latitude>
+		<longitude>-109.452698</longitude>
+		<elevation>142 ft</elevation>
+		</location>
+		<station_id>ISONORAN2</station_id>
+		<station_type>La Crosse ws-2813u-it</station_type>
+		<observation_time>Last Updated on December 4, 2:48 AM MST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 09:48:13 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>69.7 F (20.9 C)</temperature_string>
+		<temp_f>69.7</temp_f>
+		<temp_c>20.9</temp_c>
+		<relative_humidity>78</relative_humidity>
+		<wind_string>From the ESE at 4.7 MPH Gusting to 6.3 MPH</wind_string>
+		<wind_dir>ESE</wind_dir>
+		<wind_degrees>113</wind_degrees>
+		<wind_mph>4.7</wind_mph>
+		<wind_gust_mph>6.3</wind_gust_mph>
+		<pressure_string>29.82" (1009.7 mb)</pressure_string>
+		<pressure_mb>1009.7</pressure_mb>
+		<pressure_in>29.82</pressure_in>
+		<dewpoint_string>62.5 F (16.9 C)</dewpoint_string>
+		<dewpoint_f>62.5</dewpoint_f>
+		<dewpoint_c>16.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISONORAN2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=27.075077,-109.452698</ob_url>
+	</current_observation>
+

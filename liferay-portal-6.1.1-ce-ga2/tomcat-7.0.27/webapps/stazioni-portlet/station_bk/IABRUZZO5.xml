@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Pescara zona portanuova, PESCARA</full>
+		<neighborhood></neighborhood>
+		<city>Pescara zona portanuova</city>
+		<state>PESCARA</state>
+		<zip></zip>
+		<latitude>42.454506</latitude>
+		<longitude>14.217820</longitude>
+		<elevation>5 ft</elevation>
+		</location>
+		<station_id>IABRUZZO5</station_id>
+		<station_type>vantage pro 2</station_type>
+		<observation_time>Last Updated on December 3, 11:30 PM CET</observation_time>
+		<observation_time_rfc822>Tue, 03 Dec 2013 22:30:08 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>39.8 F (4.3 C)</temperature_string>
+		<temp_f>39.8</temp_f>
+		<temp_c>4.3</temp_c>
+		<relative_humidity>88</relative_humidity>
+		<wind_string>From the WSW at 4.0 MPH Gusting to 4.0 MPH</wind_string>
+		<wind_dir>WSW</wind_dir>
+		<wind_degrees>239</wind_degrees>
+		<wind_mph>4.0</wind_mph>
+		<wind_gust_mph>4.0</wind_gust_mph>
+		<pressure_string>30.28" (1025.3 mb)</pressure_string>
+		<pressure_mb>1025.3</pressure_mb>
+		<pressure_in>30.28</pressure_in>
+		<dewpoint_string>36.5 F (2.5 C)</dewpoint_string>
+		<dewpoint_f>36.5</dewpoint_f>
+		<dewpoint_c>2.5</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>37 F (3 C)</windchill_string>
+		<windchill_f>37</windchill_f>
+		<windchill_c>3</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IABRUZZO5</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=42.454506,14.217820</ob_url>
+	</current_observation>
+

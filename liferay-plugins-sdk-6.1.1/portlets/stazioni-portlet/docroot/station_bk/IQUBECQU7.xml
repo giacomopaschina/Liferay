@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Quebec, Quebec</full>
+		<neighborhood></neighborhood>
+		<city>Quebec</city>
+		<state>Quebec</state>
+		<zip></zip>
+		<latitude>46.895332</latitude>
+		<longitude>-71.197861</longitude>
+		<elevation>380 ft</elevation>
+		</location>
+		<station_id>IQUBECQU7</station_id>
+		<station_type>Davis Vue</station_type>
+		<observation_time>Last Updated on December 4, 6:40 AM EST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:40:38 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>25.7 F (-3.5 C)</temperature_string>
+		<temp_f>25.7</temp_f>
+		<temp_c>-3.5</temp_c>
+		<relative_humidity>89</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>East</wind_dir>
+		<wind_degrees>85</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.98" (1015.1 mb)</pressure_string>
+		<pressure_mb>1015.1</pressure_mb>
+		<pressure_in>29.98</pressure_in>
+		<dewpoint_string>22.9 F (-5.1 C)</dewpoint_string>
+		<dewpoint_f>22.9</dewpoint_f>
+		<dewpoint_c>-5.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IQUBECQU7</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=46.895332,-71.197861</ob_url>
+	</current_observation>
+

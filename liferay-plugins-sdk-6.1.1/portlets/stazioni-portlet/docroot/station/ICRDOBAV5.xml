@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Parque Norte, Villa Maria, CORDOBA</full>
+		<neighborhood>Parque Norte</neighborhood>
+		<city>Villa Maria</city>
+		<state>CORDOBA</state>
+		<zip></zip>
+		<latitude>-32.393887</latitude>
+		<longitude>-63.249126</longitude>
+		<elevation>666 ft</elevation>
+		</location>
+		<station_id>ICRDOBAV5</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on June 18, 9:57 AM ART</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:57:06 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>50.9 F (10.5 C)</temperature_string>
+		<temp_f>50.9</temp_f>
+		<temp_c>10.5</temp_c>
+		<relative_humidity>69</relative_humidity>
+		<wind_string>From the SSW at 3.6 MPH Gusting to 4.9 MPH</wind_string>
+		<wind_dir>SSW</wind_dir>
+		<wind_degrees>200</wind_degrees>
+		<wind_mph>3.6</wind_mph>
+		<wind_gust_mph>4.9</wind_gust_mph>
+		<pressure_string>30.50" (1032.7 mb)</pressure_string>
+		<pressure_mb>1032.7</pressure_mb>
+		<pressure_in>30.50</pressure_in>
+		<dewpoint_string>41.2 F (5.1 C)</dewpoint_string>
+		<dewpoint_f>41.2</dewpoint_f>
+		<dewpoint_c>5.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>343</solar_radiation>
+		<UV>1.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ICRDOBAV5</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-32.393887,-63.249126</ob_url>
+	</current_observation>
+

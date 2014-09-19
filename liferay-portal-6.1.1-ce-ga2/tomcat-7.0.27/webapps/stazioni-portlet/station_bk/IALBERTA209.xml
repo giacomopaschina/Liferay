@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>East Blackfalds, Alberta, Blackfalds, ALBERTA</full>
+		<neighborhood>East Blackfalds, Alberta</neighborhood>
+		<city>Blackfalds</city>
+		<state>ALBERTA</state>
+		<zip></zip>
+		<latitude>52.379436</latitude>
+		<longitude>-113.782753</longitude>
+		<elevation>2890 ft</elevation>
+		</location>
+		<station_id>IALBERTA209</station_id>
+		<station_type>AcuRite Pro Weather Center</station_type>
+		<observation_time>Last Updated on December 4, 4:34 AM MST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:34:52 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>-0.8 F (-18.2 C)</temperature_string>
+		<temp_f>-0.8</temp_f>
+		<temp_c>-18.2</temp_c>
+		<relative_humidity>90</relative_humidity>
+		<wind_string>From the West at 10.9 MPH </wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>270</wind_degrees>
+		<wind_mph>10.9</wind_mph>
+		<wind_gust_mph>-999.0</wind_gust_mph>
+		<pressure_string>30.27" (1024.9 mb)</pressure_string>
+		<pressure_mb>1024.9</pressure_mb>
+		<pressure_in>30.27</pressure_in>
+		<dewpoint_string>-3.0 F (-19.4 C)</dewpoint_string>
+		<dewpoint_f>-3.0</dewpoint_f>
+		<dewpoint_c>-19.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>-18 F (-28 C)</windchill_string>
+		<windchill_f>-18</windchill_f>
+		<windchill_c>-28</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>-999.00 in (-2537.5 mm)</precip_1hr_string>
+		<precip_1hr_in>-999.00</precip_1hr_in>
+		<precip_1hr_metric>-2537.5</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IALBERTA209</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=52.379436,-113.782753</ob_url>
+	</current_observation>
+

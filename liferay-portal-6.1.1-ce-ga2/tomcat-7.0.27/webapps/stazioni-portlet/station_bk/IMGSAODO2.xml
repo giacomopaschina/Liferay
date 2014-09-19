@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Faz. Reunidas Laia e Souza, Sao Domingos Das Dores, MG</full>
+		<neighborhood>Faz. Reunidas Laia e Souza</neighborhood>
+		<city>Sao Domingos Das Dores</city>
+		<state>MG</state>
+		<zip></zip>
+		<latitude>-19.533625</latitude>
+		<longitude>-42.011433</longitude>
+		<elevation>2395 ft</elevation>
+		</location>
+		<station_id>IMGSAODO2</station_id>
+		<station_type>Davis Vantage Pro 2</station_type>
+		<observation_time>Last Updated on December 4, 9:18 AM BRST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:18:29 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>76.9 F (24.9 C)</temperature_string>
+		<temp_f>76.9</temp_f>
+		<temp_c>24.9</temp_c>
+		<relative_humidity>78</relative_humidity>
+		<wind_string>From the SW at 4.0 MPH Gusting to 8.0 MPH</wind_string>
+		<wind_dir>SW</wind_dir>
+		<wind_degrees>227</wind_degrees>
+		<wind_mph>4.0</wind_mph>
+		<wind_gust_mph>8.0</wind_gust_mph>
+		<pressure_string>27.39" (927.4 mb)</pressure_string>
+		<pressure_mb>927.4</pressure_mb>
+		<pressure_in>27.39</pressure_in>
+		<dewpoint_string>70.0 F (21.1 C)</dewpoint_string>
+		<dewpoint_f>70.0</dewpoint_f>
+		<dewpoint_c>21.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>680</solar_radiation>
+		<UV>3.8</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IMGSAODO2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-19.533625,-42.011433</ob_url>
+	</current_observation>
+

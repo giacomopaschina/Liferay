@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Gonville, WANGANUI, NZ</full>
+		<neighborhood>Gonville</neighborhood>
+		<city>WANGANUI</city>
+		<state>NZ</state>
+		<zip></zip>
+		<latitude>-39.941833</latitude>
+		<longitude>175.016037</longitude>
+		<elevation>49 ft</elevation>
+		</location>
+		<station_id>IGONVILL2</station_id>
+		<station_type>Oregon Scientific WM918</station_type>
+		<observation_time>Last Updated on June 19, 12:45 AM NZST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:45:08 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>52.2 F (11.2 C)</temperature_string>
+		<temp_f>52.2</temp_f>
+		<temp_c>11.2</temp_c>
+		<relative_humidity>86</relative_humidity>
+		<wind_string>From the North at 11.3 MPH Gusting to 15.7 MPH</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>356</wind_degrees>
+		<wind_mph>11.3</wind_mph>
+		<wind_gust_mph>15.7</wind_gust_mph>
+		<pressure_string>29.66" (1004.3 mb)</pressure_string>
+		<pressure_mb>1004.3</pressure_mb>
+		<pressure_in>29.66</pressure_in>
+		<dewpoint_string>48.1 F (8.9 C)</dewpoint_string>
+		<dewpoint_f>48.1</dewpoint_f>
+		<dewpoint_c>8.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IGONVILL2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-39.941833,175.016037</ob_url>
+	</current_observation>
+

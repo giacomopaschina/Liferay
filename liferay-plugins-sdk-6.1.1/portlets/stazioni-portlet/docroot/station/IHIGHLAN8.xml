@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Dingwall, Dingwall, HIGHLAND</full>
+		<neighborhood>Dingwall</neighborhood>
+		<city>Dingwall</city>
+		<state>HIGHLAND</state>
+		<zip></zip>
+		<latitude>57.594105</latitude>
+		<longitude>-4.425908</longitude>
+		<elevation>26 ft</elevation>
+		</location>
+		<station_id>IHIGHLAN8</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on April 27, 10:03 AM BST</observation_time>
+		<observation_time_rfc822>Sun, 27 Apr 2014 09:03:04 GMT</observation_time_rfc822>
+		<weather>SCT</weather>
+		<temperature_string>50.0 F (10.0 C)</temperature_string>
+		<temp_f>50.0</temp_f>
+		<temp_c>10.0</temp_c>
+		<relative_humidity>93</relative_humidity>
+		<wind_string>From the ENE at 5.8 MPH Gusting to 5.8 MPH</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>59</wind_degrees>
+		<wind_mph>5.8</wind_mph>
+		<wind_gust_mph>5.8</wind_gust_mph>
+		<pressure_string>29.92" (1013.1 mb)</pressure_string>
+		<pressure_mb>1013.1</pressure_mb>
+		<pressure_in>29.92</pressure_in>
+		<dewpoint_string>48.1 F (8.9 C)</dewpoint_string>
+		<dewpoint_f>48.1</dewpoint_f>
+		<dewpoint_c>8.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>48 F (9 C)</windchill_string>
+		<windchill_f>48</windchill_f>
+		<windchill_c>9</windchill_c>
+		
+		<solar_radiation>302</solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IHIGHLAN8</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=57.594105,-4.425908</ob_url>
+	</current_observation>
+

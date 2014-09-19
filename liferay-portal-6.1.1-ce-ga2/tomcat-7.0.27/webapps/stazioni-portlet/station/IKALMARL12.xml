@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Kalmar, Hjalmo, KALMAR LäN</full>
+		<neighborhood>Kalmar</neighborhood>
+		<city>Hjalmo</city>
+		<state>KALMAR LäN</state>
+		<zip></zip>
+		<latitude>56.746536</latitude>
+		<longitude>16.363804</longitude>
+		<elevation>30 ft</elevation>
+		</location>
+		<station_id>IKALMARL12</station_id>
+		<station_type>Davis Vantage Pro 2</station_type>
+		<observation_time>Last Updated on January 15, 7:00 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 15 Jan 2014 18:00:43 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>35.1 F (1.7 C)</temperature_string>
+		<temp_f>35.1</temp_f>
+		<temp_c>1.7</temp_c>
+		<relative_humidity>78</relative_humidity>
+		<wind_string>From the SE at 13.8 MPH Gusting to 13.8 MPH</wind_string>
+		<wind_dir>SE</wind_dir>
+		<wind_degrees>135</wind_degrees>
+		<wind_mph>13.8</wind_mph>
+		<wind_gust_mph>13.8</wind_gust_mph>
+		<pressure_string>29.88" (1011.7 mb)</pressure_string>
+		<pressure_mb>1011.7</pressure_mb>
+		<pressure_in>29.88</pressure_in>
+		<dewpoint_string>28.9 F (-1.7 C)</dewpoint_string>
+		<dewpoint_f>28.9</dewpoint_f>
+		<dewpoint_c>-1.7</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>26 F (-3 C)</windchill_string>
+		<windchill_f>26</windchill_f>
+		<windchill_c>-3</windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IKALMARL12</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=56.746536,16.363804</ob_url>
+	</current_observation>
+

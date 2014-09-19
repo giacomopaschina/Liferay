@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Kalocsa, Bacs-Kiskun</full>
+		<neighborhood></neighborhood>
+		<city>Kalocsa</city>
+		<state>Bacs-Kiskun</state>
+		<zip></zip>
+		<latitude>46.527603</latitude>
+		<longitude>18.963903</longitude>
+		<elevation>292 ft</elevation>
+		</location>
+		<station_id>IBCSKISK2</station_id>
+		<station_type>WMRS200</station_type>
+		<observation_time>Last Updated on June 18, 2:45 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:45:11 GMT</observation_time_rfc822>
+		<weather>BKN</weather>
+		<temperature_string>77.4 F (25.2 C)</temperature_string>
+		<temp_f>77.4</temp_f>
+		<temp_c>25.2</temp_c>
+		<relative_humidity>36</relative_humidity>
+		<wind_string>From the ENE at 8.1 MPH Gusting to 8.1 MPH</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>68</wind_degrees>
+		<wind_mph>8.1</wind_mph>
+		<wind_gust_mph>8.1</wind_gust_mph>
+		<pressure_string>29.95" (1014.1 mb)</pressure_string>
+		<pressure_mb>1014.1</pressure_mb>
+		<pressure_in>29.95</pressure_in>
+		<dewpoint_string>48.3 F (9.1 C)</dewpoint_string>
+		<dewpoint_f>48.3</dewpoint_f>
+		<dewpoint_c>9.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>412</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBCSKISK2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=46.527603,18.963903</ob_url>
+	</current_observation>
+

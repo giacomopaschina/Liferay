@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Pieve Emanuele, Pieve Emanuele, LOMBARDIA</full>
+		<neighborhood>Pieve Emanuele</neighborhood>
+		<city>Pieve Emanuele</city>
+		<state>LOMBARDIA</state>
+		<zip></zip>
+		<latitude>45.373276</latitude>
+		<longitude>9.181188</longitude>
+		<elevation>328 ft</elevation>
+		</location>
+		<station_id>ILOMBARD203</station_id>
+		<station_type>Oregon WRM88</station_type>
+		<observation_time>Last Updated on December 4, 12:19 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:19:03 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>45.5 F (7.5 C)</temperature_string>
+		<temp_f>45.5</temp_f>
+		<temp_c>7.5</temp_c>
+		<relative_humidity>81</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>WSW</wind_dir>
+		<wind_degrees>248</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.91" (1012.8 mb)</pressure_string>
+		<pressure_mb>1012.8</pressure_mb>
+		<pressure_in>29.91</pressure_in>
+		<dewpoint_string>40.0 F (4.4 C)</dewpoint_string>
+		<dewpoint_f>40.0</dewpoint_f>
+		<dewpoint_c>4.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ILOMBARD203</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.373276,9.181188</ob_url>
+	</current_observation>
+

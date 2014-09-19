@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ws_Meteo generator="zend" version="1.0"><getRealtimeStationLastData><status>2</status><message>Nessun risultato trovato per la stazione con codice clb001</message><realtimeDataResponse></realtimeDataResponse></getRealtimeStationLastData></Ws_Meteo>

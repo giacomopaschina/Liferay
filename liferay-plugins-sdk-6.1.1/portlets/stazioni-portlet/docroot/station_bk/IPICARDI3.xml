@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Warlus, Warlus, Picardie</full>
+		<neighborhood>Warlus</neighborhood>
+		<city>Warlus</city>
+		<state>Picardie</state>
+		<zip></zip>
+		<latitude>49.926941</latitude>
+		<longitude>1.947198</longitude>
+		<elevation>148 ft</elevation>
+		</location>
+		<station_id>IPICARDI3</station_id>
+		<station_type>Vantage pro 2 plus</station_type>
+		<observation_time>Last Updated on December 4, 12:16 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:16:55 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>46.9 F (8.3 C)</temperature_string>
+		<temp_f>46.9</temp_f>
+		<temp_c>8.3</temp_c>
+		<relative_humidity>86</relative_humidity>
+		<wind_string>From the WSW at 2.0 MPH Gusting to 7.0 MPH</wind_string>
+		<wind_dir>WSW</wind_dir>
+		<wind_degrees>250</wind_degrees>
+		<wind_mph>2.0</wind_mph>
+		<wind_gust_mph>7.0</wind_gust_mph>
+		<pressure_string>30.38" (1028.7 mb)</pressure_string>
+		<pressure_mb>1028.7</pressure_mb>
+		<pressure_in>30.38</pressure_in>
+		<dewpoint_string>43.0 F (6.1 C)</dewpoint_string>
+		<dewpoint_f>43.0</dewpoint_f>
+		<dewpoint_c>6.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>40</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IPICARDI3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=49.926941,1.947198</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Lencois Paulista, 18683-570 - Lencois Paulista, SP</full>
+		<neighborhood>Lencois Paulista</neighborhood>
+		<city>18683-570 - Lencois Paulista</city>
+		<state>SP</state>
+		<zip></zip>
+		<latitude>-22.604761</latitude>
+		<longitude>-48.807266</longitude>
+		<elevation>2067 ft</elevation>
+		</location>
+		<station_id>ISPLENIS2</station_id>
+		<station_type>OREGON WMR200</station_type>
+		<observation_time>Last Updated on December 4, 9:34 AM BRST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:34:16 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>79.0 F (26.1 C)</temperature_string>
+		<temp_f>79.0</temp_f>
+		<temp_c>26.1</temp_c>
+		<relative_humidity>67</relative_humidity>
+		<wind_string>From the ESE at 5.8 MPH Gusting to 5.8 MPH</wind_string>
+		<wind_dir>ESE</wind_dir>
+		<wind_degrees>112</wind_degrees>
+		<wind_mph>5.8</wind_mph>
+		<wind_gust_mph>5.8</wind_gust_mph>
+		<pressure_string>30.18" (1021.9 mb)</pressure_string>
+		<pressure_mb>1021.9</pressure_mb>
+		<pressure_in>30.18</pressure_in>
+		<dewpoint_string>67.1 F (19.5 C)</dewpoint_string>
+		<dewpoint_f>67.1</dewpoint_f>
+		<dewpoint_c>19.5</dewpoint_c>
+		
+		<heat_index_string>81 F (27 C)</heat_index_string>
+		<heat_index_f>81</heat_index_f>
+		<heat_index_c>27</heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISPLENIS2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-22.604761,-48.807266</ob_url>
+	</current_observation>
+

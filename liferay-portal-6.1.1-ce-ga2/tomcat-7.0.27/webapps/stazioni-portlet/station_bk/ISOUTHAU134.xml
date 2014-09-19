@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Hallett, Hallett, SOUTH AUSTRALIA</full>
+		<neighborhood>Hallett</neighborhood>
+		<city>Hallett</city>
+		<state>SOUTH AUSTRALIA</state>
+		<zip></zip>
+		<latitude>-33.411171</latitude>
+		<longitude>138.891235</longitude>
+		<elevation>1998 ft</elevation>
+		</location>
+		<station_id>ISOUTHAU134</station_id>
+		<station_type>other</station_type>
+		<observation_time>Last Updated on December 4, 9:15 PM CST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 10:45:00 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>49.5 F (9.7 C)</temperature_string>
+		<temp_f>49.5</temp_f>
+		<temp_c>9.7</temp_c>
+		<relative_humidity>77</relative_humidity>
+		<wind_string>From the SSW at 9.5 MPH Gusting to 19.0 MPH</wind_string>
+		<wind_dir>SSW</wind_dir>
+		<wind_degrees>196</wind_degrees>
+		<wind_mph>9.5</wind_mph>
+		<wind_gust_mph>19.0</wind_gust_mph>
+		<pressure_string>29.81" (1009.4 mb)</pressure_string>
+		<pressure_mb>1009.4</pressure_mb>
+		<pressure_in>29.81</pressure_in>
+		<dewpoint_string>42.6 F (5.9 C)</dewpoint_string>
+		<dewpoint_f>42.6</dewpoint_f>
+		<dewpoint_c>5.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>46 F (8 C)</windchill_string>
+		<windchill_f>46</windchill_f>
+		<windchill_c>8</windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.11 in (0.3 cm)</precip_today_string>
+		<precip_today_in>0.11</precip_today_in>
+		<precip_today_metric>0.3 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISOUTHAU134</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-33.411171,138.891235</ob_url>
+	</current_observation>
+

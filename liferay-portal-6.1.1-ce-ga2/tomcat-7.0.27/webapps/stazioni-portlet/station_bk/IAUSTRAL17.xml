@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Ainslie, Ainslie, AUSTRALIAN CAPITAL TERRITORY</full>
+		<neighborhood>Ainslie</neighborhood>
+		<city>Ainslie</city>
+		<state>AUSTRALIAN CAPITAL TERRITORY</state>
+		<zip></zip>
+		<latitude>-35.256828</latitude>
+		<longitude>149.142212</longitude>
+		<elevation>1906 ft</elevation>
+		</location>
+		<station_id>IAUSTRAL17</station_id>
+		<station_type>Davis Vantage Pro2</station_type>
+		<observation_time>Last Updated on December 4, 10:17 PM EST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:17:54 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>69.1 F (20.6 C)</temperature_string>
+		<temp_f>69.1</temp_f>
+		<temp_c>20.6</temp_c>
+		<relative_humidity>58</relative_humidity>
+		<wind_string>From the West at 2.0 MPH Gusting to 14.0 MPH</wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>273</wind_degrees>
+		<wind_mph>2.0</wind_mph>
+		<wind_gust_mph>14.0</wind_gust_mph>
+		<pressure_string>29.46" (997.5 mb)</pressure_string>
+		<pressure_mb>997.5</pressure_mb>
+		<pressure_in>29.46</pressure_in>
+		<dewpoint_string>54.0 F (12.2 C)</dewpoint_string>
+		<dewpoint_f>54.0</dewpoint_f>
+		<dewpoint_c>12.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IAUSTRAL17</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-35.256828,149.142212</ob_url>
+	</current_observation>
+

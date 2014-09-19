@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Aberfoyle Park, SOUTH AUSTRALIA</full>
+		<neighborhood></neighborhood>
+		<city>Aberfoyle Park</city>
+		<state>SOUTH AUSTRALIA</state>
+		<zip></zip>
+		<latitude>-35.078831</latitude>
+		<longitude>138.590942</longitude>
+		<elevation>595 ft</elevation>
+		</location>
+		<station_id>ISOUTHAU34</station_id>
+		<station_type>WH-2081</station_type>
+		<observation_time>Last Updated on June 18, 10:30 PM CST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:00:08 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>52.9 F (11.6 C)</temperature_string>
+		<temp_f>52.9</temp_f>
+		<temp_c>11.6</temp_c>
+		<relative_humidity>81</relative_humidity>
+		<wind_string>From the East at 2.2 MPH Gusting to 6.0 MPH</wind_string>
+		<wind_dir>East</wind_dir>
+		<wind_degrees>94</wind_degrees>
+		<wind_mph>2.2</wind_mph>
+		<wind_gust_mph>6.0</wind_gust_mph>
+		<pressure_string>30.11" (1019.5 mb)</pressure_string>
+		<pressure_mb>1019.5</pressure_mb>
+		<pressure_in>30.11</pressure_in>
+		<dewpoint_string>47.2 F (8.4 C)</dewpoint_string>
+		<dewpoint_f>47.2</dewpoint_f>
+		<dewpoint_c>8.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISOUTHAU34</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-35.078831,138.590942</ob_url>
+	</current_observation>
+

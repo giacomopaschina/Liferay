@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Florence (Firenze), FLORENCE</full>
+		<neighborhood></neighborhood>
+		<city>Florence (Firenze)</city>
+		<state>FLORENCE</state>
+		<zip></zip>
+		<latitude>43.812359</latitude>
+		<longitude>11.399689</longitude>
+		<elevation>350 ft</elevation>
+		</location>
+		<station_id>IFLORENC2</station_id>
+		<station_type>Davis Vantage Vue</station_type>
+		<observation_time>Last Updated on November 21, 7:20 PM CET</observation_time>
+		<observation_time_rfc822>Thu, 21 Nov 2013 18:20:55 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>43.0 F (6.1 C)</temperature_string>
+		<temp_f>43.0</temp_f>
+		<temp_c>6.1</temp_c>
+		<relative_humidity>89</relative_humidity>
+		<wind_string>From the SSW at 10.7 MPH Gusting to 24.6 MPH</wind_string>
+		<wind_dir>SSW</wind_dir>
+		<wind_degrees>202</wind_degrees>
+		<wind_mph>10.7</wind_mph>
+		<wind_gust_mph>24.6</wind_gust_mph>
+		<pressure_string>29.47" (997.9 mb)</pressure_string>
+		<pressure_mb>997.9</pressure_mb>
+		<pressure_in>29.47</pressure_in>
+		<dewpoint_string>-999.0 F (-572.8 C)</dewpoint_string>
+		<dewpoint_f>-999.0</dewpoint_f>
+		<dewpoint_c>-572.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>37 F (3 C)</windchill_string>
+		<windchill_f>37</windchill_f>
+		<windchill_c>3</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.28 in (0.7 mm)</precip_1hr_string>
+		<precip_1hr_in>0.28</precip_1hr_in>
+		<precip_1hr_metric>0.7</precip_1hr_metric>
+		<precip_today_string>1.39 in (3.5 cm)</precip_today_string>
+		<precip_today_in>1.39</precip_today_in>
+		<precip_today_metric>3.5 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IFLORENC2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=43.812359,11.399689</ob_url>
+	</current_observation>
+

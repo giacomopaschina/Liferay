@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Célony, Aix-en-Provence, Bouches du Rhone</full>
+		<neighborhood>Célony</neighborhood>
+		<city>Aix-en-Provence</city>
+		<state>Bouches du Rhone</state>
+		<zip></zip>
+		<latitude>43.563587</latitude>
+		<longitude>5.399537</longitude>
+		<elevation>965 ft</elevation>
+		</location>
+		<station_id>IBDRAIXE2</station_id>
+		<station_type>WS1080</station_type>
+		<observation_time>Last Updated on June 18, 2:48 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:48:14 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>69.1 F (20.6 C)</temperature_string>
+		<temp_f>69.1</temp_f>
+		<temp_c>20.6</temp_c>
+		<relative_humidity>87</relative_humidity>
+		<wind_string>From the ESE at 9.4 MPH Gusting to 12.7 MPH</wind_string>
+		<wind_dir>ESE</wind_dir>
+		<wind_degrees>112</wind_degrees>
+		<wind_mph>9.4</wind_mph>
+		<wind_gust_mph>12.7</wind_gust_mph>
+		<pressure_string>30.07" (1018.2 mb)</pressure_string>
+		<pressure_mb>1018.2</pressure_mb>
+		<pressure_in>30.07</pressure_in>
+		<dewpoint_string>65.1 F (18.4 C)</dewpoint_string>
+		<dewpoint_f>65.1</dewpoint_f>
+		<dewpoint_c>18.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.08 in (0.2 cm)</precip_today_string>
+		<precip_today_in>0.08</precip_today_in>
+		<precip_today_metric>0.2 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBDRAIXE2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=43.563587,5.399537</ob_url>
+	</current_observation>
+

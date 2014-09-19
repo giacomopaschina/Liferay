@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Lugo Ovest, Lugo, EMILIA ROMAGNA</full>
+		<neighborhood>Lugo Ovest</neighborhood>
+		<city>Lugo</city>
+		<state>EMILIA ROMAGNA</state>
+		<zip></zip>
+		<latitude>44.422474</latitude>
+		<longitude>11.900063</longitude>
+		<elevation>56 ft</elevation>
+		</location>
+		<station_id>IEMILIAR116</station_id>
+		<station_type>Oregon Scientific WMR200</station_type>
+		<observation_time>Last Updated on December 4, 12:17 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:17:17 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>48.0 F (8.9 C)</temperature_string>
+		<temp_f>48.0</temp_f>
+		<temp_c>8.9</temp_c>
+		<relative_humidity>55</relative_humidity>
+		<wind_string>From the WSW at 3.1 MPH Gusting to 4.7 MPH</wind_string>
+		<wind_dir>WSW</wind_dir>
+		<wind_degrees>247</wind_degrees>
+		<wind_mph>3.1</wind_mph>
+		<wind_gust_mph>4.7</wind_gust_mph>
+		<pressure_string>30.21" (1022.9 mb)</pressure_string>
+		<pressure_mb>1022.9</pressure_mb>
+		<pressure_in>30.21</pressure_in>
+		<dewpoint_string>32.6 F (0.3 C)</dewpoint_string>
+		<dewpoint_f>32.6</dewpoint_f>
+		<dewpoint_c>0.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>47 F (9 C)</windchill_string>
+		<windchill_f>47</windchill_f>
+		<windchill_c>9</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IEMILIAR116</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=44.422474,11.900063</ob_url>
+	</current_observation>
+

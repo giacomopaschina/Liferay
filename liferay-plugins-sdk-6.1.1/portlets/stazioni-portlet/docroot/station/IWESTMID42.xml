@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Rushall, Walsall, West Midlands</full>
+		<neighborhood>Rushall</neighborhood>
+		<city>Walsall</city>
+		<state>West Midlands</state>
+		<zip></zip>
+		<latitude>52.602264</latitude>
+		<longitude>-1.957199</longitude>
+		<elevation>459 ft</elevation>
+		</location>
+		<station_id>IWESTMID42</station_id>
+		<station_type>Ambient Weather WS-2090 (Wireless)</station_type>
+		<observation_time>Last Updated on May 17, 10:12 PM BST</observation_time>
+		<observation_time_rfc822>Sat, 17 May 2014 21:12:08 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>61.2 F (16.2 C)</temperature_string>
+		<temp_f>61.2</temp_f>
+		<temp_c>16.2</temp_c>
+		<relative_humidity>62</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>0</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.52" (999.5 mb)</pressure_string>
+		<pressure_mb>999.5</pressure_mb>
+		<pressure_in>29.52</pressure_in>
+		<dewpoint_string>48.1 F (8.9 C)</dewpoint_string>
+		<dewpoint_f>48.1</dewpoint_f>
+		<dewpoint_c>8.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>72</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>685.30 in (1740.7 cm)</precip_today_string>
+		<precip_today_in>685.30</precip_today_in>
+		<precip_today_metric>1740.7 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IWESTMID42</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=52.602264,-1.957199</ob_url>
+	</current_observation>
+

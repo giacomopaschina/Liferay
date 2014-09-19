@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Masera Di Padova, VENETO</full>
+		<neighborhood></neighborhood>
+		<city>Masera Di Padova</city>
+		<state>VENETO</state>
+		<zip></zip>
+		<latitude>45.313282</latitude>
+		<longitude>11.882375</longitude>
+		<elevation>25 ft</elevation>
+		</location>
+		<station_id>IVENETOM24</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on June 18, 2:49 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:49:22 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>81.0 F (27.2 C)</temperature_string>
+		<temp_f>81.0</temp_f>
+		<temp_c>27.2</temp_c>
+		<relative_humidity>39</relative_humidity>
+		<wind_string>From the WNW at 1.7 MPH Gusting to 5.8 MPH</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>292</wind_degrees>
+		<wind_mph>1.7</wind_mph>
+		<wind_gust_mph>5.8</wind_gust_mph>
+		<pressure_string>30.06" (1017.8 mb)</pressure_string>
+		<pressure_mb>1017.8</pressure_mb>
+		<pressure_in>30.06</pressure_in>
+		<dewpoint_string>53.6 F (12.0 C)</dewpoint_string>
+		<dewpoint_f>53.6</dewpoint_f>
+		<dewpoint_c>12.0</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVENETOM24</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.313282,11.882375</ob_url>
+	</current_observation>
+

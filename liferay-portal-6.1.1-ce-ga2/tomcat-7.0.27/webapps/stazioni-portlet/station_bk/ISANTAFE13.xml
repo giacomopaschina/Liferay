@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Meteo Pulver, Rosario, Santa Fe</full>
+		<neighborhood>Meteo Pulver</neighborhood>
+		<city>Rosario</city>
+		<state>Santa Fe</state>
+		<zip></zip>
+		<latitude>-32.893055</latitude>
+		<longitude>-60.689999</longitude>
+		<elevation>75 ft</elevation>
+		</location>
+		<station_id>ISANTAFE13</station_id>
+		<station_type>Davis Vantage Pro2 Plus</station_type>
+		<observation_time>Last Updated on December 4, 8:13 AM ART</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:13:59 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>70.7 F (21.5 C)</temperature_string>
+		<temp_f>70.7</temp_f>
+		<temp_c>21.5</temp_c>
+		<relative_humidity>69</relative_humidity>
+		<wind_string>From the North at 6.0 MPH Gusting to 6.0 MPH</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>355</wind_degrees>
+		<wind_mph>6.0</wind_mph>
+		<wind_gust_mph>6.0</wind_gust_mph>
+		<pressure_string>29.64" (1003.6 mb)</pressure_string>
+		<pressure_mb>1003.6</pressure_mb>
+		<pressure_in>29.64</pressure_in>
+		<dewpoint_string>60.0 F (15.6 C)</dewpoint_string>
+		<dewpoint_f>60.0</dewpoint_f>
+		<dewpoint_c>15.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>432</solar_radiation>
+		<UV>1.5</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISANTAFE13</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-32.893055,-60.689999</ob_url>
+	</current_observation>
+

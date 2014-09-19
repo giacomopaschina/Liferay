@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Santa Maria di Sala, Veneto</full>
+		<neighborhood></neighborhood>
+		<city>Santa Maria di Sala</city>
+		<state>Veneto</state>
+		<zip></zip>
+		<latitude>45.515835</latitude>
+		<longitude>12.002134</longitude>
+		<elevation>42 ft</elevation>
+		</location>
+		<station_id>IVENETOS9</station_id>
+		<station_type>Davis Vantage Pro II Wireless</station_type>
+		<observation_time>Last Updated on June 18, 2:51 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:51:20 GMT</observation_time_rfc822>
+		<weather>BKN</weather>
+		<temperature_string>78.9 F (26.1 C)</temperature_string>
+		<temp_f>78.9</temp_f>
+		<temp_c>26.1</temp_c>
+		<relative_humidity>42</relative_humidity>
+		<wind_string>From the ESE at 3.5 MPH Gusting to 3.5 MPH</wind_string>
+		<wind_dir>ESE</wind_dir>
+		<wind_degrees>111</wind_degrees>
+		<wind_mph>3.5</wind_mph>
+		<wind_gust_mph>3.5</wind_gust_mph>
+		<pressure_string>29.92" (1013.1 mb)</pressure_string>
+		<pressure_mb>1013.1</pressure_mb>
+		<pressure_in>29.92</pressure_in>
+		<dewpoint_string>53.9 F (12.2 C)</dewpoint_string>
+		<dewpoint_f>53.9</dewpoint_f>
+		<dewpoint_c>12.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>497</solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVENETOS9</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.515835,12.002134</ob_url>
+	</current_observation>
+

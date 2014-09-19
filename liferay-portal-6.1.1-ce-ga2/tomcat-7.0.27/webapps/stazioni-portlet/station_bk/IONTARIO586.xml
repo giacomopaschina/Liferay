@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>In Town, Acton, ONTARIO</full>
+		<neighborhood>In Town</neighborhood>
+		<city>Acton</city>
+		<state>ONTARIO</state>
+		<zip></zip>
+		<latitude>43.632500</latitude>
+		<longitude>-80.025200</longitude>
+		<elevation>1188 ft</elevation>
+		</location>
+		<station_id>IONTARIO586</station_id>
+		<station_type>Oregon Scientific WMR88A</station_type>
+		<observation_time>Last Updated on December 4, 6:38 AM EST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:38:39 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>32.5 F (0.3 C)</temperature_string>
+		<temp_f>32.5</temp_f>
+		<temp_c>0.3</temp_c>
+		<relative_humidity>86</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>SE</wind_dir>
+		<wind_degrees>135</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>28.74" (973.1 mb)</pressure_string>
+		<pressure_mb>973.1</pressure_mb>
+		<pressure_in>28.74</pressure_in>
+		<dewpoint_string>28.8 F (-1.8 C)</dewpoint_string>
+		<dewpoint_f>28.8</dewpoint_f>
+		<dewpoint_c>-1.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.04 in (0.1 cm)</precip_today_string>
+		<precip_today_in>0.04</precip_today_in>
+		<precip_today_metric>0.1 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IONTARIO586</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=43.632500,-80.025200</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Cruz de San Antonio, Granadilla De Abona, Santa Cruz de Tenerife</full>
+		<neighborhood>Cruz de San Antonio</neighborhood>
+		<city>Granadilla De Abona</city>
+		<state>Santa Cruz de Tenerife</state>
+		<zip></zip>
+		<latitude>28.130516</latitude>
+		<longitude>-16.582581</longitude>
+		<elevation>2559 ft</elevation>
+		</location>
+		<station_id>IISLASCA2</station_id>
+		<station_type>Davis Vantage Pro2</station_type>
+		<observation_time>Last Updated on June 18, 1:55 PM BST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:55:18 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>61.1 F (16.2 C)</temperature_string>
+		<temp_f>61.1</temp_f>
+		<temp_c>16.2</temp_c>
+		<relative_humidity>39</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>ESE</wind_dir>
+		<wind_degrees>109</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>6.0</wind_gust_mph>
+		<pressure_string>30.05" (1017.5 mb)</pressure_string>
+		<pressure_mb>1017.5</pressure_mb>
+		<pressure_in>30.05</pressure_in>
+		<dewpoint_string>35.9 F (2.2 C)</dewpoint_string>
+		<dewpoint_f>35.9</dewpoint_f>
+		<dewpoint_c>2.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IISLASCA2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=28.130516,-16.582581</ob_url>
+	</current_observation>
+

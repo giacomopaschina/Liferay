@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Vergului, Bucuresti, BUCURE%U015FTI</full>
+		<neighborhood>Vergului</neighborhood>
+		<city>Bucuresti</city>
+		<state>BUCURE%U015FTI</state>
+		<zip></zip>
+		<latitude>44.438168</latitude>
+		<longitude>26.173681</longitude>
+		<elevation>266 ft</elevation>
+		</location>
+		<station_id>IBUCUREU3</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on December 4, 1:37 AM EET</observation_time>
+		<observation_time_rfc822>Tue, 03 Dec 2013 23:37:37 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>31.8 F (-0.1 C)</temperature_string>
+		<temp_f>31.8</temp_f>
+		<temp_c>-0.1</temp_c>
+		<relative_humidity>75</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>0</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>30.49" (1032.4 mb)</pressure_string>
+		<pressure_mb>1032.4</pressure_mb>
+		<pressure_in>30.49</pressure_in>
+		<dewpoint_string>24.8 F (-4.0 C)</dewpoint_string>
+		<dewpoint_f>24.8</dewpoint_f>
+		<dewpoint_c>-4.0</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBUCUREU3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=44.438168,26.173681</ob_url>
+	</current_observation>
+

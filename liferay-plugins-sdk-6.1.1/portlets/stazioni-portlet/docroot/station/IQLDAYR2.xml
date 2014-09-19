@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Ayr, QLD</full>
+		<neighborhood></neighborhood>
+		<city>Ayr</city>
+		<state>QLD</state>
+		<zip></zip>
+		<latitude>-19.576229</latitude>
+		<longitude>147.422165</longitude>
+		<elevation>46 ft</elevation>
+		</location>
+		<station_id>IQLDAYR2</station_id>
+		<station_type>wh2080</station_type>
+		<observation_time>Last Updated on April 13, 8:00 PM EST</observation_time>
+		<observation_time_rfc822>Sun, 13 Apr 2014 10:00:06 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>78.4 F (25.8 C)</temperature_string>
+		<temp_f>78.4</temp_f>
+		<temp_c>25.8</temp_c>
+		<relative_humidity>79</relative_humidity>
+		<wind_string>From the West at 7.0 MPH Gusting to 12.0 MPH</wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>270</wind_degrees>
+		<wind_mph>7.0</wind_mph>
+		<wind_gust_mph>12.0</wind_gust_mph>
+		<pressure_string>29.77" (1008.0 mb)</pressure_string>
+		<pressure_mb>1008.0</pressure_mb>
+		<pressure_in>29.77</pressure_in>
+		<dewpoint_string>71.3 F (21.8 C)</dewpoint_string>
+		<dewpoint_f>71.3</dewpoint_f>
+		<dewpoint_c>21.8</dewpoint_c>
+		
+		<heat_index_string>81 F (27 C)</heat_index_string>
+		<heat_index_f>81</heat_index_f>
+		<heat_index_c>27</heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>24.97 in (63.4 cm)</precip_today_string>
+		<precip_today_in>24.97</precip_today_in>
+		<precip_today_metric>63.4 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IQLDAYR2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-19.576229,147.422165</ob_url>
+	</current_observation>
+

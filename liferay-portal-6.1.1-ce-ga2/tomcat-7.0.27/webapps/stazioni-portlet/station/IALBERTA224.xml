@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Twin Butte North, Alberta, ALBERTA</full>
+		<neighborhood>Twin Butte North</neighborhood>
+		<city>Alberta</city>
+		<state>ALBERTA</state>
+		<zip></zip>
+		<latitude>49.291553</latitude>
+		<longitude>-113.833809</longitude>
+		<elevation>4324 ft</elevation>
+		</location>
+		<station_id>IALBERTA224</station_id>
+		<station_type>AcuRite Pro Weather Center</station_type>
+		<observation_time>Last Updated on June 18, 6:59 AM MDT</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:59:50 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>44.8 F (7.1 C)</temperature_string>
+		<temp_f>44.8</temp_f>
+		<temp_c>7.1</temp_c>
+		<relative_humidity>1</relative_humidity>
+		<wind_string>From the West at 10.9 MPH </wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>270</wind_degrees>
+		<wind_mph>10.9</wind_mph>
+		<wind_gust_mph>-999.0</wind_gust_mph>
+		<pressure_string>29.78" (1008.4 mb)</pressure_string>
+		<pressure_mb>1008.4</pressure_mb>
+		<pressure_in>29.78</pressure_in>
+		<dewpoint_string>-50.1 F (-45.6 C)</dewpoint_string>
+		<dewpoint_f>-50.1</dewpoint_f>
+		<dewpoint_c>-45.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>39 F (4 C)</windchill_string>
+		<windchill_f>39</windchill_f>
+		<windchill_c>4</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>-999.00 in (-2537.5 mm)</precip_1hr_string>
+		<precip_1hr_in>-999.00</precip_1hr_in>
+		<precip_1hr_metric>-2537.5</precip_1hr_metric>
+		<precip_today_string>0.04 in (0.1 cm)</precip_today_string>
+		<precip_today_in>0.04</precip_today_in>
+		<precip_today_metric>0.1 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IALBERTA224</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=49.291553,-113.833809</ob_url>
+	</current_observation>
+

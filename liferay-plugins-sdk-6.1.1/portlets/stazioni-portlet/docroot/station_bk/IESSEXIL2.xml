@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Seven Kings, Ilford, Essex</full>
+		<neighborhood>Seven Kings</neighborhood>
+		<city>Ilford</city>
+		<state>Essex</state>
+		<zip></zip>
+		<latitude>51.568710</latitude>
+		<longitude>0.098052</longitude>
+		<elevation>56 ft</elevation>
+		</location>
+		<station_id>IESSEXIL2</station_id>
+		<station_type>W-8681-SOLAR</station_type>
+		<observation_time>Last Updated on December 4, 12:13 PM GMT</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 12:13:49 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>48.6 F (9.2 C)</temperature_string>
+		<temp_f>48.6</temp_f>
+		<temp_c>9.2</temp_c>
+		<relative_humidity>71</relative_humidity>
+		<wind_string>From the NNE at 2.2 MPH Gusting to 6.9 MPH</wind_string>
+		<wind_dir>NNE</wind_dir>
+		<wind_degrees>32</wind_degrees>
+		<wind_mph>2.2</wind_mph>
+		<wind_gust_mph>6.9</wind_gust_mph>
+		<pressure_string>29.81" (1009.4 mb)</pressure_string>
+		<pressure_mb>1009.4</pressure_mb>
+		<pressure_in>29.81</pressure_in>
+		<dewpoint_string>39.6 F (4.2 C)</dewpoint_string>
+		<dewpoint_f>39.6</dewpoint_f>
+		<dewpoint_c>4.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IESSEXIL2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=51.568710,0.098052</ob_url>
+	</current_observation>
+

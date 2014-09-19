@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Riverside, Elmira, ONTARIO</full>
+		<neighborhood>Riverside</neighborhood>
+		<city>Elmira</city>
+		<state>ONTARIO</state>
+		<zip></zip>
+		<latitude>43.603233</latitude>
+		<longitude>-80.559486</longitude>
+		<elevation>1198 ft</elevation>
+		</location>
+		<station_id>IONTARIO584</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on December 4, 3:52 AM EST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 08:52:27 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>32.4 F (0.2 C)</temperature_string>
+		<temp_f>32.4</temp_f>
+		<temp_c>0.2</temp_c>
+		<relative_humidity>92</relative_humidity>
+		<wind_string>From the East at 2.0 MPH Gusting to 7.6 MPH</wind_string>
+		<wind_dir>East</wind_dir>
+		<wind_degrees>90</wind_degrees>
+		<wind_mph>2.0</wind_mph>
+		<wind_gust_mph>7.6</wind_gust_mph>
+		<pressure_string>29.84" (1010.4 mb)</pressure_string>
+		<pressure_mb>1010.4</pressure_mb>
+		<pressure_in>29.84</pressure_in>
+		<dewpoint_string>30.3 F (-0.9 C)</dewpoint_string>
+		<dewpoint_f>30.3</dewpoint_f>
+		<dewpoint_c>-0.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>2.59 in (6.6 mm)</precip_1hr_string>
+		<precip_1hr_in>2.59</precip_1hr_in>
+		<precip_1hr_metric>6.6</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IONTARIO584</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=43.603233,-80.559486</ob_url>
+	</current_observation>
+

@@ -1,0 +1,70 @@
+13:31:41,135 INFO  [pool-2-thread-1][DialectDetector:71] Determine dialect for HSQL Database Engine 2
+13:31:41,137 WARN  [pool-2-thread-1][DialectDetector:86] Liferay is configured to use Hypersonic as its database. Do NOT use Hypersonic in production. Hypersonic is an embedded database useful for development and demo'ing purposes. The database settings can be changed in portal-ext.properties.
+13:31:41,158 INFO  [pool-2-thread-1][DialectDetector:136] Found dialect org.hibernate.dialect.HSQLDialect
+13:31:55,732 INFO  [pool-2-thread-1][BaseDB:452] Database supports case sensitive queries
+13:31:56,092 INFO  [pool-2-thread-1][ServerDetector:154] Server supports hot deploy
+13:31:56,096 INFO  [pool-2-thread-1][PluginPackageUtil:1030] Reading plugin package for the root context
+13:31:58,061 INFO  [pool-2-thread-1][AutoDeployDir:106] Auto deploy scanner started for /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/deploy
+13:31:59,137 INFO  [pool-2-thread-1][HotDeployImpl:178] Deploying ncWMS-portlet from queue
+13:31:59,138 INFO  [pool-2-thread-1][PluginPackageUtil:1033] Reading plugin package for ncWMS-portlet
+13:31:59,397 ERROR [pool-2-thread-1][PortletBagFactory:123] java.lang.ClassNotFoundException: com.test.stazioni
+java.lang.ClassNotFoundException: com.test.stazioni
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1711)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1556)
+	at com.liferay.portlet.PortletBagFactory.create(PortletBagFactory.java:120)
+	at com.liferay.portal.deploy.hot.PortletHotDeployListener.initPortlet(PortletHotDeployListener.java:546)
+	at com.liferay.portal.deploy.hot.PortletHotDeployListener.doInvokeDeploy(PortletHotDeployListener.java:321)
+	at com.liferay.portal.deploy.hot.PortletHotDeployListener.invokeDeploy(PortletHotDeployListener.java:120)
+	at com.liferay.portal.deploy.hot.HotDeployImpl.doFireDeployEvent(HotDeployImpl.java:188)
+	at com.liferay.portal.deploy.hot.HotDeployImpl.fireDeployEvent(HotDeployImpl.java:96)
+	at com.liferay.portal.kernel.deploy.hot.HotDeployUtil.fireDeployEvent(HotDeployUtil.java:27)
+	at com.liferay.portal.kernel.servlet.PluginContextListener.fireDeployEvent(PluginContextListener.java:151)
+	at com.liferay.portal.kernel.servlet.PluginContextListener.doPortalInit(PluginContextListener.java:141)
+	at com.liferay.portal.kernel.util.BasePortalLifecycle.portalInit(BasePortalLifecycle.java:42)
+	at com.liferay.portal.kernel.util.PortalLifecycleUtil.flushInits(PortalLifecycleUtil.java:48)
+	at com.liferay.portal.servlet.MainServlet.initPlugins(MainServlet.java:858)
+	at com.liferay.portal.servlet.MainServlet.init(MainServlet.java:366)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:160)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1266)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1185)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1080)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5015)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5302)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:895)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:871)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:615)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:649)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1585)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+13:31:59,829 INFO  [liferay/scheduler_dispatch-3][PluginPackageUtil:1292] Reloading repositories
+13:32:01,977 INFO  [pool-2-thread-1][HotDeployImpl:178] Deploying stazioni-portlet from queue
+13:32:01,977 INFO  [pool-2-thread-1][PluginPackageUtil:1033] Reading plugin package for stazioni-portlet
+13:32:07,501 INFO  [pool-2-thread-1][HotDeployImpl:178] Deploying marketplace-portlet from queue
+13:32:07,502 INFO  [pool-2-thread-1][PluginPackageUtil:1033] Reading plugin package for marketplace-portlet
+13:32:07,855 INFO  [pool-2-thread-1][HookHotDeployListener:550] Registering hook for marketplace-portlet
+13:32:07,880 INFO  [pool-2-thread-1][HookHotDeployListener:690] Hook for marketplace-portlet is available for use
+13:32:08,025 INFO  [pool-2-thread-1][HotDeployEvent:109] Plugin welcome-theme requires resources-importer-web
+13:32:08,039 INFO  [pool-2-thread-1][HotDeployImpl:233] Queueing welcome-theme for deploy because it is missing resources-importer-web
+13:32:08,143 INFO  [pool-2-thread-1][HotDeployImpl:178] Deploying resources-importer-web from queue
+13:32:08,144 INFO  [pool-2-thread-1][PluginPackageUtil:1033] Reading plugin package for resources-importer-web
+13:32:08,208 INFO  [pool-2-thread-1][HotDeployImpl:178] Deploying welcome-theme from queue
+13:32:08,209 INFO  [pool-2-thread-1][PluginPackageUtil:1033] Reading plugin package for welcome-theme
+13:32:08,600 INFO  [pool-2-thread-1][ThemeHotDeployListener:87] Registering themes for welcome-theme
+13:32:08,979 INFO  [pool-2-thread-1][ThemeHotDeployListener:100] 1 theme for welcome-theme is available for use
+13:32:09,025 INFO  [liferay/hot_deploy-1][HotDeployMessageListener:142] Group or layout set prototype already exists for company liferay.com
+13:32:10,517 ERROR [liferay/scheduler_dispatch-3][PluginPackageUtil:1310] Unable to load repository http://plugins.liferay.com/official com.liferay.portal.plugin.PluginPackageException: Unable to communicate with repository http://plugins.liferay.com/official
+13:32:25,242 WARN  [liferay/scheduler_dispatch-3][PluginPackageUtil:334] Unable to communicate with repository http://plugins.liferay.com/official
+15:34:15,767 INFO  [pool-2-thread-2][PluginPackageUtil:1033] Reading plugin package for resources-importer-web
+15:34:16,565 INFO  [pool-2-thread-2][HotDeployEvent:109] Plugin welcome-theme requires resources-importer-web
+15:34:16,566 INFO  [pool-2-thread-2][PluginPackageUtil:1033] Reading plugin package for welcome-theme
+15:34:16,569 INFO  [pool-2-thread-2][ThemeHotDeployListener:127] Unregistering themes for welcome-theme
+15:34:16,572 INFO  [pool-2-thread-2][ThemeHotDeployListener:158] 1 theme for welcome-theme was unregistered
+15:34:16,573 INFO  [pool-2-thread-2][PluginPackageUtil:1033] Reading plugin package for marketplace-portlet
+15:34:16,589 INFO  [pool-2-thread-2][HookHotDeployListener:813] Hook for marketplace-portlet was unregistered
+15:34:16,593 INFO  [pool-2-thread-2][PluginPackageUtil:1033] Reading plugin package for stazioni-portlet
+15:34:16,597 INFO  [pool-2-thread-2][PluginPackageUtil:1033] Reading plugin package for ncWMS-portlet

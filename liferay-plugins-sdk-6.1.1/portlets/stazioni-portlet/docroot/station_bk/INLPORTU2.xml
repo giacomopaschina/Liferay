@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Windco Flags, Portugal Cove, NL</full>
+		<neighborhood>Windco Flags</neighborhood>
+		<city>Portugal Cove</city>
+		<state>NL</state>
+		<zip></zip>
+		<latitude>47.612282</latitude>
+		<longitude>-52.824207</longitude>
+		<elevation>524 ft</elevation>
+		</location>
+		<station_id>INLPORTU2</station_id>
+		<station_type>Davis Vantage Vue</station_type>
+		<observation_time>Last Updated on December 4, 8:04 AM NST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:34:49 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>49.8 F (9.9 C)</temperature_string>
+		<temp_f>49.8</temp_f>
+		<temp_c>9.9</temp_c>
+		<relative_humidity>98</relative_humidity>
+		<wind_string>From the ESE at 24.0 MPH Gusting to 30.0 MPH</wind_string>
+		<wind_dir>ESE</wind_dir>
+		<wind_degrees>109</wind_degrees>
+		<wind_mph>24.0</wind_mph>
+		<wind_gust_mph>30.0</wind_gust_mph>
+		<pressure_string>29.49" (998.5 mb)</pressure_string>
+		<pressure_mb>998.5</pressure_mb>
+		<pressure_in>29.49</pressure_in>
+		<dewpoint_string>49.0 F (9.4 C)</dewpoint_string>
+		<dewpoint_f>49.0</dewpoint_f>
+		<dewpoint_c>9.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>43 F (6 C)</windchill_string>
+		<windchill_f>43</windchill_f>
+		<windchill_c>6</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.09 in (0.2 mm)</precip_1hr_string>
+		<precip_1hr_in>0.09</precip_1hr_in>
+		<precip_1hr_metric>0.2</precip_1hr_metric>
+		<precip_today_string>0.28 in (0.7 cm)</precip_today_string>
+		<precip_today_in>0.28</precip_today_in>
+		<precip_today_metric>0.7 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INLPORTU2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=47.612282,-52.824207</ob_url>
+	</current_observation>
+

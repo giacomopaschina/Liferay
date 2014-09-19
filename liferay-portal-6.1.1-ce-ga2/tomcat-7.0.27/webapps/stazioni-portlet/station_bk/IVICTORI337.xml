@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Avenel, Avenel, VICTORIA</full>
+		<neighborhood>Avenel</neighborhood>
+		<city>Avenel</city>
+		<state>VICTORIA</state>
+		<zip></zip>
+		<latitude>-36.898674</latitude>
+		<longitude>145.231491</longitude>
+		<elevation>502 ft</elevation>
+		</location>
+		<station_id>IVICTORI337</station_id>
+		<station_type>pro weather</station_type>
+		<observation_time>Last Updated on December 4, 6:23 AM EST</observation_time>
+		<observation_time_rfc822>Tue, 03 Dec 2013 20:23:40 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>66.7 F (19.3 C)</temperature_string>
+		<temp_f>66.7</temp_f>
+		<temp_c>19.3</temp_c>
+		<relative_humidity>86</relative_humidity>
+		<wind_string>From the NW at 8.3 MPH Gusting to 11.4 MPH</wind_string>
+		<wind_dir>NW</wind_dir>
+		<wind_degrees>315</wind_degrees>
+		<wind_mph>8.3</wind_mph>
+		<wind_gust_mph>11.4</wind_gust_mph>
+		<pressure_string>29.60" (1002.3 mb)</pressure_string>
+		<pressure_mb>1002.3</pressure_mb>
+		<pressure_in>29.60</pressure_in>
+		<dewpoint_string>62.4 F (16.9 C)</dewpoint_string>
+		<dewpoint_f>62.4</dewpoint_f>
+		<dewpoint_c>16.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVICTORI337</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-36.898674,145.231491</ob_url>
+	</current_observation>
+

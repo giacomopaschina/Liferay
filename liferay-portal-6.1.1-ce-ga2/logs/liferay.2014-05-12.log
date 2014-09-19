@@ -1,0 +1,616 @@
+14:25:16,791 INFO  [pool-2-thread-1][DialectDetector:71] Determine dialect for HSQL Database Engine 2
+14:25:16,793 WARN  [pool-2-thread-1][DialectDetector:86] Liferay is configured to use Hypersonic as its database. Do NOT use Hypersonic in production. Hypersonic is an embedded database useful for development and demo'ing purposes. The database settings can be changed in portal-ext.properties.
+14:25:16,814 INFO  [pool-2-thread-1][DialectDetector:136] Found dialect org.hibernate.dialect.HSQLDialect
+14:25:29,231 INFO  [pool-2-thread-1][BaseDB:452] Database supports case sensitive queries
+14:25:29,549 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyProcessSuite
+14:25:29,550 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyProperties
+14:25:29,603 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyDB2
+14:25:29,604 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyMySQL
+14:25:29,604 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyOracle
+14:25:29,604 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifySQLServer
+14:25:29,604 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyCounter
+14:25:29,616 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyUUID
+14:25:29,621 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyPermission
+14:25:30,360 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyRole
+14:25:30,441 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyAsset
+14:25:30,444 INFO  [pool-2-thread-1][UpgradeProcess:207] Upgrading com.liferay.portal.upgrade.util.UpgradeAssetPublisherManualEntries
+14:25:30,446 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyBlogs
+14:25:30,449 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyBookmarks
+14:25:30,452 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyCalendar
+14:25:30,459 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyDocumentLibrary
+14:25:30,477 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyGroup
+14:25:30,533 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyJournal
+14:25:30,547 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyLayout
+14:25:30,552 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyMessageBoards
+14:25:30,561 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyOrganization
+14:25:30,578 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyResourcePermissions
+14:25:31,101 INFO  [pool-2-thread-1][VerifyResourcePermissions:147] Processed 100 resource permissions for com.liferay.portal.model.User
+14:25:31,484 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifySocial
+14:25:31,485 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyUser
+14:25:31,496 INFO  [pool-2-thread-1][VerifyProcess:81] Verifying com.liferay.portal.verify.VerifyWiki
+14:25:31,507 INFO  [pool-2-thread-1][ServerDetector:154] Server supports hot deploy
+14:25:31,511 INFO  [pool-2-thread-1][PluginPackageUtil:1030] Reading plugin package for the root context
+14:25:33,379 INFO  [pool-2-thread-1][AutoDeployDir:85] Creating missing directory /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/deploy
+14:25:33,380 INFO  [pool-2-thread-1][AutoDeployDir:106] Auto deploy scanner started for /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/deploy
+14:25:34,740 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:34,759 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:34,765 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:34,766 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:34,766 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:34,767 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,017 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,033 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,035 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,036 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,056 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,056 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,062 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,063 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,079 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,090 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,091 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,091 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,097 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,097 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,103 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,104 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,109 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,110 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,133 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,143 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,144 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,144 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,151 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,152 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,157 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,157 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,187 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,571 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,584 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,585 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,585 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,593 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,594 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,623 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,624 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,626 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,627 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,633 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,644 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,645 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,645 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,648 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,649 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,661 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,673 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,674 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,674 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,679 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,680 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,682 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,683 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,700 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,736 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,749 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,750 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,750 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,753 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,753 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,760 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,760 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,766 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,767 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,779 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,791 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,792 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,792 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,804 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,816 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,816 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,817 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,820 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,821 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,832 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,850 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,851 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,851 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,862 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:36,863 WARN  [pool-2-thread-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:39,378 WARN  [http-bio-8080-exec-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:39,393 WARN  [http-bio-8080-exec-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:39,395 WARN  [http-bio-8080-exec-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:39,395 WARN  [http-bio-8080-exec-1][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:39,396 ERROR [http-bio-8080-exec-1][MainServlet:1224] com.liferay.portal.kernel.events.ActionException: java.lang.NullPointerException
+com.liferay.portal.kernel.events.ActionException: java.lang.NullPointerException
+	at com.liferay.portal.events.ThemeServicePreAction.run(ThemeServicePreAction.java:47)
+	at com.liferay.portal.events.EventsProcessorImpl.processEvent(EventsProcessorImpl.java:81)
+	at com.liferay.portal.events.EventsProcessorImpl.process(EventsProcessorImpl.java:58)
+	at com.liferay.portal.events.EventsProcessorUtil.process(EventsProcessorUtil.java:40)
+	at com.liferay.portal.servlet.MainServlet.processServicePre(MainServlet.java:1204)
+	at com.liferay.portal.servlet.MainServlet.service(MainServlet.java:501)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:72)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.secure.SecureFilter.processFilter(SecureFilter.java:294)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:684)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:471)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:402)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:329)
+	at com.liferay.portal.servlet.FriendlyURLServlet.service(FriendlyURLServlet.java:138)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:72)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.strip.StripFilter.processFilter(StripFilter.java:335)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.secure.SecureFilter.processFilter(SecureFilter.java:294)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.i18n.I18nFilter.processFilter(I18nFilter.java:241)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.autologin.AutoLoginFilter.processFilter(AutoLoginFilter.java:246)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:684)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:471)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:402)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:329)
+	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:306)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:187)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:738)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:167)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:167)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:187)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:225)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:169)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:168)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:927)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:999)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:565)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:307)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NullPointerException
+	at com.liferay.portal.model.impl.LayoutSetImpl.getColorScheme(LayoutSetImpl.java:50)
+	at com.liferay.portal.model.impl.LayoutImpl.getColorScheme(LayoutImpl.java:241)
+	at com.liferay.portal.events.ThemeServicePreAction.servicePre(ThemeServicePreAction.java:80)
+	at com.liferay.portal.events.ThemeServicePreAction.run(ThemeServicePreAction.java:44)
+	... 103 more
+14:25:40,438 ERROR [http-bio-8080-exec-1][error_jsp:422] User ID null
+14:25:40,438 ERROR [http-bio-8080-exec-1][error_jsp:423] Current URL /
+14:25:40,438 ERROR [http-bio-8080-exec-1][error_jsp:424] Referer null
+14:25:40,438 ERROR [http-bio-8080-exec-1][error_jsp:425] Remote address 127.0.0.1
+14:25:40,439 ERROR [http-bio-8080-exec-1][error_jsp:427] com.liferay.portal.kernel.events.ActionException: java.lang.NullPointerException
+com.liferay.portal.kernel.events.ActionException: java.lang.NullPointerException
+	at com.liferay.portal.events.ThemeServicePreAction.run(ThemeServicePreAction.java:47)
+	at com.liferay.portal.events.EventsProcessorImpl.processEvent(EventsProcessorImpl.java:81)
+	at com.liferay.portal.events.EventsProcessorImpl.process(EventsProcessorImpl.java:58)
+	at com.liferay.portal.events.EventsProcessorUtil.process(EventsProcessorUtil.java:40)
+	at com.liferay.portal.servlet.MainServlet.processServicePre(MainServlet.java:1204)
+	at com.liferay.portal.servlet.MainServlet.service(MainServlet.java:501)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:72)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.secure.SecureFilter.processFilter(SecureFilter.java:294)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:684)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:471)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:402)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:329)
+	at com.liferay.portal.servlet.FriendlyURLServlet.service(FriendlyURLServlet.java:138)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:72)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.strip.StripFilter.processFilter(StripFilter.java:335)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.secure.SecureFilter.processFilter(SecureFilter.java:294)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.i18n.I18nFilter.processFilter(I18nFilter.java:241)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.autologin.AutoLoginFilter.processFilter(AutoLoginFilter.java:246)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:684)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:471)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:402)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:329)
+	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:306)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:187)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:738)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:167)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:167)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:187)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:225)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:169)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:168)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:927)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:999)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:565)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:307)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NullPointerException
+	at com.liferay.portal.model.impl.LayoutSetImpl.getColorScheme(LayoutSetImpl.java:50)
+	at com.liferay.portal.model.impl.LayoutImpl.getColorScheme(LayoutImpl.java:241)
+	at com.liferay.portal.events.ThemeServicePreAction.servicePre(ThemeServicePreAction.java:80)
+	at com.liferay.portal.events.ThemeServicePreAction.run(ThemeServicePreAction.java:44)
+	... 103 more
+14:25:41,218 WARN  [http-bio-8080-exec-2][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:41,221 WARN  [http-bio-8080-exec-2][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:41,222 WARN  [http-bio-8080-exec-2][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:41,222 WARN  [http-bio-8080-exec-2][ThemeLocalServiceImpl:149] No theme found for specified theme id classic. Returning the default theme.
+14:25:41,223 ERROR [http-bio-8080-exec-2][MainServlet:1224] com.liferay.portal.kernel.events.ActionException: java.lang.NullPointerException
+com.liferay.portal.kernel.events.ActionException: java.lang.NullPointerException
+	at com.liferay.portal.events.ThemeServicePreAction.run(ThemeServicePreAction.java:47)
+	at com.liferay.portal.events.EventsProcessorImpl.processEvent(EventsProcessorImpl.java:81)
+	at com.liferay.portal.events.EventsProcessorImpl.process(EventsProcessorImpl.java:58)
+	at com.liferay.portal.events.EventsProcessorUtil.process(EventsProcessorUtil.java:40)
+	at com.liferay.portal.servlet.MainServlet.processServicePre(MainServlet.java:1204)
+	at com.liferay.portal.servlet.MainServlet.service(MainServlet.java:501)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:72)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.secure.SecureFilter.processFilter(SecureFilter.java:294)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:684)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:471)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:402)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:329)
+	at com.liferay.portal.servlet.FriendlyURLServlet.service(FriendlyURLServlet.java:138)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:72)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.strip.StripFilter.processFilter(StripFilter.java:335)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.gzip.GZipFilter.processFilter(GZipFilter.java:123)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.secure.SecureFilter.processFilter(SecureFilter.java:294)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.i18n.I18nFilter.processFilter(I18nFilter.java:241)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.autologin.AutoLoginFilter.processFilter(AutoLoginFilter.java:246)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:684)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:471)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:402)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:329)
+	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:306)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:187)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:738)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:167)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:167)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:187)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:225)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:169)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:168)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:927)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:999)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:565)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:307)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NullPointerException
+	at com.liferay.portal.model.impl.LayoutSetImpl.getColorScheme(LayoutSetImpl.java:50)
+	at com.liferay.portal.model.impl.LayoutImpl.getColorScheme(LayoutImpl.java:241)
+	at com.liferay.portal.events.ThemeServicePreAction.servicePre(ThemeServicePreAction.java:80)
+	at com.liferay.portal.events.ThemeServicePreAction.run(ThemeServicePreAction.java:44)
+	... 107 more
+14:25:41,228 ERROR [http-bio-8080-exec-2][error_jsp:422] User ID null
+14:25:41,229 ERROR [http-bio-8080-exec-2][error_jsp:423] Current URL /
+14:25:41,229 ERROR [http-bio-8080-exec-2][error_jsp:424] Referer null
+14:25:41,229 ERROR [http-bio-8080-exec-2][error_jsp:425] Remote address 127.0.0.1
+14:25:41,230 ERROR [http-bio-8080-exec-2][error_jsp:427] com.liferay.portal.kernel.events.ActionException: java.lang.NullPointerException
+com.liferay.portal.kernel.events.ActionException: java.lang.NullPointerException
+	at com.liferay.portal.events.ThemeServicePreAction.run(ThemeServicePreAction.java:47)
+	at com.liferay.portal.events.EventsProcessorImpl.processEvent(EventsProcessorImpl.java:81)
+	at com.liferay.portal.events.EventsProcessorImpl.process(EventsProcessorImpl.java:58)
+	at com.liferay.portal.events.EventsProcessorUtil.process(EventsProcessorUtil.java:40)
+	at com.liferay.portal.servlet.MainServlet.processServicePre(MainServlet.java:1204)
+	at com.liferay.portal.servlet.MainServlet.service(MainServlet.java:501)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:72)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.secure.SecureFilter.processFilter(SecureFilter.java:294)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:684)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:471)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:402)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:329)
+	at com.liferay.portal.servlet.FriendlyURLServlet.service(FriendlyURLServlet.java:138)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:72)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.strip.StripFilter.processFilter(StripFilter.java:335)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.gzip.GZipFilter.processFilter(GZipFilter.java:123)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.secure.SecureFilter.processFilter(SecureFilter.java:294)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.i18n.I18nFilter.processFilter(I18nFilter.java:241)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:163)
+	at com.liferay.portal.servlet.filters.autologin.AutoLoginFilter.processFilter(AutoLoginFilter.java:246)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:684)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:471)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:402)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:329)
+	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:306)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:57)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:187)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:738)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:206)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:108)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:167)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:167)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:187)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:95)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:73)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:225)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:169)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:168)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:927)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:999)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:565)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:307)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NullPointerException
+	at com.liferay.portal.model.impl.LayoutSetImpl.getColorScheme(LayoutSetImpl.java:50)
+	at com.liferay.portal.model.impl.LayoutImpl.getColorScheme(LayoutImpl.java:241)
+	at com.liferay.portal.events.ThemeServicePreAction.servicePre(ThemeServicePreAction.java:80)
+	at com.liferay.portal.events.ThemeServicePreAction.run(ThemeServicePreAction.java:44)
+	... 107 more
+14:26:04,428 INFO  [pool-2-thread-2][PluginPackageUtil:1033] Reading plugin package for resources-importer-web
+14:26:05,421 INFO  [pool-2-thread-2][HotDeployEvent:109] Plugin welcome-theme requires resources-importer-web
+14:26:05,421 INFO  [pool-2-thread-2][PluginPackageUtil:1033] Reading plugin package for welcome-theme
+14:26:05,423 INFO  [pool-2-thread-2][PluginPackageUtil:1033] Reading plugin package for marketplace-portlet
+14:27:03,428 INFO  [pool-2-thread-1][DialectDetector:71] Determine dialect for HSQL Database Engine 2
+14:27:03,430 WARN  [pool-2-thread-1][DialectDetector:86] Liferay is configured to use Hypersonic as its database. Do NOT use Hypersonic in production. Hypersonic is an embedded database useful for development and demo'ing purposes. The database settings can be changed in portal-ext.properties.
+14:27:03,451 INFO  [pool-2-thread-1][DialectDetector:136] Found dialect org.hibernate.dialect.HSQLDialect
+14:27:16,150 INFO  [pool-2-thread-1][BaseDB:452] Database supports case sensitive queries
+14:27:16,367 INFO  [pool-2-thread-1][ServerDetector:154] Server supports hot deploy
+14:27:16,370 INFO  [pool-2-thread-1][PluginPackageUtil:1030] Reading plugin package for the root context
+14:27:18,041 INFO  [pool-2-thread-1][AutoDeployDir:106] Auto deploy scanner started for /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/deploy
+14:28:07,686 INFO  [pool-2-thread-2][PluginPackageUtil:1033] Reading plugin package for resources-importer-web
+14:28:08,847 INFO  [pool-2-thread-2][HotDeployEvent:109] Plugin welcome-theme requires resources-importer-web
+14:28:08,847 INFO  [pool-2-thread-2][PluginPackageUtil:1033] Reading plugin package for welcome-theme
+14:28:08,850 INFO  [pool-2-thread-2][PluginPackageUtil:1033] Reading plugin package for marketplace-portlet
+14:46:01,631 INFO  [pool-2-thread-1][DialectDetector:71] Determine dialect for HSQL Database Engine 2
+14:46:01,641 WARN  [pool-2-thread-1][DialectDetector:86] Liferay is configured to use Hypersonic as its database. Do NOT use Hypersonic in production. Hypersonic is an embedded database useful for development and demo'ing purposes. The database settings can be changed in portal-ext.properties.
+14:46:01,679 INFO  [pool-2-thread-1][DialectDetector:136] Found dialect org.hibernate.dialect.HSQLDialect
+14:46:16,121 INFO  [pool-2-thread-1][BaseDB:452] Database supports case sensitive queries
+14:46:16,400 INFO  [pool-2-thread-1][ServerDetector:154] Server supports hot deploy
+14:46:16,422 INFO  [pool-2-thread-1][PluginPackageUtil:1030] Reading plugin package for the root context
+14:46:19,670 INFO  [pool-2-thread-1][AutoDeployDir:106] Auto deploy scanner started for /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/deploy
+14:48:06,339 INFO  [pool-2-thread-3][PluginPackageUtil:1033] Reading plugin package for resources-importer-web
+14:48:06,998 INFO  [pool-2-thread-3][HotDeployEvent:109] Plugin welcome-theme requires resources-importer-web
+14:48:06,999 INFO  [pool-2-thread-3][PluginPackageUtil:1033] Reading plugin package for welcome-theme
+14:48:07,030 INFO  [pool-2-thread-3][PluginPackageUtil:1033] Reading plugin package for marketplace-portlet

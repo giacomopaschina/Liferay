@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>West of Worthing, Worthing, Sussex</full>
+		<neighborhood>West of Worthing</neighborhood>
+		<city>Worthing</city>
+		<state>Sussex</state>
+		<zip></zip>
+		<latitude>50.809093</latitude>
+		<longitude>-0.394293</longitude>
+		<elevation>16 ft</elevation>
+		</location>
+		<station_id>IWORTHIN1</station_id>
+		<station_type>Cumulus</station_type>
+		<observation_time>Last Updated on December 4, 12:09 PM GMT</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 12:09:57 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>49.5 F (9.7 C)</temperature_string>
+		<temp_f>49.5</temp_f>
+		<temp_c>9.7</temp_c>
+		<relative_humidity>88</relative_humidity>
+		<wind_string>From the NW at 4.0 MPH Gusting to 7.6 MPH</wind_string>
+		<wind_dir>NW</wind_dir>
+		<wind_degrees>316</wind_degrees>
+		<wind_mph>4.0</wind_mph>
+		<wind_gust_mph>7.6</wind_gust_mph>
+		<pressure_string>30.15" (1020.9 mb)</pressure_string>
+		<pressure_mb>1020.9</pressure_mb>
+		<pressure_in>30.15</pressure_in>
+		<dewpoint_string>46.1 F (7.8 C)</dewpoint_string>
+		<dewpoint_f>46.1</dewpoint_f>
+		<dewpoint_c>7.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>48 F (9 C)</windchill_string>
+		<windchill_f>48</windchill_f>
+		<windchill_c>9</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IWORTHIN1</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=50.809093,-0.394293</ob_url>
+	</current_observation>
+

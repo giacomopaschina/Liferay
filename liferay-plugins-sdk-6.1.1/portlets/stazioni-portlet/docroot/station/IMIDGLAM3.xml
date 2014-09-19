@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Caerphilly, Caerphilly, Wales</full>
+		<neighborhood>Caerphilly</neighborhood>
+		<city>Caerphilly</city>
+		<state>Wales</state>
+		<zip></zip>
+		<latitude>51.574402</latitude>
+		<longitude>-3.237019</longitude>
+		<elevation>335 ft</elevation>
+		</location>
+		<station_id>IMIDGLAM3</station_id>
+		<station_type>Oregon Scientific WMR 928</station_type>
+		<observation_time>Last Updated on June 18, 1:55 PM BST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:55:28 GMT</observation_time_rfc822>
+		<weather>BKN</weather>
+		<temperature_string>76.1 F (24.5 C)</temperature_string>
+		<temp_f>76.1</temp_f>
+		<temp_c>24.5</temp_c>
+		<relative_humidity>54</relative_humidity>
+		<wind_string>From the SSW at 3.5 MPH Gusting to 3.5 MPH</wind_string>
+		<wind_dir>SSW</wind_dir>
+		<wind_degrees>204</wind_degrees>
+		<wind_mph>3.5</wind_mph>
+		<wind_gust_mph>3.5</wind_gust_mph>
+		<pressure_string>29.85" (1010.7 mb)</pressure_string>
+		<pressure_mb>1010.7</pressure_mb>
+		<pressure_in>29.85</pressure_in>
+		<dewpoint_string>58.2 F (14.6 C)</dewpoint_string>
+		<dewpoint_f>58.2</dewpoint_f>
+		<dewpoint_c>14.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>1114</solar_radiation>
+		<UV>15.6</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IMIDGLAM3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=51.574402,-3.237019</ob_url>
+	</current_observation>
+

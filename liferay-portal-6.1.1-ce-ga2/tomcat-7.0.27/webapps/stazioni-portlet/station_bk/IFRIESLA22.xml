@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Surhuisterveen Centrum, Surhuisterveen, Friesland</full>
+		<neighborhood>Surhuisterveen Centrum</neighborhood>
+		<city>Surhuisterveen</city>
+		<state>Friesland</state>
+		<zip></zip>
+		<latitude>53.181774</latitude>
+		<longitude>6.164906</longitude>
+		<elevation>-3 ft</elevation>
+		</location>
+		<station_id>IFRIESLA22</station_id>
+		<station_type>Cresta PMT980</station_type>
+		<observation_time>Last Updated on December 4, 12:52 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:52:14 GMT</observation_time_rfc822>
+		<weather>-RA</weather>
+		<temperature_string>46.2 F (7.9 C)</temperature_string>
+		<temp_f>46.2</temp_f>
+		<temp_c>7.9</temp_c>
+		<relative_humidity>92</relative_humidity>
+		<wind_string>From the WNW at 3.7 MPH Gusting to 5.8 MPH</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>292</wind_degrees>
+		<wind_mph>3.7</wind_mph>
+		<wind_gust_mph>5.8</wind_gust_mph>
+		<pressure_string>30.08" (1018.5 mb)</pressure_string>
+		<pressure_mb>1018.5</pressure_mb>
+		<pressure_in>30.08</pressure_in>
+		<dewpoint_string>44.0 F (6.7 C)</dewpoint_string>
+		<dewpoint_f>44.0</dewpoint_f>
+		<dewpoint_c>6.7</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>45 F (7 C)</windchill_string>
+		<windchill_f>45</windchill_f>
+		<windchill_c>7</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.03 in (0.1 mm)</precip_1hr_string>
+		<precip_1hr_in>0.03</precip_1hr_in>
+		<precip_1hr_metric>0.1</precip_1hr_metric>
+		<precip_today_string>0.06 in (0.2 cm)</precip_today_string>
+		<precip_today_in>0.06</precip_today_in>
+		<precip_today_metric>0.2 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IFRIESLA22</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=53.181774,6.164906</ob_url>
+	</current_observation>
+

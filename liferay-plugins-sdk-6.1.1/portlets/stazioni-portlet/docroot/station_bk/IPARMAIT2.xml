@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Castellina Di Soragna, PARMA/ITALIA</full>
+		<neighborhood></neighborhood>
+		<city>Castellina Di Soragna</city>
+		<state>PARMA/ITALIA</state>
+		<zip></zip>
+		<latitude>44.911957</latitude>
+		<longitude>10.104582</longitude>
+		<elevation>154 ft</elevation>
+		</location>
+		<station_id>IPARMAIT2</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on December 4, 12:19 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:19:44 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>45.1 F (7.3 C)</temperature_string>
+		<temp_f>45.1</temp_f>
+		<temp_c>7.3</temp_c>
+		<relative_humidity>65</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>283</wind_degrees>
+		<wind_mph>0.7</wind_mph>
+		<wind_gust_mph>3.1</wind_gust_mph>
+		<pressure_string>30.19" (1022.2 mb)</pressure_string>
+		<pressure_mb>1022.2</pressure_mb>
+		<pressure_in>30.19</pressure_in>
+		<dewpoint_string>34.1 F (1.2 C)</dewpoint_string>
+		<dewpoint_f>34.1</dewpoint_f>
+		<dewpoint_c>1.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IPARMAIT2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=44.911957,10.104582</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Spencers Wood, United Kingdom, </full>
+		<neighborhood>Spencers Wood</neighborhood>
+		<city>United Kingdom</city>
+		<state></state>
+		<zip></zip>
+		<latitude>51.397881</latitude>
+		<longitude>-0.971386</longitude>
+		<elevation>161 ft</elevation>
+		</location>
+		<station_id>IUNITEDK5</station_id>
+		<station_type>other</station_type>
+		<observation_time>Last Updated on June 18, 9:37 AM BST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 08:37:45 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>63.7 F (17.6 C)</temperature_string>
+		<temp_f>63.7</temp_f>
+		<temp_c>17.6</temp_c>
+		<relative_humidity>79</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>72</wind_degrees>
+		<wind_mph>0.2</wind_mph>
+		<wind_gust_mph>3.8</wind_gust_mph>
+		<pressure_string>30.32" (1026.6 mb)</pressure_string>
+		<pressure_mb>1026.6</pressure_mb>
+		<pressure_in>30.32</pressure_in>
+		<dewpoint_string>57.1 F (13.9 C)</dewpoint_string>
+		<dewpoint_f>57.1</dewpoint_f>
+		<dewpoint_c>13.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IUNITEDK5</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=51.397881,-0.971386</ob_url>
+	</current_observation>
+

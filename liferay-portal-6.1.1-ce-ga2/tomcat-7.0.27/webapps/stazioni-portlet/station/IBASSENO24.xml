@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Mon Jardin, Saint-Contest, BASSE-NORMANDIE</full>
+		<neighborhood>Mon Jardin</neighborhood>
+		<city>Saint-Contest</city>
+		<state>BASSE-NORMANDIE</state>
+		<zip></zip>
+		<latitude>49.214725</latitude>
+		<longitude>-0.423010</longitude>
+		<elevation>203 ft</elevation>
+		</location>
+		<station_id>IBASSENO24</station_id>
+		<station_type>Oregon Scientific Professional Weather Center</station_type>
+		<observation_time>Last Updated on June 18, 2:50 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:50:26 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>66.6 F (19.2 C)</temperature_string>
+		<temp_f>66.6</temp_f>
+		<temp_c>19.2</temp_c>
+		<relative_humidity>67</relative_humidity>
+		<wind_string>From the NNW at 6.0 MPH Gusting to 11.0 MPH</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>338</wind_degrees>
+		<wind_mph>6.0</wind_mph>
+		<wind_gust_mph>11.0</wind_gust_mph>
+		<pressure_string>30.06" (1017.8 mb)</pressure_string>
+		<pressure_mb>1017.8</pressure_mb>
+		<pressure_in>30.06</pressure_in>
+		<dewpoint_string>55.3 F (12.9 C)</dewpoint_string>
+		<dewpoint_f>55.3</dewpoint_f>
+		<dewpoint_c>12.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>-999.00 in (-2537.5 mm)</precip_1hr_string>
+		<precip_1hr_in>-999.00</precip_1hr_in>
+		<precip_1hr_metric>-2537.5</precip_1hr_metric>
+		<precip_today_string>-999.00 in (-2537.5 cm)</precip_today_string>
+		<precip_today_in>-999.00</precip_today_in>
+		<precip_today_metric>-2537.5 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBASSENO24</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=49.214725,-0.423010</ob_url>
+	</current_observation>
+

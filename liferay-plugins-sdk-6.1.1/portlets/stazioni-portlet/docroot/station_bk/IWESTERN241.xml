@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Packsaddle Farm, Wiluna, WESTERN AUSTRALIA</full>
+		<neighborhood>Packsaddle Farm</neighborhood>
+		<city>Wiluna</city>
+		<state>WESTERN AUSTRALIA</state>
+		<zip></zip>
+		<latitude>-26.598446</latitude>
+		<longitude>120.342705</longitude>
+		<elevation>1663 ft</elevation>
+		</location>
+		<station_id>IWESTERN241</station_id>
+		<station_type>Davis Vantage Pro2 (Cabled)</station_type>
+		<observation_time>Last Updated on December 4, 7:30 PM WST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:30:01 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>81.9 F (27.7 C)</temperature_string>
+		<temp_f>81.9</temp_f>
+		<temp_c>27.7</temp_c>
+		<relative_humidity>12</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>ESE</wind_dir>
+		<wind_degrees>104</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>28.20" (954.9 mb)</pressure_string>
+		<pressure_mb>954.9</pressure_mb>
+		<pressure_in>28.20</pressure_in>
+		<dewpoint_string>24.2 F (-4.3 C)</dewpoint_string>
+		<dewpoint_f>24.2</dewpoint_f>
+		<dewpoint_c>-4.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IWESTERN241</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-26.598446,120.342705</ob_url>
+	</current_observation>
+

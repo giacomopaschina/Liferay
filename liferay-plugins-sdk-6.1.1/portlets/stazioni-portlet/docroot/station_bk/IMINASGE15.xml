@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Maria da Fe MG Bairro Sitio da Lage Alt :1317 Metros - Prop - William Siqueira, Maria Da Fe, MINAS GERAIS</full>
+		<neighborhood>Maria da Fe MG Bairro Sitio da Lage Alt :1317 Metros - Prop - William Siqueira</neighborhood>
+		<city>Maria Da Fe</city>
+		<state>MINAS GERAIS</state>
+		<zip></zip>
+		<latitude>-22.316902</latitude>
+		<longitude>-45.354946</longitude>
+		<elevation>4321 ft</elevation>
+		</location>
+		<station_id>IMINASGE15</station_id>
+		<station_type>Oregon Scientific</station_type>
+		<observation_time>Last Updated on December 4, 8:36 AM BRST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 10:36:23 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>64.4 F (18.0 C)</temperature_string>
+		<temp_f>64.4</temp_f>
+		<temp_c>18.0</temp_c>
+		<relative_humidity>87</relative_humidity>
+		<wind_string>From the NW at 3.9 MPH Gusting to 10.7 MPH</wind_string>
+		<wind_dir>NW</wind_dir>
+		<wind_degrees>316</wind_degrees>
+		<wind_mph>3.9</wind_mph>
+		<wind_gust_mph>10.7</wind_gust_mph>
+		<pressure_string>29.88" (1011.7 mb)</pressure_string>
+		<pressure_mb>1011.7</pressure_mb>
+		<pressure_in>29.88</pressure_in>
+		<dewpoint_string>60.5 F (15.8 C)</dewpoint_string>
+		<dewpoint_f>60.5</dewpoint_f>
+		<dewpoint_c>15.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IMINASGE15</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-22.316902,-45.354946</ob_url>
+	</current_observation>
+

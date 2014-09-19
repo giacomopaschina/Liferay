@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Samford Valley, QLD</full>
+		<neighborhood></neighborhood>
+		<city>Samford Valley</city>
+		<state>QLD</state>
+		<zip></zip>
+		<latitude>-27.373405</latitude>
+		<longitude>152.839066</longitude>
+		<elevation>295 ft</elevation>
+		</location>
+		<station_id>IQLDSAMF2</station_id>
+		<station_type>Digitech XC0348</station_type>
+		<observation_time>Last Updated on December 4, 9:25 PM EST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:25:05 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>68.2 F (20.1 C)</temperature_string>
+		<temp_f>68.2</temp_f>
+		<temp_c>20.1</temp_c>
+		<relative_humidity>83</relative_humidity>
+		<wind_string>From the SE at 1.0 MPH Gusting to 3.0 MPH</wind_string>
+		<wind_dir>SE</wind_dir>
+		<wind_degrees>144</wind_degrees>
+		<wind_mph>1.0</wind_mph>
+		<wind_gust_mph>3.0</wind_gust_mph>
+		<pressure_string>29.73" (1006.7 mb)</pressure_string>
+		<pressure_mb>1006.7</pressure_mb>
+		<pressure_in>29.73</pressure_in>
+		<dewpoint_string>62.8 F (17.1 C)</dewpoint_string>
+		<dewpoint_f>62.8</dewpoint_f>
+		<dewpoint_c>17.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IQLDSAMF2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-27.373405,152.839066</ob_url>
+	</current_observation>
+

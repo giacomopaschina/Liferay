@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Markham, Markham, ONTARIO</full>
+		<neighborhood>Markham</neighborhood>
+		<city>Markham</city>
+		<state>ONTARIO</state>
+		<zip></zip>
+		<latitude>43.895100</latitude>
+		<longitude>-79.228867</longitude>
+		<elevation>-107507 ft</elevation>
+		</location>
+		<station_id>IONTARIO353</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on March 24, 6:06 PM EDT</observation_time>
+		<observation_time_rfc822>Mon, 24 Mar 2014 22:06:34 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>23.0 F (-5.0 C)</temperature_string>
+		<temp_f>23.0</temp_f>
+		<temp_c>-5.0</temp_c>
+		<relative_humidity>1</relative_humidity>
+		<wind_string>From the WSW at 11.4 MPH </wind_string>
+		<wind_dir>WSW</wind_dir>
+		<wind_degrees>247</wind_degrees>
+		<wind_mph>11.4</wind_mph>
+		<wind_gust_mph>-999.0</wind_gust_mph>
+		<pressure_string>29.91" (1012.8 mb)</pressure_string>
+		<pressure_mb>1012.8</pressure_mb>
+		<pressure_in>29.91</pressure_in>
+		<dewpoint_string>-63.7 F (-53.2 C)</dewpoint_string>
+		<dewpoint_f>-63.7</dewpoint_f>
+		<dewpoint_c>-53.2</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>12 F (-11 C)</windchill_string>
+		<windchill_f>12</windchill_f>
+		<windchill_c>-11</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>-999.00 in (-2537.5 mm)</precip_1hr_string>
+		<precip_1hr_in>-999.00</precip_1hr_in>
+		<precip_1hr_metric>-2537.5</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IONTARIO353</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=43.895100,-79.228867</ob_url>
+	</current_observation>
+

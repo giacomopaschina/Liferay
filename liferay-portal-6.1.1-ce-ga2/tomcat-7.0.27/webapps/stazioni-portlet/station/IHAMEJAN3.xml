@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Leppakuja, Janakkala, HAME</full>
+		<neighborhood>Leppakuja</neighborhood>
+		<city>Janakkala</city>
+		<state>HAME</state>
+		<zip></zip>
+		<latitude>60.922543</latitude>
+		<longitude>24.640015</longitude>
+		<elevation>348 ft</elevation>
+		</location>
+		<station_id>IHAMEJAN3</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on April 28, 2:49 AM EEST</observation_time>
+		<observation_time_rfc822>Sun, 27 Apr 2014 23:49:05 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>36.1 F (2.3 C)</temperature_string>
+		<temp_f>36.1</temp_f>
+		<temp_c>2.3</temp_c>
+		<relative_humidity>88</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>328</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.95" (1014.1 mb)</pressure_string>
+		<pressure_mb>1014.1</pressure_mb>
+		<pressure_in>29.95</pressure_in>
+		<dewpoint_string>33.0 F (0.6 C)</dewpoint_string>
+		<dewpoint_f>33.0</dewpoint_f>
+		<dewpoint_c>0.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IHAMEJAN3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=60.922543,24.640015</ob_url>
+	</current_observation>
+

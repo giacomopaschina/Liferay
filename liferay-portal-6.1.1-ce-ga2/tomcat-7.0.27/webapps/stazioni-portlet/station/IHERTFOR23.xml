@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Harpenden, HERTFORDSHIRE</full>
+		<neighborhood></neighborhood>
+		<city>Harpenden</city>
+		<state>HERTFORDSHIRE</state>
+		<zip></zip>
+		<latitude>51.817146</latitude>
+		<longitude>-0.350216</longitude>
+		<elevation>410 ft</elevation>
+		</location>
+		<station_id>IHERTFOR23</station_id>
+		<station_type>Davis VP2 plus</station_type>
+		<observation_time>Last Updated on June 18, 1:48 PM BST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:48:58 GMT</observation_time_rfc822>
+		<weather>FEW</weather>
+		<temperature_string>66.7 F (19.3 C)</temperature_string>
+		<temp_f>66.7</temp_f>
+		<temp_c>19.3</temp_c>
+		<relative_humidity>66</relative_humidity>
+		<wind_string>From the NE at 8.1 MPH Gusting to 8.1 MPH</wind_string>
+		<wind_dir>NE</wind_dir>
+		<wind_degrees>38</wind_degrees>
+		<wind_mph>8.1</wind_mph>
+		<wind_gust_mph>8.1</wind_gust_mph>
+		<pressure_string>30.28" (1025.3 mb)</pressure_string>
+		<pressure_mb>1025.3</pressure_mb>
+		<pressure_in>30.28</pressure_in>
+		<dewpoint_string>55.0 F (12.8 C)</dewpoint_string>
+		<dewpoint_f>55.0</dewpoint_f>
+		<dewpoint_c>12.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>455</solar_radiation>
+		<UV>3.9</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IHERTFOR23</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=51.817146,-0.350216</ob_url>
+	</current_observation>
+

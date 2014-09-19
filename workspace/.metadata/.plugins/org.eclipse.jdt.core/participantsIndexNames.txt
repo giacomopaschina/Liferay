@@ -1,0 +1,15 @@
+INDEX VERSION 1.126
+/home/giacomo/Liferay/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3758691946.index
+/ncWMS-portlet/docroot/WEB-INF/src
+/home/giacomo/Liferay/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/101672916.index
+/ncWMS_project/src/java
+/home/giacomo/Liferay/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1315691020.index
+/ncWMS_portlet-portlet/docroot/WEB-INF/src
+/home/giacomo/Liferay/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/945609370.index
+/ncWMS-portlet/docroot/WEB-INF/src
+/home/giacomo/Liferay/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3912849630.index
+/ncWMS_portlet-portlet/docroot/WEB-INF/src
+/home/giacomo/Liferay/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3140639224.index
+/ncWMS-portlet/docroot/WEB-INF/src
+/home/giacomo/Liferay/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1564216482.index
+/stazioni-portlet/docroot/WEB-INF/src

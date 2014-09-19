@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Stazione Meteo IW1GFH, Rivalta Bormida, AL</full>
+		<neighborhood>Stazione Meteo IW1GFH</neighborhood>
+		<city>Rivalta Bormida</city>
+		<state>AL</state>
+		<zip></zip>
+		<latitude>44.709248</latitude>
+		<longitude>8.555289</longitude>
+		<elevation>472 ft</elevation>
+		</location>
+		<station_id>IPIEMONT89</station_id>
+		<station_type>Davis Vantage Pro 2</station_type>
+		<observation_time>Last Updated on December 4, 12:10 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:10:10 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>42.4 F (5.8 C)</temperature_string>
+		<temp_f>42.4</temp_f>
+		<temp_c>5.8</temp_c>
+		<relative_humidity>72</relative_humidity>
+		<wind_string>From the WNW at 4.0 MPH Gusting to 4.0 MPH</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>285</wind_degrees>
+		<wind_mph>4.0</wind_mph>
+		<wind_gust_mph>4.0</wind_gust_mph>
+		<pressure_string>30.27" (1024.9 mb)</pressure_string>
+		<pressure_mb>1024.9</pressure_mb>
+		<pressure_in>30.27</pressure_in>
+		<dewpoint_string>34.0 F (1.1 C)</dewpoint_string>
+		<dewpoint_f>34.0</dewpoint_f>
+		<dewpoint_c>1.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>40 F (5 C)</windchill_string>
+		<windchill_f>40</windchill_f>
+		<windchill_c>5</windchill_c>
+		
+		<solar_radiation>111</solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IPIEMONT89</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=44.709248,8.555289</ob_url>
+	</current_observation>
+

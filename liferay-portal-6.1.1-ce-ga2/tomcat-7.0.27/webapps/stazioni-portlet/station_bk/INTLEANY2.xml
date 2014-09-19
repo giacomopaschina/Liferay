@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Leanyer, Darwin, Northern Territory</full>
+		<neighborhood>Leanyer</neighborhood>
+		<city>Darwin</city>
+		<state>Northern Territory</state>
+		<zip></zip>
+		<latitude>-12.374130</latitude>
+		<longitude>130.904297</longitude>
+		<elevation>69 ft</elevation>
+		</location>
+		<station_id>INTLEANY2</station_id>
+		<station_type>Cumulus</station_type>
+		<observation_time>Last Updated on December 4, 8:57 PM CST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:27:52 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>83.3 F (28.5 C)</temperature_string>
+		<temp_f>83.3</temp_f>
+		<temp_c>28.5</temp_c>
+		<relative_humidity>87</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>SSE</wind_dir>
+		<wind_degrees>168</wind_degrees>
+		<wind_mph>0.5</wind_mph>
+		<wind_gust_mph>2.2</wind_gust_mph>
+		<pressure_string>29.77" (1008.0 mb)</pressure_string>
+		<pressure_mb>1008.0</pressure_mb>
+		<pressure_in>29.77</pressure_in>
+		<dewpoint_string>79.1 F (26.2 C)</dewpoint_string>
+		<dewpoint_f>79.1</dewpoint_f>
+		<dewpoint_c>26.2</dewpoint_c>
+		
+		<heat_index_string>95 F (35 C)</heat_index_string>
+		<heat_index_f>95</heat_index_f>
+		<heat_index_c>35</heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>1208</solar_radiation>
+		<UV>1.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INTLEANY2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-12.374130,130.904297</ob_url>
+	</current_observation>
+

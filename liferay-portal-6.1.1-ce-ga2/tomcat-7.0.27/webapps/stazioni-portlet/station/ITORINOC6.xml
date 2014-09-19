@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Caluso, TORINO</full>
+		<neighborhood></neighborhood>
+		<city>Caluso</city>
+		<state>TORINO</state>
+		<zip></zip>
+		<latitude>45.308323</latitude>
+		<longitude>7.888827</longitude>
+		<elevation>984 ft</elevation>
+		</location>
+		<station_id>ITORINOC6</station_id>
+		<station_type>Davis Vantage Pro 2</station_type>
+		<observation_time>Last Updated on June 18, 2:49 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:49:03 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>72.6 F (22.6 C)</temperature_string>
+		<temp_f>72.6</temp_f>
+		<temp_c>22.6</temp_c>
+		<relative_humidity>63</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>NW</wind_dir>
+		<wind_degrees>325</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>-999.0</wind_gust_mph>
+		<pressure_string>29.99" (1015.5 mb)</pressure_string>
+		<pressure_mb>1015.5</pressure_mb>
+		<pressure_in>29.99</pressure_in>
+		<dewpoint_string>59.0 F (15.0 C)</dewpoint_string>
+		<dewpoint_f>59.0</dewpoint_f>
+		<dewpoint_c>15.0</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>591</solar_radiation>
+		<UV>2.2</UV>
+		<precip_1hr_string>-999.00 in (-2537.5 mm)</precip_1hr_string>
+		<precip_1hr_in>-999.00</precip_1hr_in>
+		<precip_1hr_metric>-2537.5</precip_1hr_metric>
+		<precip_today_string>0.27 in (0.7 cm)</precip_today_string>
+		<precip_today_in>0.27</precip_today_in>
+		<precip_today_metric>0.7 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ITORINOC6</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.308323,7.888827</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Farnborough, Farnborough, HAMPSHIRE</full>
+		<neighborhood>Farnborough</neighborhood>
+		<city>Farnborough</city>
+		<state>HAMPSHIRE</state>
+		<zip></zip>
+		<latitude>51.309776</latitude>
+		<longitude>-0.781324</longitude>
+		<elevation>236 ft</elevation>
+		</location>
+		<station_id>IHAMPSHI112</station_id>
+		<station_type>Raspberry Pi Weather Station</station_type>
+		<observation_time>Last Updated on June 18, 1:05 PM BST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:05:42 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>72.1 F (22.3 C)</temperature_string>
+		<temp_f>72.1</temp_f>
+		<temp_c>22.3</temp_c>
+		<relative_humidity>51</relative_humidity>
+		<wind_string>From the NE at 2.2 MPH Gusting to 4.5 MPH</wind_string>
+		<wind_dir>NE</wind_dir>
+		<wind_degrees>45</wind_degrees>
+		<wind_mph>2.2</wind_mph>
+		<wind_gust_mph>4.5</wind_gust_mph>
+		<pressure_string>29.86" (1011.1 mb)</pressure_string>
+		<pressure_mb>1011.1</pressure_mb>
+		<pressure_in>29.86</pressure_in>
+		<dewpoint_string>53.0 F (11.7 C)</dewpoint_string>
+		<dewpoint_f>53.0</dewpoint_f>
+		<dewpoint_c>11.7</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IHAMPSHI112</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=51.309776,-0.781324</ob_url>
+	</current_observation>
+

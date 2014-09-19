@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>5km N of Landmark, Lorette, MANITOBA</full>
+		<neighborhood>5km N of Landmark</neighborhood>
+		<city>Lorette</city>
+		<state>MANITOBA</state>
+		<zip></zip>
+		<latitude>49.721359</latitude>
+		<longitude>-96.810974</longitude>
+		<elevation>748 ft</elevation>
+		</location>
+		<station_id>IMANITOB69</station_id>
+		<station_type>National Geo 265NC</station_type>
+		<observation_time>Last Updated on June 18, 8:10 AM CDT</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:10:44 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>63.5 F (17.5 C)</temperature_string>
+		<temp_f>63.5</temp_f>
+		<temp_c>17.5</temp_c>
+		<relative_humidity>80</relative_humidity>
+		<wind_string>From the ESE at 7.6 MPH Gusting to 11.4 MPH</wind_string>
+		<wind_dir>ESE</wind_dir>
+		<wind_degrees>112</wind_degrees>
+		<wind_mph>7.6</wind_mph>
+		<wind_gust_mph>11.4</wind_gust_mph>
+		<pressure_string>29.72" (1006.3 mb)</pressure_string>
+		<pressure_mb>1006.3</pressure_mb>
+		<pressure_in>29.72</pressure_in>
+		<dewpoint_string>57.2 F (14.0 C)</dewpoint_string>
+		<dewpoint_f>57.2</dewpoint_f>
+		<dewpoint_c>14.0</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IMANITOB69</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=49.721359,-96.810974</ob_url>
+	</current_observation>
+

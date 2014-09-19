@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Funabashi, Funabashi, CHIBA</full>
+		<neighborhood>Funabashi</neighborhood>
+		<city>Funabashi</city>
+		<state>CHIBA</state>
+		<zip></zip>
+		<latitude>35.736134</latitude>
+		<longitude>140.036789</longitude>
+		<elevation>92 ft</elevation>
+		</location>
+		<station_id>ICHIBAFU2</station_id>
+		<station_type>DAVIS Vantage PRO2 PLUS</station_type>
+		<observation_time>Last Updated on December 4, 8:50 PM JST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:50:21 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>49.7 F (9.8 C)</temperature_string>
+		<temp_f>49.7</temp_f>
+		<temp_c>9.8</temp_c>
+		<relative_humidity>85</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>260</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>1.0</wind_gust_mph>
+		<pressure_string>29.99" (1015.5 mb)</pressure_string>
+		<pressure_mb>1015.5</pressure_mb>
+		<pressure_in>29.99</pressure_in>
+		<dewpoint_string>45.4 F (7.4 C)</dewpoint_string>
+		<dewpoint_f>45.4</dewpoint_f>
+		<dewpoint_c>7.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ICHIBAFU2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=35.736134,140.036789</ob_url>
+	</current_observation>
+

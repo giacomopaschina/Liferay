@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Ivanovo, %u0418%u0432%u0430%u043D%u043E%u0432%u043E, %U0418%U0432%U0430%U043D%U043E%U0432%U0441%U043A%U0430%U044F</full>
+		<neighborhood>Ivanovo</neighborhood>
+		<city>%u0418%u0432%u0430%u043D%u043E%u0432%u043E</city>
+		<state>%U0418%U0432%U0430%U043D%U043E%U0432%U0441%U043A%U0430%U044F</state>
+		<zip></zip>
+		<latitude>56.985512</latitude>
+		<longitude>40.956001</longitude>
+		<elevation>400 ft</elevation>
+		</location>
+		<station_id>IU0418U03</station_id>
+		<station_type>Oregon Scientific WMR88</station_type>
+		<observation_time>Last Updated on June 18, 4:50 PM MSK</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:50:06 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>57.3 F (14.1 C)</temperature_string>
+		<temp_f>57.3</temp_f>
+		<temp_c>14.1</temp_c>
+		<relative_humidity>49</relative_humidity>
+		<wind_string>From the SW at 9.0 MPH Gusting to 12.0 MPH</wind_string>
+		<wind_dir>SW</wind_dir>
+		<wind_degrees>225</wind_degrees>
+		<wind_mph>9.0</wind_mph>
+		<wind_gust_mph>12.0</wind_gust_mph>
+		<pressure_string>29.21" (989.1 mb)</pressure_string>
+		<pressure_mb>989.1</pressure_mb>
+		<pressure_in>29.21</pressure_in>
+		<dewpoint_string>38.3 F (3.5 C)</dewpoint_string>
+		<dewpoint_f>38.3</dewpoint_f>
+		<dewpoint_c>3.5</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.04 in (0.1 cm)</precip_today_string>
+		<precip_today_in>0.04</precip_today_in>
+		<precip_today_metric>0.1 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IU0418U03</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=56.985512,40.956001</ob_url>
+	</current_observation>
+

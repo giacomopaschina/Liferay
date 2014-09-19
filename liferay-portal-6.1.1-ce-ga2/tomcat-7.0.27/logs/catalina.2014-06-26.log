@@ -1,0 +1,60 @@
+Jun 26, 2014 12:54:57 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Jun 26, 2014 12:55:02 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Jun 26, 2014 12:55:02 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Jun 26, 2014 12:55:02 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 7539 ms
+Jun 26, 2014 12:55:02 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Jun 26, 2014 12:55:02 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.27
+Jun 26, 2014 12:55:02 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/conf/Catalina/localhost/ncWMS-portlet.xml
+Jun 26, 2014 12:55:03 PM org.apache.catalina.startup.HostConfig deployDescriptor
+WARNING: A docBase /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/ncWMS-portlet inside the host appBase has been specified, and will be ignored
+Jun 26, 2014 12:55:03 PM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'source' to 'org.eclipse.jst.jee.server:ncWMS-portlet' did not find a matching property.
+Jun 26, 2014 12:55:05 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/conf/Catalina/localhost/ROOT.xml
+Jun 26, 2014 12:56:04 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/conf/Catalina/localhost/stazioni-portlet.xml
+Jun 26, 2014 12:56:04 PM org.apache.catalina.startup.HostConfig deployDescriptor
+WARNING: A docBase /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/stazioni-portlet inside the host appBase has been specified, and will be ignored
+Jun 26, 2014 12:56:04 PM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'source' to 'org.eclipse.jst.jee.server:stazioni-portlet' did not find a matching property.
+Jun 26, 2014 12:56:07 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/ncWMS.war
+Jun 26, 2014 12:56:22 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/marketplace-portlet
+Jun 26, 2014 12:56:24 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/welcome-theme
+Jun 26, 2014 12:56:24 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/giacomo/Liferay/liferay-portal-6.1.1-ce-ga2/tomcat-7.0.27/webapps/resources-importer-web
+Jun 26, 2014 12:56:25 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Jun 26, 2014 12:56:25 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Jun 26, 2014 12:56:25 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 82721 ms
+Jun 26, 2014 3:02:02 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Jun 26, 2014 3:02:02 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Jun 26, 2014 3:02:03 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Jun 26, 2014 3:02:07 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [] appears to have started a thread named [org.python.google.common.base.internal.Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+Jun 26, 2014 3:02:07 PM org.apache.catalina.loader.WebappClassLoader clearReferencesJdbc
+SEVERE: The web application [/ncWMS] registered the JDBC driver [org.h2.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+Jun 26, 2014 3:02:07 PM org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+SEVERE: The web application [/ncWMS] appears to have started a thread named [ReferenceQueueConsumer] but has failed to stop it. This is very likely to create a memory leak.
+Jun 26, 2014 3:02:07 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Jun 26, 2014 3:02:07 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Jun 26, 2014 3:02:07 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Jun 26, 2014 3:02:07 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]

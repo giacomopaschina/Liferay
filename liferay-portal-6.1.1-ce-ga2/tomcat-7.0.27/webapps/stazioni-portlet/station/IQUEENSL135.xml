@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Mt Mikkelhan, Reid River, QUEENSLAND</full>
+		<neighborhood>Mt Mikkelhan</neighborhood>
+		<city>Reid River</city>
+		<state>QUEENSLAND</state>
+		<zip></zip>
+		<latitude>-19.717718</latitude>
+		<longitude>146.857025</longitude>
+		<elevation>371 ft</elevation>
+		</location>
+		<station_id>IQUEENSL135</station_id>
+		<station_type>Davis vantage pro2 plus</station_type>
+		<observation_time>Last Updated on June 18, 11:00 PM EST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:00:20 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>62.1 F (16.7 C)</temperature_string>
+		<temp_f>62.1</temp_f>
+		<temp_c>16.7</temp_c>
+		<relative_humidity>79</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>NW</wind_dir>
+		<wind_degrees>325</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>30.19" (1022.2 mb)</pressure_string>
+		<pressure_mb>1022.2</pressure_mb>
+		<pressure_in>30.19</pressure_in>
+		<dewpoint_string>55.5 F (13.1 C)</dewpoint_string>
+		<dewpoint_f>55.5</dewpoint_f>
+		<dewpoint_c>13.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IQUEENSL135</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-19.717718,146.857025</ob_url>
+	</current_observation>
+

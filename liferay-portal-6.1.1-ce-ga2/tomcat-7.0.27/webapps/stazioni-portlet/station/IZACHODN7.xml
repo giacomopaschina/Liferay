@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Trzebiez, Trzebiez, ZACHODNIOPOMORSKIE</full>
+		<neighborhood>Trzebiez</neighborhood>
+		<city>Trzebiez</city>
+		<state>ZACHODNIOPOMORSKIE</state>
+		<zip></zip>
+		<latitude>53.662373</latitude>
+		<longitude>14.496760</longitude>
+		<elevation>15 ft</elevation>
+		</location>
+		<station_id>IZACHODN7</station_id>
+		<station_type>Davis Vp2 solar</station_type>
+		<observation_time>Last Updated on June 18, 2:49 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:49:50 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>73.4 F (23.0 C)</temperature_string>
+		<temp_f>73.4</temp_f>
+		<temp_c>23.0</temp_c>
+		<relative_humidity>45</relative_humidity>
+		<wind_string>From the WSW at 4.0 MPH Gusting to 19.0 MPH</wind_string>
+		<wind_dir>WSW</wind_dir>
+		<wind_degrees>255</wind_degrees>
+		<wind_mph>4.0</wind_mph>
+		<wind_gust_mph>19.0</wind_gust_mph>
+		<pressure_string>30.04" (1017.2 mb)</pressure_string>
+		<pressure_mb>1017.2</pressure_mb>
+		<pressure_in>30.04</pressure_in>
+		<dewpoint_string>51.0 F (10.6 C)</dewpoint_string>
+		<dewpoint_f>51.0</dewpoint_f>
+		<dewpoint_c>10.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>160</solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IZACHODN7</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=53.662373,14.496760</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Cecchina, LAZIO</full>
+		<neighborhood></neighborhood>
+		<city>Cecchina</city>
+		<state>LAZIO</state>
+		<zip></zip>
+		<latitude>41.691429</latitude>
+		<longitude>12.648568</longitude>
+		<elevation>708 ft</elevation>
+		</location>
+		<station_id>ILAZIOAL3</station_id>
+		<station_type>DeAgostini-Meteonetwork</station_type>
+		<observation_time>Last Updated on June 18, 2:45 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:45:07 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>66.5 F (19.2 C)</temperature_string>
+		<temp_f>66.5</temp_f>
+		<temp_c>19.2</temp_c>
+		<relative_humidity>86</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>271</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.86" (1011.1 mb)</pressure_string>
+		<pressure_mb>1011.1</pressure_mb>
+		<pressure_in>29.86</pressure_in>
+		<dewpoint_string>62.2 F (16.8 C)</dewpoint_string>
+		<dewpoint_f>62.2</dewpoint_f>
+		<dewpoint_c>16.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.02 in (0.1 mm)</precip_1hr_string>
+		<precip_1hr_in>0.02</precip_1hr_in>
+		<precip_1hr_metric>0.1</precip_1hr_metric>
+		<precip_today_string>0.13 in (0.3 cm)</precip_today_string>
+		<precip_today_in>0.13</precip_today_in>
+		<precip_today_metric>0.3 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ILAZIOAL3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=41.691429,12.648568</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Torquay Town, Torquay, </full>
+		<neighborhood>Torquay Town</neighborhood>
+		<city>Torquay</city>
+		<state></state>
+		<zip></zip>
+		<latitude>50.467945</latitude>
+		<longitude>-3.527450</longitude>
+		<elevation>138 ft</elevation>
+		</location>
+		<station_id>ITORQUAY2</station_id>
+		<station_type>Oregon Scientific Professional Weather Center</station_type>
+		<observation_time>Last Updated on July 15, 1:18 PM BST</observation_time>
+		<observation_time_rfc822>Tue, 15 Jul 2014 12:18:17 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>71.6 F (22.0 C)</temperature_string>
+		<temp_f>71.6</temp_f>
+		<temp_c>22.0</temp_c>
+		<relative_humidity>64</relative_humidity>
+		<wind_string>From the NW at 2.9 MPH Gusting to 2.9 MPH</wind_string>
+		<wind_dir>NW</wind_dir>
+		<wind_degrees>315</wind_degrees>
+		<wind_mph>2.9</wind_mph>
+		<wind_gust_mph>2.9</wind_gust_mph>
+		<pressure_string>30.21" (1022.9 mb)</pressure_string>
+		<pressure_mb>1022.9</pressure_mb>
+		<pressure_in>30.21</pressure_in>
+		<dewpoint_string>58.8 F (14.9 C)</dewpoint_string>
+		<dewpoint_f>58.8</dewpoint_f>
+		<dewpoint_c>14.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV>6.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ITORQUAY2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=50.467945,-3.527450</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Fontenay-le-Comte, PAYS DE LA LOIRE</full>
+		<neighborhood></neighborhood>
+		<city>Fontenay-le-Comte</city>
+		<state>PAYS DE LA LOIRE</state>
+		<zip></zip>
+		<latitude>46.478535</latitude>
+		<longitude>-0.820885</longitude>
+		<elevation>141 ft</elevation>
+		</location>
+		<station_id>IPAYSDEL8</station_id>
+		<station_type>Vantage pro 2</station_type>
+		<observation_time>Last Updated on June 18, 2:50 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:50:55 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>68.1 F (20.1 C)</temperature_string>
+		<temp_f>68.1</temp_f>
+		<temp_c>20.1</temp_c>
+		<relative_humidity>65</relative_humidity>
+		<wind_string>From the ENE at 8.0 MPH Gusting to 8.0 MPH</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>66</wind_degrees>
+		<wind_mph>8.0</wind_mph>
+		<wind_gust_mph>8.0</wind_gust_mph>
+		<pressure_string>30.18" (1021.9 mb)</pressure_string>
+		<pressure_mb>1021.9</pressure_mb>
+		<pressure_in>30.18</pressure_in>
+		<dewpoint_string>55.9 F (13.3 C)</dewpoint_string>
+		<dewpoint_f>55.9</dewpoint_f>
+		<dewpoint_c>13.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>1106</solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IPAYSDEL8</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=46.478535,-0.820885</ob_url>
+	</current_observation>
+

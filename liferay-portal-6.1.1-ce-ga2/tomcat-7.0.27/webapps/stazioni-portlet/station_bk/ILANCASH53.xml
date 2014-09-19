@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>River Lune, Lancaster, LANCASHIRE</full>
+		<neighborhood>River Lune</neighborhood>
+		<city>Lancaster</city>
+		<state>LANCASHIRE</state>
+		<zip></zip>
+		<latitude>53.999798</latitude>
+		<longitude>-2.851553</longitude>
+		<elevation>20 ft</elevation>
+		</location>
+		<station_id>ILANCASH53</station_id>
+		<station_type>Davies VP2</station_type>
+		<observation_time>Last Updated on December 4, 12:15 PM GMT</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 12:15:58 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>47.4 F (8.6 C)</temperature_string>
+		<temp_f>47.4</temp_f>
+		<temp_c>8.6</temp_c>
+		<relative_humidity>81</relative_humidity>
+		<wind_string>From the West at 19.2 MPH Gusting to 33.6 MPH</wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>281</wind_degrees>
+		<wind_mph>19.2</wind_mph>
+		<wind_gust_mph>33.6</wind_gust_mph>
+		<pressure_string>30.36" (1028.0 mb)</pressure_string>
+		<pressure_mb>1028.0</pressure_mb>
+		<pressure_in>30.36</pressure_in>
+		<dewpoint_string>41.9 F (5.5 C)</dewpoint_string>
+		<dewpoint_f>41.9</dewpoint_f>
+		<dewpoint_c>5.5</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>40 F (5 C)</windchill_string>
+		<windchill_f>40</windchill_f>
+		<windchill_c>5</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.07 in (0.2 mm)</precip_1hr_string>
+		<precip_1hr_in>0.07</precip_1hr_in>
+		<precip_1hr_metric>0.2</precip_1hr_metric>
+		<precip_today_string>0.08 in (0.2 cm)</precip_today_string>
+		<precip_today_in>0.08</precip_today_in>
+		<precip_today_metric>0.2 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ILANCASH53</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=53.999798,-2.851553</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, RIBORDONE, TORINO</full>
+		<neighborhood></neighborhood>
+		<city>RIBORDONE</city>
+		<state>TORINO</state>
+		<zip></zip>
+		<latitude>45.446236</latitude>
+		<longitude>7.493952</longitude>
+		<elevation>4272 ft</elevation>
+		</location>
+		<station_id>ITORINOR5</station_id>
+		<station_type>Davis Vantage Pro</station_type>
+		<observation_time>Last Updated on June 18, 2:34 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:34:26 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>52.8 F (11.6 C)</temperature_string>
+		<temp_f>52.8</temp_f>
+		<temp_c>11.6</temp_c>
+		<relative_humidity>92</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>SE</wind_dir>
+		<wind_degrees>131</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>1.0</wind_gust_mph>
+		<pressure_string>30.07" (1018.2 mb)</pressure_string>
+		<pressure_mb>1018.2</pressure_mb>
+		<pressure_in>30.07</pressure_in>
+		<dewpoint_string>51.0 F (10.6 C)</dewpoint_string>
+		<dewpoint_f>51.0</dewpoint_f>
+		<dewpoint_c>10.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.02 in (0.1 mm)</precip_1hr_string>
+		<precip_1hr_in>0.02</precip_1hr_in>
+		<precip_1hr_metric>0.1</precip_1hr_metric>
+		<precip_today_string>0.31 in (0.8 cm)</precip_today_string>
+		<precip_today_in>0.31</precip_today_in>
+		<precip_today_metric>0.8 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ITORINOR5</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.446236,7.493952</ob_url>
+	</current_observation>
+

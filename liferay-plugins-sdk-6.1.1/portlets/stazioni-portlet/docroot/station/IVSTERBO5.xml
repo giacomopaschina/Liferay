@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Kattisavan, Lycksele, Lapland</full>
+		<neighborhood>Kattisavan</neighborhood>
+		<city>Lycksele</city>
+		<state>Lapland</state>
+		<zip></zip>
+		<latitude>64.755638</latitude>
+		<longitude>18.158319</longitude>
+		<elevation>909 ft</elevation>
+		</location>
+		<station_id>IVSTERBO5</station_id>
+		<station_type>Davis VP2 Plus</station_type>
+		<observation_time>Last Updated on June 18, 3:00 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:00:20 GMT</observation_time_rfc822>
+		<weather>BKN</weather>
+		<temperature_string>56.1 F (13.4 C)</temperature_string>
+		<temp_f>56.1</temp_f>
+		<temp_c>13.4</temp_c>
+		<relative_humidity>59</relative_humidity>
+		<wind_string>From the NW at 10.0 MPH Gusting to 16.0 MPH</wind_string>
+		<wind_dir>NW</wind_dir>
+		<wind_degrees>313</wind_degrees>
+		<wind_mph>10.0</wind_mph>
+		<wind_gust_mph>16.0</wind_gust_mph>
+		<pressure_string>29.70" (1005.6 mb)</pressure_string>
+		<pressure_mb>1005.6</pressure_mb>
+		<pressure_in>29.70</pressure_in>
+		<dewpoint_string>41.9 F (5.5 C)</dewpoint_string>
+		<dewpoint_f>41.9</dewpoint_f>
+		<dewpoint_c>5.5</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>325</solar_radiation>
+		<UV>2.5</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVSTERBO5</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=64.755638,18.158319</ob_url>
+	</current_observation>
+

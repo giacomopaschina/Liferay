@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Bnider, KUWAIT CITY</full>
+		<neighborhood></neighborhood>
+		<city>Bnider</city>
+		<state>KUWAIT CITY</state>
+		<zip></zip>
+		<latitude>28.806776</latitude>
+		<longitude>48.280277</longitude>
+		<elevation>24 ft</elevation>
+		</location>
+		<station_id>INOBINID2</station_id>
+		<station_type>davis Vantage pro 2 plus</station_type>
+		<observation_time>Last Updated on February 16, 6:44 PM AST</observation_time>
+		<observation_time_rfc822>Sun, 16 Feb 2014 15:44:32 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>65.3 F (18.5 C)</temperature_string>
+		<temp_f>65.3</temp_f>
+		<temp_c>18.5</temp_c>
+		<relative_humidity>75</relative_humidity>
+		<wind_string>From the WNW at 19.0 MPH Gusting to 30.0 MPH</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>282</wind_degrees>
+		<wind_mph>19.0</wind_mph>
+		<wind_gust_mph>30.0</wind_gust_mph>
+		<pressure_string>29.75" (1007.3 mb)</pressure_string>
+		<pressure_mb>1007.3</pressure_mb>
+		<pressure_in>29.75</pressure_in>
+		<dewpoint_string>57.0 F (13.9 C)</dewpoint_string>
+		<dewpoint_f>57.0</dewpoint_f>
+		<dewpoint_c>13.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INOBINID2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=28.806776,48.280277</ob_url>
+	</current_observation>
+

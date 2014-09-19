@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Var-Provence, France, Montauroux, PROVENCE-VAR</full>
+		<neighborhood>Var-Provence, France</neighborhood>
+		<city>Montauroux</city>
+		<state>PROVENCE-VAR</state>
+		<zip></zip>
+		<latitude>43.619263</latitude>
+		<longitude>6.783201</longitude>
+		<elevation>1250 ft</elevation>
+		</location>
+		<station_id>IPROVENC12</station_id>
+		<station_type>Vantage Pro 2 Plus</station_type>
+		<observation_time>Last Updated on June 18, 2:55 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:55:24 GMT</observation_time_rfc822>
+		<weather>SCT</weather>
+		<temperature_string>71.8 F (22.1 C)</temperature_string>
+		<temp_f>71.8</temp_f>
+		<temp_c>22.1</temp_c>
+		<relative_humidity>60</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>342</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>3.0</wind_gust_mph>
+		<pressure_string>29.97" (1014.8 mb)</pressure_string>
+		<pressure_mb>1014.8</pressure_mb>
+		<pressure_in>29.97</pressure_in>
+		<dewpoint_string>57.2 F (14.0 C)</dewpoint_string>
+		<dewpoint_f>57.2</dewpoint_f>
+		<dewpoint_c>14.0</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>469</solar_radiation>
+		<UV>1.6</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.34 in (0.9 cm)</precip_today_string>
+		<precip_today_in>0.34</precip_today_in>
+		<precip_today_metric>0.9 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IPROVENC12</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=43.619263,6.783201</ob_url>
+	</current_observation>
+

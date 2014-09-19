@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Forum Madeira, Funchal, PORTUGAL</full>
+		<neighborhood>Forum Madeira</neighborhood>
+		<city>Funchal</city>
+		<state>PORTUGAL</state>
+		<zip></zip>
+		<latitude>32.636566</latitude>
+		<longitude>-16.943386</longitude>
+		<elevation>226 ft</elevation>
+		</location>
+		<station_id>IMADEIRA6</station_id>
+		<station_type>Davis Vantage Pro2</station_type>
+		<observation_time>Last Updated on December 4, 11:50 AM WET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:50:47 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>68.8 F (20.4 C)</temperature_string>
+		<temp_f>68.8</temp_f>
+		<temp_c>20.4</temp_c>
+		<relative_humidity>92</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>East</wind_dir>
+		<wind_degrees>98</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>2.0</wind_gust_mph>
+		<pressure_string>30.03" (1016.8 mb)</pressure_string>
+		<pressure_mb>1016.8</pressure_mb>
+		<pressure_in>30.03</pressure_in>
+		<dewpoint_string>66.4 F (19.1 C)</dewpoint_string>
+		<dewpoint_f>66.4</dewpoint_f>
+		<dewpoint_c>19.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>162</solar_radiation>
+		<UV>0.9</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.28 in (0.7 cm)</precip_today_string>
+		<precip_today_in>0.28</precip_today_in>
+		<precip_today_metric>0.7 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IMADEIRA6</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=32.636566,-16.943386</ob_url>
+	</current_observation>
+

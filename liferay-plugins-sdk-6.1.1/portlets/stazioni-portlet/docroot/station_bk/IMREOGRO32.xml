@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Olaskogen, Volda, MøRE OG ROMSDAL</full>
+		<neighborhood>Olaskogen</neighborhood>
+		<city>Volda</city>
+		<state>MøRE OG ROMSDAL</state>
+		<zip></zip>
+		<latitude>62.165901</latitude>
+		<longitude>6.035300</longitude>
+		<elevation>140 ft</elevation>
+		</location>
+		<station_id>IMREOGRO32</station_id>
+		<station_type>WMR-88</station_type>
+		<observation_time>Last Updated on December 4, 12:58 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:58:42 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>36.9 F (2.7 C)</temperature_string>
+		<temp_f>36.9</temp_f>
+		<temp_c>2.7</temp_c>
+		<relative_humidity>82</relative_humidity>
+		<wind_string>From the SW at 3.6 MPH Gusting to 10.1 MPH</wind_string>
+		<wind_dir>SW</wind_dir>
+		<wind_degrees>225</wind_degrees>
+		<wind_mph>3.6</wind_mph>
+		<wind_gust_mph>10.1</wind_gust_mph>
+		<pressure_string>29.36" (994.1 mb)</pressure_string>
+		<pressure_mb>994.1</pressure_mb>
+		<pressure_in>29.36</pressure_in>
+		<dewpoint_string>31.9 F (-0.1 C)</dewpoint_string>
+		<dewpoint_f>31.9</dewpoint_f>
+		<dewpoint_c>-0.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>34 F (1 C)</windchill_string>
+		<windchill_f>34</windchill_f>
+		<windchill_c>1</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.04 in (0.1 mm)</precip_1hr_string>
+		<precip_1hr_in>0.04</precip_1hr_in>
+		<precip_1hr_metric>0.1</precip_1hr_metric>
+		<precip_today_string>0.25 in (0.6 cm)</precip_today_string>
+		<precip_today_in>0.25</precip_today_in>
+		<precip_today_metric>0.6 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IMREOGRO32</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=62.165901,6.035300</ob_url>
+	</current_observation>
+

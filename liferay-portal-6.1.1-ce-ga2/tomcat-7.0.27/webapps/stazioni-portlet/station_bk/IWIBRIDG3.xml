@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Bridgetown Port, St.Michael, W I</full>
+		<neighborhood>Bridgetown Port</neighborhood>
+		<city>St.Michael</city>
+		<state>W I</state>
+		<zip></zip>
+		<latitude>13.102282</latitude>
+		<longitude>-59.632065</longitude>
+		<elevation>19 ft</elevation>
+		</location>
+		<station_id>IWIBRIDG3</station_id>
+		<station_type>vantage pro 2</station_type>
+		<observation_time>Last Updated on December 3, 10:59 AM AST</observation_time>
+		<observation_time_rfc822>Tue, 03 Dec 2013 14:59:55 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>84.4 F (29.1 C)</temperature_string>
+		<temp_f>84.4</temp_f>
+		<temp_c>29.1</temp_c>
+		<relative_humidity>82</relative_humidity>
+		<wind_string>From the SSE at 2.0 MPH Gusting to 21.0 MPH</wind_string>
+		<wind_dir>SSE</wind_dir>
+		<wind_degrees>165</wind_degrees>
+		<wind_mph>2.0</wind_mph>
+		<wind_gust_mph>21.0</wind_gust_mph>
+		<pressure_string>29.91" (1012.8 mb)</pressure_string>
+		<pressure_mb>1012.8</pressure_mb>
+		<pressure_in>29.91</pressure_in>
+		<dewpoint_string>78.3 F (25.7 C)</dewpoint_string>
+		<dewpoint_f>78.3</dewpoint_f>
+		<dewpoint_c>25.7</dewpoint_c>
+		
+		<heat_index_string>96 F (36 C)</heat_index_string>
+		<heat_index_f>96</heat_index_f>
+		<heat_index_c>36</heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IWIBRIDG3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=13.102282,-59.632065</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Fuerstenfeld, STEIERMARK</full>
+		<neighborhood></neighborhood>
+		<city>Fuerstenfeld</city>
+		<state>STEIERMARK</state>
+		<zip></zip>
+		<latitude>47.042530</latitude>
+		<longitude>16.077744</longitude>
+		<elevation>899 ft</elevation>
+		</location>
+		<station_id>ISTEIERM22</station_id>
+		<station_type>Nexus</station_type>
+		<observation_time>Last Updated on December 4, 12:32 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:32:02 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>38.7 F (3.7 C)</temperature_string>
+		<temp_f>38.7</temp_f>
+		<temp_c>3.7</temp_c>
+		<relative_humidity>75</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>68</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>2.0</wind_gust_mph>
+		<pressure_string>30.17" (1021.6 mb)</pressure_string>
+		<pressure_mb>1021.6</pressure_mb>
+		<pressure_in>30.17</pressure_in>
+		<dewpoint_string>31.5 F (-0.3 C)</dewpoint_string>
+		<dewpoint_f>31.5</dewpoint_f>
+		<dewpoint_c>-0.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISTEIERM22</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=47.042530,16.077744</ob_url>
+	</current_observation>
+

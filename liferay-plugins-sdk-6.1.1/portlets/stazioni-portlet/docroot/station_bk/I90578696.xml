@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>SAINT PERAY 07130, Saint PERAY, Rhone Alpes</full>
+		<neighborhood>SAINT PERAY 07130</neighborhood>
+		<city>Saint PERAY</city>
+		<state>Rhone Alpes</state>
+		<zip></zip>
+		<latitude>44.940674</latitude>
+		<longitude>4.859394</longitude>
+		<elevation>383 ft</elevation>
+		</location>
+		<station_id>I90578696</station_id>
+		<station_type>DAVIS Vantage Pro 2 (6162)</station_type>
+		<observation_time>Last Updated on December 4, 12:25 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:25:43 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>51.0 F (10.6 C)</temperature_string>
+		<temp_f>51.0</temp_f>
+		<temp_c>10.6</temp_c>
+		<relative_humidity>47</relative_humidity>
+		<wind_string>From the NNW at 13.0 MPH Gusting to 21.0 MPH</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>347</wind_degrees>
+		<wind_mph>13.0</wind_mph>
+		<wind_gust_mph>21.0</wind_gust_mph>
+		<pressure_string>30.25" (1024.3 mb)</pressure_string>
+		<pressure_mb>1024.3</pressure_mb>
+		<pressure_in>30.25</pressure_in>
+		<dewpoint_string>31.5 F (-0.3 C)</dewpoint_string>
+		<dewpoint_f>31.5</dewpoint_f>
+		<dewpoint_c>-0.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>396</solar_radiation>
+		<UV>1.2</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=I90578696</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=44.940674,4.859394</ob_url>
+	</current_observation>
+

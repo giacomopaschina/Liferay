@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Newall, Taranaki, Newall, TARANAKI</full>
+		<neighborhood>Newall, Taranaki</neighborhood>
+		<city>Newall</city>
+		<state>TARANAKI</state>
+		<zip></zip>
+		<latitude>-39.276772</latitude>
+		<longitude>173.932709</longitude>
+		<elevation>1027 ft</elevation>
+		</location>
+		<station_id>ITARANAK33</station_id>
+		<station_type>LaCrosse Weather Pro Center 2800 Series</station_type>
+		<observation_time>Last Updated on June 19, 12:45 AM NZST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:45:05 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>49.2 F (9.6 C)</temperature_string>
+		<temp_f>49.2</temp_f>
+		<temp_c>9.6</temp_c>
+		<relative_humidity>92</relative_humidity>
+		<wind_string>From the SSW at 3.1 MPH Gusting to 3.1 MPH</wind_string>
+		<wind_dir>SSW</wind_dir>
+		<wind_degrees>203</wind_degrees>
+		<wind_mph>3.1</wind_mph>
+		<wind_gust_mph>3.1</wind_gust_mph>
+		<pressure_string>29.83" (1010.0 mb)</pressure_string>
+		<pressure_mb>1010.0</pressure_mb>
+		<pressure_in>29.83</pressure_in>
+		<dewpoint_string>47.0 F (8.3 C)</dewpoint_string>
+		<dewpoint_f>47.0</dewpoint_f>
+		<dewpoint_c>8.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>49 F (9 C)</windchill_string>
+		<windchill_f>49</windchill_f>
+		<windchill_c>9</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.02 in (0.1 mm)</precip_1hr_string>
+		<precip_1hr_in>0.02</precip_1hr_in>
+		<precip_1hr_metric>0.1</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ITARANAK33</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-39.276772,173.932709</ob_url>
+	</current_observation>
+

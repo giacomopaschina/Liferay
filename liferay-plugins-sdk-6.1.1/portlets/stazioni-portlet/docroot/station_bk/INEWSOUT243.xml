@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Oyster Bay, Oyster Bay, NEW SOUTH WALES</full>
+		<neighborhood>Oyster Bay</neighborhood>
+		<city>Oyster Bay</city>
+		<state>NEW SOUTH WALES</state>
+		<zip></zip>
+		<latitude>-33.998154</latitude>
+		<longitude>151.084473</longitude>
+		<elevation>150 ft</elevation>
+		</location>
+		<station_id>INEWSOUT243</station_id>
+		<station_type>Davis Vantage Pro2 Plus (Wireless)</station_type>
+		<observation_time>Last Updated on December 4, 12:39 PM EST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 01:39:16 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>85.0 F (29.4 C)</temperature_string>
+		<temp_f>85.0</temp_f>
+		<temp_c>29.4</temp_c>
+		<relative_humidity>55</relative_humidity>
+		<wind_string>From the ENE at 1.2 MPH Gusting to 1.2 MPH</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>77</wind_degrees>
+		<wind_mph>1.2</wind_mph>
+		<wind_gust_mph>1.2</wind_gust_mph>
+		<pressure_string>29.54" (1000.2 mb)</pressure_string>
+		<pressure_mb>1000.2</pressure_mb>
+		<pressure_in>29.54</pressure_in>
+		<dewpoint_string>67.0 F (19.4 C)</dewpoint_string>
+		<dewpoint_f>67.0</dewpoint_f>
+		<dewpoint_c>19.4</dewpoint_c>
+		
+		<heat_index_string>88 F (31 C)</heat_index_string>
+		<heat_index_f>88</heat_index_f>
+		<heat_index_c>31</heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>872</solar_radiation>
+		<UV>7.7</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INEWSOUT243</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-33.998154,151.084473</ob_url>
+	</current_observation>
+

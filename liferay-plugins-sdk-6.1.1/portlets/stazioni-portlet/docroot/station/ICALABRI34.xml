@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Crotone, Crotone, CALABRIA</full>
+		<neighborhood>Crotone</neighborhood>
+		<city>Crotone</city>
+		<state>CALABRIA</state>
+		<zip></zip>
+		<latitude>39.080673</latitude>
+		<longitude>17.127146</longitude>
+		<elevation>15 ft</elevation>
+		</location>
+		<station_id>ICALABRI34</station_id>
+		<station_type>privata</station_type>
+		<observation_time>Last Updated on June 18, 2:43 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:43:31 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>83.7 F (28.7 C)</temperature_string>
+		<temp_f>83.7</temp_f>
+		<temp_c>28.7</temp_c>
+		<relative_humidity>47</relative_humidity>
+		<wind_string>From the SSE at 10.8 MPH Gusting to 10.8 MPH</wind_string>
+		<wind_dir>SSE</wind_dir>
+		<wind_degrees>158</wind_degrees>
+		<wind_mph>10.8</wind_mph>
+		<wind_gust_mph>10.8</wind_gust_mph>
+		<pressure_string>29.90" (1012.4 mb)</pressure_string>
+		<pressure_mb>1012.4</pressure_mb>
+		<pressure_in>29.90</pressure_in>
+		<dewpoint_string>61.3 F (16.3 C)</dewpoint_string>
+		<dewpoint_f>61.3</dewpoint_f>
+		<dewpoint_c>16.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ICALABRI34</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=39.080673,17.127146</ob_url>
+	</current_observation>
+

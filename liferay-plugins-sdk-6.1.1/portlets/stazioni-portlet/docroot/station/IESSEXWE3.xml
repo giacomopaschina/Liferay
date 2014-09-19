@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Crowstone Preparatory School, Westcliff On-Sea, ESSEX</full>
+		<neighborhood></neighborhood>
+		<city>Crowstone Preparatory School, Westcliff On-Sea</city>
+		<state>ESSEX</state>
+		<zip></zip>
+		<latitude>51.539600</latitude>
+		<longitude>0.683800</longitude>
+		<elevation>43 ft</elevation>
+		</location>
+		<station_id>IESSEXWE3</station_id>
+		<station_type>Fine Offset - WH1081</station_type>
+		<observation_time>Last Updated on June 18, 1:45 PM BST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:45:01 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>73.9 F (23.3 C)</temperature_string>
+		<temp_f>73.9</temp_f>
+		<temp_c>23.3</temp_c>
+		<relative_humidity>70</relative_humidity>
+		<wind_string>From the NW at 3.8 MPH Gusting to 6.9 MPH</wind_string>
+		<wind_dir>NW</wind_dir>
+		<wind_degrees>315</wind_degrees>
+		<wind_mph>3.8</wind_mph>
+		<wind_gust_mph>6.9</wind_gust_mph>
+		<pressure_string>30.29" (1025.6 mb)</pressure_string>
+		<pressure_mb>1025.6</pressure_mb>
+		<pressure_in>30.29</pressure_in>
+		<dewpoint_string>63.6 F (17.6 C)</dewpoint_string>
+		<dewpoint_f>63.6</dewpoint_f>
+		<dewpoint_c>17.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IESSEXWE3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=51.539600,0.683800</ob_url>
+	</current_observation>
+

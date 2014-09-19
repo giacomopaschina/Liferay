@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Assendelft, Assendelft, NOORD HOLLAND</full>
+		<neighborhood>Assendelft</neighborhood>
+		<city>Assendelft</city>
+		<state>NOORD HOLLAND</state>
+		<zip></zip>
+		<latitude>52.483650</latitude>
+		<longitude>4.764765</longitude>
+		<elevation>-3 ft</elevation>
+		</location>
+		<station_id>INOORDHO117</station_id>
+		<station_type>Vantage PRO</station_type>
+		<observation_time>Last Updated on March 27, 8:52 PM CET</observation_time>
+		<observation_time_rfc822>Thu, 27 Mar 2014 19:52:23 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>49.3 F (9.6 C)</temperature_string>
+		<temp_f>49.3</temp_f>
+		<temp_c>9.6</temp_c>
+		<relative_humidity>68</relative_humidity>
+		<wind_string>From the ESE at 12.0 MPH </wind_string>
+		<wind_dir>ESE</wind_dir>
+		<wind_degrees>102</wind_degrees>
+		<wind_mph>12.0</wind_mph>
+		<wind_gust_mph>-999.0</wind_gust_mph>
+		<pressure_string>29.88" (1011.7 mb)</pressure_string>
+		<pressure_mb>1011.7</pressure_mb>
+		<pressure_in>29.88</pressure_in>
+		<dewpoint_string>39.0 F (3.9 C)</dewpoint_string>
+		<dewpoint_f>39.0</dewpoint_f>
+		<dewpoint_c>3.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>45 F (7 C)</windchill_string>
+		<windchill_f>45</windchill_f>
+		<windchill_c>7</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>-999.00 in (-2537.5 mm)</precip_1hr_string>
+		<precip_1hr_in>-999.00</precip_1hr_in>
+		<precip_1hr_metric>-2537.5</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INOORDHO117</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=52.483650,4.764765</ob_url>
+	</current_observation>
+

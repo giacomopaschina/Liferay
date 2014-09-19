@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Rainbach/Innkreis, Rainbach im Innkreis, Oberosterreich</full>
+		<neighborhood>Rainbach/Innkreis</neighborhood>
+		<city>Rainbach im Innkreis</city>
+		<state>Oberosterreich</state>
+		<zip></zip>
+		<latitude>48.454750</latitude>
+		<longitude>13.482138</longitude>
+		<elevation>1352 ft</elevation>
+		</location>
+		<station_id>IUPPERAU2</station_id>
+		<station_type>DAVIS Vantage Pro</station_type>
+		<observation_time>Last Updated on June 18, 3:05 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:05:14 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>71.1 F (21.7 C)</temperature_string>
+		<temp_f>71.1</temp_f>
+		<temp_c>21.7</temp_c>
+		<relative_humidity>43</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>SSE</wind_dir>
+		<wind_degrees>148</wind_degrees>
+		<wind_mph>0.9</wind_mph>
+		<wind_gust_mph>4.0</wind_gust_mph>
+		<pressure_string>30.02" (1016.5 mb)</pressure_string>
+		<pressure_mb>1016.5</pressure_mb>
+		<pressure_in>30.02</pressure_in>
+		<dewpoint_string>47.4 F (8.6 C)</dewpoint_string>
+		<dewpoint_f>47.4</dewpoint_f>
+		<dewpoint_c>8.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>304</solar_radiation>
+		<UV>4.3</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IUPPERAU2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=48.454750,13.482138</ob_url>
+	</current_observation>
+

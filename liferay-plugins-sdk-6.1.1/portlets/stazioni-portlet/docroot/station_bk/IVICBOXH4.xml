@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Box Hill South, VIC</full>
+		<neighborhood></neighborhood>
+		<city>Box Hill South</city>
+		<state>VIC</state>
+		<zip></zip>
+		<latitude>-37.832294</latitude>
+		<longitude>145.121384</longitude>
+		<elevation>338 ft</elevation>
+		</location>
+		<station_id>IVICBOXH4</station_id>
+		<station_type>La Crosse WS2355</station_type>
+		<observation_time>Last Updated on December 4, 10:30 PM EST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:30:47 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>56.1 F (13.4 C)</temperature_string>
+		<temp_f>56.1</temp_f>
+		<temp_c>13.4</temp_c>
+		<relative_humidity>79</relative_humidity>
+		<wind_string>From the SE at 2.2 MPH Gusting to 2.9 MPH</wind_string>
+		<wind_dir>SE</wind_dir>
+		<wind_degrees>135</wind_degrees>
+		<wind_mph>2.2</wind_mph>
+		<wind_gust_mph>2.9</wind_gust_mph>
+		<pressure_string>29.59" (1001.9 mb)</pressure_string>
+		<pressure_mb>1001.9</pressure_mb>
+		<pressure_in>29.59</pressure_in>
+		<dewpoint_string>49.6 F (9.8 C)</dewpoint_string>
+		<dewpoint_f>49.6</dewpoint_f>
+		<dewpoint_c>9.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.72 in (1.8 cm)</precip_today_string>
+		<precip_today_in>0.72</precip_today_in>
+		<precip_today_metric>1.8 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVICBOXH4</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-37.832294,145.121384</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Coyamar / Las Terrenas, SAMANA</full>
+		<neighborhood></neighborhood>
+		<city>Coyamar / Las Terrenas</city>
+		<state>SAMANA</state>
+		<zip></zip>
+		<latitude>19.313486</latitude>
+		<longitude>-69.564758</longitude>
+		<elevation>30 ft</elevation>
+		</location>
+		<station_id>ISAMANAL3</station_id>
+		<station_type>Ambient Weather WS 2080</station_type>
+		<observation_time>Last Updated on December 4, 7:43 AM AST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:43:32 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>73.2 F (22.9 C)</temperature_string>
+		<temp_f>73.2</temp_f>
+		<temp_c>22.9</temp_c>
+		<relative_humidity>83</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>South</wind_dir>
+		<wind_degrees>180</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>30.02" (1016.5 mb)</pressure_string>
+		<pressure_mb>1016.5</pressure_mb>
+		<pressure_in>30.02</pressure_in>
+		<dewpoint_string>67.8 F (19.9 C)</dewpoint_string>
+		<dewpoint_f>67.8</dewpoint_f>
+		<dewpoint_c>19.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>999</solar_radiation>
+		<UV>1.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISAMANAL3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=19.313486,-69.564758</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Coronel Dominguez, SANTA FE</full>
+		<neighborhood></neighborhood>
+		<city>Coronel Dominguez</city>
+		<state>SANTA FE</state>
+		<zip></zip>
+		<latitude>-33.184189</latitude>
+		<longitude>-60.736271</longitude>
+		<elevation>184 ft</elevation>
+		</location>
+		<station_id>ISANTAFE6</station_id>
+		<station_type>WS3101</station_type>
+		<observation_time>Last Updated on December 4, 8:25 AM ART</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:25:01 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>79.5 F (26.4 C)</temperature_string>
+		<temp_f>79.5</temp_f>
+		<temp_c>26.4</temp_c>
+		<relative_humidity>52</relative_humidity>
+		<wind_string>From the NE at 3.8 MPH Gusting to 7.6 MPH</wind_string>
+		<wind_dir>NE</wind_dir>
+		<wind_degrees>47</wind_degrees>
+		<wind_mph>3.8</wind_mph>
+		<wind_gust_mph>7.6</wind_gust_mph>
+		<pressure_string>29.80" (1009.0 mb)</pressure_string>
+		<pressure_mb>1009.0</pressure_mb>
+		<pressure_in>29.80</pressure_in>
+		<dewpoint_string>60.4 F (15.8 C)</dewpoint_string>
+		<dewpoint_f>60.4</dewpoint_f>
+		<dewpoint_c>15.8</dewpoint_c>
+		
+		<heat_index_string>81 F (27 C)</heat_index_string>
+		<heat_index_f>81</heat_index_f>
+		<heat_index_c>27</heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>423</solar_radiation>
+		<UV>8.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISANTAFE6</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-33.184189,-60.736271</ob_url>
+	</current_observation>
+

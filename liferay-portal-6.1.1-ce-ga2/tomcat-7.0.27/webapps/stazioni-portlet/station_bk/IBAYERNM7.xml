@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Markt Indersdorf, BAYERN</full>
+		<neighborhood></neighborhood>
+		<city>Markt Indersdorf</city>
+		<state>BAYERN</state>
+		<zip></zip>
+		<latitude>48.354794</latitude>
+		<longitude>11.391449</longitude>
+		<elevation>491 ft</elevation>
+		</location>
+		<station_id>IBAYERNM7</station_id>
+		<station_type>TFA NEXUS</station_type>
+		<observation_time>Last Updated on December 4, 12:00 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:00:10 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>32.2 F (0.1 C)</temperature_string>
+		<temp_f>32.2</temp_f>
+		<temp_c>0.1</temp_c>
+		<relative_humidity>92</relative_humidity>
+		<wind_string>From the West at 4.7 MPH Gusting to 8.8 MPH</wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>270</wind_degrees>
+		<wind_mph>4.7</wind_mph>
+		<wind_gust_mph>8.8</wind_gust_mph>
+		<pressure_string>30.25" (1024.3 mb)</pressure_string>
+		<pressure_mb>1024.3</pressure_mb>
+		<pressure_in>30.25</pressure_in>
+		<dewpoint_string>30.1 F (-1.1 C)</dewpoint_string>
+		<dewpoint_f>30.1</dewpoint_f>
+		<dewpoint_c>-1.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>28 F (-2 C)</windchill_string>
+		<windchill_f>28</windchill_f>
+		<windchill_c>-2</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBAYERNM7</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=48.354794,11.391449</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Anakie DivComm, ANAKIE, Victoria</full>
+		<neighborhood>Anakie DivComm</neighborhood>
+		<city>ANAKIE</city>
+		<state>Victoria</state>
+		<zip></zip>
+		<latitude>-37.910511</latitude>
+		<longitude>144.254608</longitude>
+		<elevation>568 ft</elevation>
+		</location>
+		<station_id>IVICTORI258</station_id>
+		<station_type>Weather Display</station_type>
+		<observation_time>Last Updated on December 4, 10:31 PM EST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:31:13 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>51.1 F (10.6 C)</temperature_string>
+		<temp_f>51.1</temp_f>
+		<temp_c>10.6</temp_c>
+		<relative_humidity>73</relative_humidity>
+		<wind_string>From the SW at 2.4 MPH Gusting to 8.3 MPH</wind_string>
+		<wind_dir>SW</wind_dir>
+		<wind_degrees>225</wind_degrees>
+		<wind_mph>2.4</wind_mph>
+		<wind_gust_mph>8.3</wind_gust_mph>
+		<pressure_string>29.49" (998.5 mb)</pressure_string>
+		<pressure_mb>998.5</pressure_mb>
+		<pressure_in>29.49</pressure_in>
+		<dewpoint_string>42.7 F (5.9 C)</dewpoint_string>
+		<dewpoint_f>42.7</dewpoint_f>
+		<dewpoint_c>5.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.15 in (0.4 cm)</precip_today_string>
+		<precip_today_in>0.15</precip_today_in>
+		<precip_today_metric>0.4 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVICTORI258</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-37.910511,144.254608</ob_url>
+	</current_observation>
+

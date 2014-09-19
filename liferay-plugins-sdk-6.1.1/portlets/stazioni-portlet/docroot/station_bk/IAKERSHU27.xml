@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Bomansvik, Nesodden, AKERSHUS</full>
+		<neighborhood>Bomansvik</neighborhood>
+		<city>Nesodden</city>
+		<state>AKERSHUS</state>
+		<zip></zip>
+		<latitude>59.791451</latitude>
+		<longitude>10.694570</longitude>
+		<elevation>315 ft</elevation>
+		</location>
+		<station_id>IAKERSHU27</station_id>
+		<station_type>Davis Vantage Pro2 sun</station_type>
+		<observation_time>Last Updated on December 4, 12:58 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:58:07 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>38.8 F (3.8 C)</temperature_string>
+		<temp_f>38.8</temp_f>
+		<temp_c>3.8</temp_c>
+		<relative_humidity>57</relative_humidity>
+		<wind_string>From the South at 1.0 MPH Gusting to 11.0 MPH</wind_string>
+		<wind_dir>South</wind_dir>
+		<wind_degrees>175</wind_degrees>
+		<wind_mph>1.0</wind_mph>
+		<wind_gust_mph>11.0</wind_gust_mph>
+		<pressure_string>29.61" (1002.6 mb)</pressure_string>
+		<pressure_mb>1002.6</pressure_mb>
+		<pressure_in>29.61</pressure_in>
+		<dewpoint_string>24.8 F (-4.0 C)</dewpoint_string>
+		<dewpoint_f>24.8</dewpoint_f>
+		<dewpoint_c>-4.0</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>74</solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IAKERSHU27</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=59.791451,10.694570</ob_url>
+	</current_observation>
+

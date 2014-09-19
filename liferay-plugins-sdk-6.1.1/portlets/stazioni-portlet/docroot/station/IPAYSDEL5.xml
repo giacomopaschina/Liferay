@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>f4cgn@sfr.fr, Matour, bourgogne</full>
+		<neighborhood>f4cgn@sfr.fr</neighborhood>
+		<city>Matour</city>
+		<state>bourgogne</state>
+		<zip></zip>
+		<latitude>46.302639</latitude>
+		<longitude>4.482234</longitude>
+		<elevation>1329 ft</elevation>
+		</location>
+		<station_id>IPAYSDEL5</station_id>
+		<station_type>Oregon Scientific Professional Weather Center</station_type>
+		<observation_time>Last Updated on June 5, 9:21 AM CEST</observation_time>
+		<observation_time_rfc822>Thu, 05 Jun 2014 07:21:29 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>52.2 F (11.2 C)</temperature_string>
+		<temp_f>52.2</temp_f>
+		<temp_c>11.2</temp_c>
+		<relative_humidity>65</relative_humidity>
+		<wind_string>From the SSW at 8.1 MPH Gusting to 12.1 MPH</wind_string>
+		<wind_dir>SSW</wind_dir>
+		<wind_degrees>207</wind_degrees>
+		<wind_mph>8.1</wind_mph>
+		<wind_gust_mph>12.1</wind_gust_mph>
+		<pressure_string>30.03" (1016.8 mb)</pressure_string>
+		<pressure_mb>1016.8</pressure_mb>
+		<pressure_in>30.03</pressure_in>
+		<dewpoint_string>40.8 F (4.9 C)</dewpoint_string>
+		<dewpoint_f>40.8</dewpoint_f>
+		<dewpoint_c>4.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IPAYSDEL5</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=46.302639,4.482234</ob_url>
+	</current_observation>
+

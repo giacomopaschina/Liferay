@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Rvk Reyrengi, 112</full>
+		<neighborhood></neighborhood>
+		<city>Rvk Reyrengi</city>
+		<state>112</state>
+		<zip></zip>
+		<latitude>64.147682</latitude>
+		<longitude>-21.775167</longitude>
+		<elevation>148 ft</elevation>
+		</location>
+		<station_id>I112REYK2</station_id>
+		<station_type>Davis Vantage Pro 2</station_type>
+		<observation_time>Last Updated on June 18, 1:37 PM IST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:37:29 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>53.5 F (11.9 C)</temperature_string>
+		<temp_f>53.5</temp_f>
+		<temp_c>11.9</temp_c>
+		<relative_humidity>91</relative_humidity>
+		<wind_string>From the WNW at 8.0 MPH Gusting to 13.0 MPH</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>285</wind_degrees>
+		<wind_mph>8.0</wind_mph>
+		<wind_gust_mph>13.0</wind_gust_mph>
+		<pressure_string>30.26" (1024.6 mb)</pressure_string>
+		<pressure_mb>1024.6</pressure_mb>
+		<pressure_in>30.26</pressure_in>
+		<dewpoint_string>51.0 F (10.6 C)</dewpoint_string>
+		<dewpoint_f>51.0</dewpoint_f>
+		<dewpoint_c>10.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>540</solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.02 in (0.1 mm)</precip_1hr_string>
+		<precip_1hr_in>0.02</precip_1hr_in>
+		<precip_1hr_metric>0.1</precip_1hr_metric>
+		<precip_today_string>0.07 in (0.2 cm)</precip_today_string>
+		<precip_today_in>0.07</precip_today_in>
+		<precip_today_metric>0.2 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=I112REYK2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=64.147682,-21.775167</ob_url>
+	</current_observation>
+

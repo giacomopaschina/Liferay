@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Nijmegen, Nijmegen, Gelderland</full>
+		<neighborhood>Nijmegen</neighborhood>
+		<city>Nijmegen</city>
+		<state>Gelderland</state>
+		<zip></zip>
+		<latitude>51.843586</latitude>
+		<longitude>5.874851</longitude>
+		<elevation>30 ft</elevation>
+		</location>
+		<station_id>IGELDERL64</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on December 4, 11:59 AM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 10:59:58 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>43.3 F (6.3 C)</temperature_string>
+		<temp_f>43.3</temp_f>
+		<temp_c>6.3</temp_c>
+		<relative_humidity>85</relative_humidity>
+		<wind_string>From the NNW at 4.5 MPH Gusting to 6.7 MPH</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>337</wind_degrees>
+		<wind_mph>4.5</wind_mph>
+		<wind_gust_mph>6.7</wind_gust_mph>
+		<pressure_string>30.27" (1024.9 mb)</pressure_string>
+		<pressure_mb>1024.9</pressure_mb>
+		<pressure_in>30.27</pressure_in>
+		<dewpoint_string>39.1 F (3.9 C)</dewpoint_string>
+		<dewpoint_f>39.1</dewpoint_f>
+		<dewpoint_c>3.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>41 F (5 C)</windchill_string>
+		<windchill_f>41</windchill_f>
+		<windchill_c>5</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IGELDERL64</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=51.843586,5.874851</ob_url>
+	</current_observation>
+

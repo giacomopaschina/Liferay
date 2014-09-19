@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Camping Du Vieux Chateau, Rauzan, AQUITAINE</full>
+		<neighborhood>Camping Du Vieux Chateau</neighborhood>
+		<city>Rauzan</city>
+		<state>AQUITAINE</state>
+		<zip></zip>
+		<latitude>44.781517</latitude>
+		<longitude>-0.126703</longitude>
+		<elevation>154 ft</elevation>
+		</location>
+		<station_id>IAQUITAI55</station_id>
+		<station_type>Oregon Scientific Professional Weather Center</station_type>
+		<observation_time>Last Updated on June 18, 10:00 AM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 08:00:09 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>64.4 F (18.0 C)</temperature_string>
+		<temp_f>64.4</temp_f>
+		<temp_c>18.0</temp_c>
+		<relative_humidity>62</relative_humidity>
+		<wind_string>From the NNE at 2.0 MPH Gusting to 3.0 MPH</wind_string>
+		<wind_dir>NNE</wind_dir>
+		<wind_degrees>12</wind_degrees>
+		<wind_mph>2.0</wind_mph>
+		<wind_gust_mph>3.0</wind_gust_mph>
+		<pressure_string>30.06" (1017.8 mb)</pressure_string>
+		<pressure_mb>1017.8</pressure_mb>
+		<pressure_in>30.06</pressure_in>
+		<dewpoint_string>51.1 F (10.6 C)</dewpoint_string>
+		<dewpoint_f>51.1</dewpoint_f>
+		<dewpoint_c>10.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IAQUITAI55</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=44.781517,-0.126703</ob_url>
+	</current_observation>
+

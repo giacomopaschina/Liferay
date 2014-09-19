@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Hounslow, Hounslow, Middlesex</full>
+		<neighborhood>Hounslow</neighborhood>
+		<city>Hounslow</city>
+		<state>Middlesex</state>
+		<zip></zip>
+		<latitude>51.456646</latitude>
+		<longitude>-0.366677</longitude>
+		<elevation>69 ft</elevation>
+		</location>
+		<station_id>IMIDDLES2</station_id>
+		<station_type>Davis VP2 Pro Plus</station_type>
+		<observation_time>Last Updated on December 4, 12:16 PM GMT</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 12:16:32 GMT</observation_time_rfc822>
+		<weather>BKN</weather>
+		<temperature_string>47.6 F (8.7 C)</temperature_string>
+		<temp_f>47.6</temp_f>
+		<temp_c>8.7</temp_c>
+		<relative_humidity>78</relative_humidity>
+		<wind_string>From the ENE at 10.4 MPH Gusting to 10.4 MPH</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>69</wind_degrees>
+		<wind_mph>10.4</wind_mph>
+		<wind_gust_mph>10.4</wind_gust_mph>
+		<pressure_string>30.36" (1028.0 mb)</pressure_string>
+		<pressure_mb>1028.0</pressure_mb>
+		<pressure_in>30.36</pressure_in>
+		<dewpoint_string>41.1 F (5.1 C)</dewpoint_string>
+		<dewpoint_f>41.1</dewpoint_f>
+		<dewpoint_c>5.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>43 F (6 C)</windchill_string>
+		<windchill_f>43</windchill_f>
+		<windchill_c>6</windchill_c>
+		
+		<solar_radiation>81</solar_radiation>
+		<UV>0.5</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IMIDDLES2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=51.456646,-0.366677</ob_url>
+	</current_observation>
+

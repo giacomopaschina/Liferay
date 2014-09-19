@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Uthlid, Uthlid, BISKUPSTUNGUR</full>
+		<neighborhood>Uthlid</neighborhood>
+		<city>Uthlid</city>
+		<state>BISKUPSTUNGUR</state>
+		<zip></zip>
+		<latitude>64.283783</latitude>
+		<longitude>-20.439209</longitude>
+		<elevation>450 ft</elevation>
+		</location>
+		<station_id>IBISKUPS2</station_id>
+		<station_type>WMR-968</station_type>
+		<observation_time>Last Updated on June 18, 12:41 PM GMT</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:41:34 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>57.9 F (14.4 C)</temperature_string>
+		<temp_f>57.9</temp_f>
+		<temp_c>14.4</temp_c>
+		<relative_humidity>94</relative_humidity>
+		<wind_string>From the South at 5.6 MPH Gusting to 8.1 MPH</wind_string>
+		<wind_dir>South</wind_dir>
+		<wind_degrees>191</wind_degrees>
+		<wind_mph>5.6</wind_mph>
+		<wind_gust_mph>8.1</wind_gust_mph>
+		<pressure_string>29.50" (998.9 mb)</pressure_string>
+		<pressure_mb>998.9</pressure_mb>
+		<pressure_in>29.50</pressure_in>
+		<dewpoint_string>56.2 F (13.4 C)</dewpoint_string>
+		<dewpoint_f>56.2</dewpoint_f>
+		<dewpoint_c>13.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>-999.00 in (-2537.5 cm)</precip_today_string>
+		<precip_today_in>-999.00</precip_today_in>
+		<precip_today_metric>-2537.5 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBISKUPS2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=64.283783,-20.439209</ob_url>
+	</current_observation>
+

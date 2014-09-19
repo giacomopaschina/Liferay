@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Yambol, Bulgaria, Malomir, Yambol</full>
+		<neighborhood>Yambol, Bulgaria</neighborhood>
+		<city>Malomir</city>
+		<state>Yambol</state>
+		<zip></zip>
+		<latitude>42.275772</latitude>
+		<longitude>26.514019</longitude>
+		<elevation>476 ft</elevation>
+		</location>
+		<station_id>IJAMBOLM2</station_id>
+		<station_type>other</station_type>
+		<observation_time>Last Updated on June 18, 4:09 PM EEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:09:05 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>80.2 F (26.8 C)</temperature_string>
+		<temp_f>80.2</temp_f>
+		<temp_c>26.8</temp_c>
+		<relative_humidity>57</relative_humidity>
+		<wind_string>From the ENE at 3.5 MPH Gusting to 3.5 MPH</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>68</wind_degrees>
+		<wind_mph>3.5</wind_mph>
+		<wind_gust_mph>3.5</wind_gust_mph>
+		<pressure_string>30.01" (1016.1 mb)</pressure_string>
+		<pressure_mb>1016.1</pressure_mb>
+		<pressure_in>30.01</pressure_in>
+		<dewpoint_string>63.6 F (17.6 C)</dewpoint_string>
+		<dewpoint_f>63.6</dewpoint_f>
+		<dewpoint_c>17.6</dewpoint_c>
+		
+		<heat_index_string>82 F (28 C)</heat_index_string>
+		<heat_index_f>82</heat_index_f>
+		<heat_index_c>28</heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IJAMBOLM2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=42.275772,26.514019</ob_url>
+	</current_observation>
+

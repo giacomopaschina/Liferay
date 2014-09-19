@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Ligny-les-aire, Ligny-les-Aire, PAS DE CALAIS</full>
+		<neighborhood>Ligny-les-aire</neighborhood>
+		<city>Ligny-les-Aire</city>
+		<state>PAS DE CALAIS</state>
+		<zip></zip>
+		<latitude>50.557220</latitude>
+		<longitude>2.344505</longitude>
+		<elevation>302 ft</elevation>
+		</location>
+		<station_id>IPASDECA2</station_id>
+		<station_type>Oregon WMR100N</station_type>
+		<observation_time>Last Updated on June 18, 2:53 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:53:43 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>63.7 F (17.6 C)</temperature_string>
+		<temp_f>63.7</temp_f>
+		<temp_c>17.6</temp_c>
+		<relative_humidity>83</relative_humidity>
+		<wind_string>From the WNW at 6.0 MPH Gusting to 13.0 MPH</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>292</wind_degrees>
+		<wind_mph>6.0</wind_mph>
+		<wind_gust_mph>13.0</wind_gust_mph>
+		<pressure_string>30.26" (1024.6 mb)</pressure_string>
+		<pressure_mb>1024.6</pressure_mb>
+		<pressure_in>30.26</pressure_in>
+		<dewpoint_string>58.5 F (14.7 C)</dewpoint_string>
+		<dewpoint_f>58.5</dewpoint_f>
+		<dewpoint_c>14.7</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IPASDECA2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=50.557220,2.344505</ob_url>
+	</current_observation>
+

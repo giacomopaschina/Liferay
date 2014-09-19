@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Bedford Mills, Ontario, Bedford Mills, ONTARIO</full>
+		<neighborhood>Bedford Mills, Ontario</neighborhood>
+		<city>Bedford Mills</city>
+		<state>ONTARIO</state>
+		<zip></zip>
+		<latitude>44.592117</latitude>
+		<longitude>-76.407768</longitude>
+		<elevation>469 ft</elevation>
+		</location>
+		<station_id>IONTARIO229</station_id>
+		<station_type>Davis Vantage Pro 2 Wireless</station_type>
+		<observation_time>Last Updated on May 1, 11:13 PM EDT</observation_time>
+		<observation_time_rfc822>Fri, 02 May 2014 03:13:43 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>49.8 F (9.9 C)</temperature_string>
+		<temp_f>49.8</temp_f>
+		<temp_c>9.9</temp_c>
+		<relative_humidity>68</relative_humidity>
+		<wind_string>From the West at 4.0 MPH </wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>273</wind_degrees>
+		<wind_mph>4.0</wind_mph>
+		<wind_gust_mph>-999.0</wind_gust_mph>
+		<pressure_string>29.69" (1005.3 mb)</pressure_string>
+		<pressure_mb>1005.3</pressure_mb>
+		<pressure_in>29.69</pressure_in>
+		<dewpoint_string>40.0 F (4.4 C)</dewpoint_string>
+		<dewpoint_f>40.0</dewpoint_f>
+		<dewpoint_c>4.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>49 F (9 C)</windchill_string>
+		<windchill_f>49</windchill_f>
+		<windchill_c>9</windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>-999.00 in (-2537.5 mm)</precip_1hr_string>
+		<precip_1hr_in>-999.00</precip_1hr_in>
+		<precip_1hr_metric>-2537.5</precip_1hr_metric>
+		<precip_today_string>0.28 in (0.7 cm)</precip_today_string>
+		<precip_today_in>0.28</precip_today_in>
+		<precip_today_metric>0.7 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IONTARIO229</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=44.592117,-76.407768</ob_url>
+	</current_observation>
+

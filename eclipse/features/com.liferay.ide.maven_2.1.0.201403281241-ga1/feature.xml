@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.liferay.ide.maven"
+      label="m2e-liferay - Maven Integration for Liferay IDE"
+      version="2.1.0.201403281241-ga1"
+      provider-name="Liferay, Inc."
+      plugin="com.liferay.ide.maven.branding">
+
+   <description url="http://www.liferay.com/community/liferay-projects/liferay-ide/overview">
+      Maven integration for Liferay IDE. Extends m2e-core and m2e-wtp plugins to support Liferay IDE development
+            and also provide lifecycle metadata mapping for liferay-maven-plugin executions.
+   </description>
+
+   <copyright url="http://www.liferay.com/products/liferay-portal/lgpl">
+      /**
+* Copyright (c) 2000-2014 Liferay, Inc. All rights reserved.
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2.1 of the License, or (at your option) any later
+* version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty
+* of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See
+* the GNU Lesser General Public License for more details.
+*/
+   </copyright>
+
+   <license url="http://www.gnu.org/licenses/lgpl-2.1.html">
+      Liferay IDE is free software distributed under the terms of the Lesser GNU Public License. See URL for full license text.  http://www.gnu.org/licenses/lgpl-2.1.html
+   </license>
+
+   <requires>
+      <import feature="org.eclipse.m2e.wtp.feature" version="1.1.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.m2e.wtp.jsf.feature" version="1.1.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.m2e.feature" version="1.5.0" match="greaterOrEqual"/>
+      <import feature="com.liferay.ide.eclipse.tools" version="2.0.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="com.liferay.ide.maven.core"
+         download-size="70"
+         install-size="148"
+         version="2.1.0.201403281241-ga1"
+         unpack="false"/>
+
+    <plugin
+         id="com.liferay.ide.maven.ui"
+         download-size="32"
+         install-size="60"
+         version="2.1.0.201403281241-ga1"
+         unpack="false"/>
+
+   <plugin
+         id="com.liferay.ide.maven.branding"
+         download-size="5"
+         install-size="6"
+         version="2.1.0.201403281241-ga1"
+         unpack="false"/>
+
+</feature>

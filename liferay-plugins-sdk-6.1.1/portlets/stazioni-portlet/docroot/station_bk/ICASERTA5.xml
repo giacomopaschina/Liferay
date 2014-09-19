@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Caserta, Pignataro Maggiore, CASERTA</full>
+		<neighborhood>Caserta</neighborhood>
+		<city>Pignataro Maggiore</city>
+		<state>CASERTA</state>
+		<zip></zip>
+		<latitude>41.189545</latitude>
+		<longitude>14.170679</longitude>
+		<elevation>292 ft</elevation>
+		</location>
+		<station_id>ICASERTA5</station_id>
+		<station_type>Oregone Scientific WMR-928</station_type>
+		<observation_time>Last Updated on December 4, 12:15 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:15:23 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>57.7 F (14.3 C)</temperature_string>
+		<temp_f>57.7</temp_f>
+		<temp_c>14.3</temp_c>
+		<relative_humidity>29</relative_humidity>
+		<wind_string>From the South at 3.6 MPH Gusting to 6.0 MPH</wind_string>
+		<wind_dir>South</wind_dir>
+		<wind_degrees>171</wind_degrees>
+		<wind_mph>3.6</wind_mph>
+		<wind_gust_mph>6.0</wind_gust_mph>
+		<pressure_string>30.12" (1019.9 mb)</pressure_string>
+		<pressure_mb>1019.9</pressure_mb>
+		<pressure_in>30.12</pressure_in>
+		<dewpoint_string>25.7 F (-3.5 C)</dewpoint_string>
+		<dewpoint_f>25.7</dewpoint_f>
+		<dewpoint_c>-3.5</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>-999.00 in (-2537.5 cm)</precip_today_string>
+		<precip_today_in>-999.00</precip_today_in>
+		<precip_today_metric>-2537.5 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ICASERTA5</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=41.189545,14.170679</ob_url>
+	</current_observation>
+

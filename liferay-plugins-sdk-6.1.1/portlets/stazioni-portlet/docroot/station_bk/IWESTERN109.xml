@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Ellenbrook, ELLENBROOK, WESTERN AUSTRALIA</full>
+		<neighborhood>Ellenbrook</neighborhood>
+		<city>ELLENBROOK</city>
+		<state>WESTERN AUSTRALIA</state>
+		<zip></zip>
+		<latitude>-31.768936</latitude>
+		<longitude>115.974449</longitude>
+		<elevation>184 ft</elevation>
+		</location>
+		<station_id>IWESTERN109</station_id>
+		<station_type>Davis Vantage PRO 2</station_type>
+		<observation_time>Last Updated on December 4, 7:32 PM WST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:32:05 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>75.2 F (24.0 C)</temperature_string>
+		<temp_f>75.2</temp_f>
+		<temp_c>24.0</temp_c>
+		<relative_humidity>27</relative_humidity>
+		<wind_string>From the ESE at 1.0 MPH Gusting to 6.0 MPH</wind_string>
+		<wind_dir>ESE</wind_dir>
+		<wind_degrees>117</wind_degrees>
+		<wind_mph>1.0</wind_mph>
+		<wind_gust_mph>6.0</wind_gust_mph>
+		<pressure_string>30.04" (1017.2 mb)</pressure_string>
+		<pressure_mb>1017.2</pressure_mb>
+		<pressure_in>30.04</pressure_in>
+		<dewpoint_string>38.9 F (3.8 C)</dewpoint_string>
+		<dewpoint_f>38.9</dewpoint_f>
+		<dewpoint_c>3.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IWESTERN109</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-31.768936,115.974449</ob_url>
+	</current_observation>
+

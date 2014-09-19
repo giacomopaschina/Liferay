@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Cambridge, WAIKATO</full>
+		<neighborhood></neighborhood>
+		<city>Cambridge</city>
+		<state>WAIKATO</state>
+		<zip></zip>
+		<latitude>-37.919998</latitude>
+		<longitude>175.466660</longitude>
+		<elevation>0 ft</elevation>
+		</location>
+		<station_id>IWAIKATO28</station_id>
+		<station_type>WMR200</station_type>
+		<observation_time>Last Updated on June 19, 12:48 AM FJT</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:48:03 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>45.8 F (7.7 C)</temperature_string>
+		<temp_f>45.8</temp_f>
+		<temp_c>7.7</temp_c>
+		<relative_humidity>94</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>295</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.81" (1009.4 mb)</pressure_string>
+		<pressure_mb>1009.4</pressure_mb>
+		<pressure_in>29.81</pressure_in>
+		<dewpoint_string>44.2 F (6.8 C)</dewpoint_string>
+		<dewpoint_f>44.2</dewpoint_f>
+		<dewpoint_c>6.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.09 in (0.2 cm)</precip_today_string>
+		<precip_today_in>0.09</precip_today_in>
+		<precip_today_metric>0.2 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IWAIKATO28</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-37.919998,175.466660</ob_url>
+	</current_observation>
+

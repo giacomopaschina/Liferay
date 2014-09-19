@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>El Ventós, El Ventós, Comunidad Valenciana</full>
+		<neighborhood>El Ventós</neighborhood>
+		<city>El Ventós</city>
+		<state>Comunidad Valenciana</state>
+		<zip></zip>
+		<latitude>38.456612</latitude>
+		<longitude>-0.625877</longitude>
+		<elevation>1460 ft</elevation>
+		</location>
+		<station_id>ICOMUNID61</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on December 3, 10:00 PM CET</observation_time>
+		<observation_time_rfc822>Tue, 03 Dec 2013 21:00:43 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>52.9 F (11.6 C)</temperature_string>
+		<temp_f>52.9</temp_f>
+		<temp_c>11.6</temp_c>
+		<relative_humidity>66</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>67</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>28.97" (980.9 mb)</pressure_string>
+		<pressure_mb>980.9</pressure_mb>
+		<pressure_in>28.97</pressure_in>
+		<dewpoint_string>41.8 F (5.4 C)</dewpoint_string>
+		<dewpoint_f>41.8</dewpoint_f>
+		<dewpoint_c>5.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ICOMUNID61</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=38.456612,-0.625877</ob_url>
+	</current_observation>
+

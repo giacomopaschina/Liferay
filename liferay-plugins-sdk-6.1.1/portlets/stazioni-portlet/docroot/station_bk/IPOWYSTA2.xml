@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Gliding Club, Talgarth, UK, Talgarth, POWYS</full>
+		<neighborhood>Gliding Club, Talgarth, UK</neighborhood>
+		<city>Talgarth</city>
+		<state>POWYS</state>
+		<zip></zip>
+		<latitude>51.979939</latitude>
+		<longitude>-3.206334</longitude>
+		<elevation>970 ft</elevation>
+		</location>
+		<station_id>IPOWYSTA2</station_id>
+		<station_type>Davis Vantage Pro 2</station_type>
+		<observation_time>Last Updated on December 4, 12:13 PM GMT</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 12:13:16 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>41.8 F (5.4 C)</temperature_string>
+		<temp_f>41.8</temp_f>
+		<temp_c>5.4</temp_c>
+		<relative_humidity>83</relative_humidity>
+		<wind_string>From the NNW at 10.0 MPH Gusting to 14.0 MPH</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>346</wind_degrees>
+		<wind_mph>10.0</wind_mph>
+		<wind_gust_mph>14.0</wind_gust_mph>
+		<pressure_string>30.44" (1030.7 mb)</pressure_string>
+		<pressure_mb>1030.7</pressure_mb>
+		<pressure_in>30.44</pressure_in>
+		<dewpoint_string>37.0 F (2.8 C)</dewpoint_string>
+		<dewpoint_f>37.0</dewpoint_f>
+		<dewpoint_c>2.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>36 F (2 C)</windchill_string>
+		<windchill_f>36</windchill_f>
+		<windchill_c>2</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.01 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.01</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IPOWYSTA2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=51.979939,-3.206334</ob_url>
+	</current_observation>
+

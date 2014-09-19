@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Pembroke Oamaru, Oamaru, OTAGO</full>
+		<neighborhood>Pembroke Oamaru</neighborhood>
+		<city>Oamaru</city>
+		<state>OTAGO</state>
+		<zip></zip>
+		<latitude>-45.077137</latitude>
+		<longitude>170.979050</longitude>
+		<elevation>89 ft</elevation>
+		</location>
+		<station_id>IOTAGOOA5</station_id>
+		<station_type>other</station_type>
+		<observation_time>Last Updated on December 5, 12:57 AM NZDT</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:57:22 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>56.7 F (13.7 C)</temperature_string>
+		<temp_f>56.7</temp_f>
+		<temp_c>13.7</temp_c>
+		<relative_humidity>83</relative_humidity>
+		<wind_string>From the SW at 2.2 MPH Gusting to 4.5 MPH</wind_string>
+		<wind_dir>SW</wind_dir>
+		<wind_degrees>234</wind_degrees>
+		<wind_mph>2.2</wind_mph>
+		<wind_gust_mph>4.5</wind_gust_mph>
+		<pressure_string>29.71" (1006.0 mb)</pressure_string>
+		<pressure_mb>1006.0</pressure_mb>
+		<pressure_in>29.71</pressure_in>
+		<dewpoint_string>51.6 F (10.9 C)</dewpoint_string>
+		<dewpoint_f>51.6</dewpoint_f>
+		<dewpoint_c>10.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IOTAGOOA5</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-45.077137,170.979050</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Oravita, Oravi%u021Ba, CARA%U0219-SEVERIN</full>
+		<neighborhood>Oravita</neighborhood>
+		<city>Oravi%u021Ba</city>
+		<state>CARA%U0219-SEVERIN</state>
+		<zip></zip>
+		<latitude>45.039188</latitude>
+		<longitude>21.685411</longitude>
+		<elevation>679 ft</elevation>
+		</location>
+		<station_id>ICARAU022</station_id>
+		<station_type>Oregon Scientific Professional Weather Center</station_type>
+		<observation_time>Last Updated on December 4, 2:02 PM EET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 12:02:03 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>36.9 F (2.7 C)</temperature_string>
+		<temp_f>36.9</temp_f>
+		<temp_c>2.7</temp_c>
+		<relative_humidity>44</relative_humidity>
+		<wind_string>From the WNW at 2.7 MPH Gusting to 5.8 MPH</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>296</wind_degrees>
+		<wind_mph>2.7</wind_mph>
+		<wind_gust_mph>5.8</wind_gust_mph>
+		<pressure_string>29.68" (1005.0 mb)</pressure_string>
+		<pressure_mb>1005.0</pressure_mb>
+		<pressure_in>29.68</pressure_in>
+		<dewpoint_string>17.0 F (-8.3 C)</dewpoint_string>
+		<dewpoint_f>17.0</dewpoint_f>
+		<dewpoint_c>-8.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ICARAU022</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.039188,21.685411</ob_url>
+	</current_observation>
+

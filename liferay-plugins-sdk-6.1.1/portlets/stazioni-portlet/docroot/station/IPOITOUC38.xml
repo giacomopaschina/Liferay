@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>DUDU957, Ladiville, POITOU-CHARENTES</full>
+		<neighborhood>DUDU957</neighborhood>
+		<city>Ladiville</city>
+		<state>POITOU-CHARENTES</state>
+		<zip></zip>
+		<latitude>45.504997</latitude>
+		<longitude>-0.073647</longitude>
+		<elevation>344 ft</elevation>
+		</location>
+		<station_id>IPOITOUC38</station_id>
+		<station_type>Davis Vantage Pro2 Plus (Cabled)</station_type>
+		<observation_time>Last Updated on June 18, 2:40 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:40:18 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>69.6 F (20.9 C)</temperature_string>
+		<temp_f>69.6</temp_f>
+		<temp_c>20.9</temp_c>
+		<relative_humidity>63</relative_humidity>
+		<wind_string>From the NNW at 8.0 MPH Gusting to 18.0 MPH</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>345</wind_degrees>
+		<wind_mph>8.0</wind_mph>
+		<wind_gust_mph>18.0</wind_gust_mph>
+		<pressure_string>30.10" (1019.2 mb)</pressure_string>
+		<pressure_mb>1019.2</pressure_mb>
+		<pressure_in>30.10</pressure_in>
+		<dewpoint_string>56.0 F (13.3 C)</dewpoint_string>
+		<dewpoint_f>56.0</dewpoint_f>
+		<dewpoint_c>13.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>905</solar_radiation>
+		<UV>7.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IPOITOUC38</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=45.504997,-0.073647</ob_url>
+	</current_observation>
+

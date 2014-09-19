@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Pengjiang, Jiangmen, GUANGDONG</full>
+		<neighborhood>Pengjiang</neighborhood>
+		<city>Jiangmen</city>
+		<state>GUANGDONG</state>
+		<zip></zip>
+		<latitude>22.586931</latitude>
+		<longitude>113.092216</longitude>
+		<elevation>197 ft</elevation>
+		</location>
+		<station_id>IGUANGDO23</station_id>
+		<station_type>WS-2080</station_type>
+		<observation_time>Last Updated on June 18, 9:17 PM HKT</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:17:48 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>87.1 F (30.6 C)</temperature_string>
+		<temp_f>87.1</temp_f>
+		<temp_c>30.6</temp_c>
+		<relative_humidity>73</relative_humidity>
+		<wind_string>From the South at 5.4 MPH Gusting to 11.4 MPH</wind_string>
+		<wind_dir>South</wind_dir>
+		<wind_degrees>183</wind_degrees>
+		<wind_mph>5.4</wind_mph>
+		<wind_gust_mph>11.4</wind_gust_mph>
+		<pressure_string>29.50" (998.9 mb)</pressure_string>
+		<pressure_mb>998.9</pressure_mb>
+		<pressure_in>29.50</pressure_in>
+		<dewpoint_string>77.4 F (25.2 C)</dewpoint_string>
+		<dewpoint_f>77.4</dewpoint_f>
+		<dewpoint_c>25.2</dewpoint_c>
+		
+		<heat_index_string>99 F (37 C)</heat_index_string>
+		<heat_index_f>99</heat_index_f>
+		<heat_index_c>37</heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.06 in (0.2 cm)</precip_today_string>
+		<precip_today_in>0.06</precip_today_in>
+		<precip_today_metric>0.2 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IGUANGDO23</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=22.586931,113.092216</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Beaver Bank, Beaver Bank, NOVA SCOTIA</full>
+		<neighborhood>Beaver Bank</neighborhood>
+		<city>Beaver Bank</city>
+		<state>NOVA SCOTIA</state>
+		<zip></zip>
+		<latitude>44.848869</latitude>
+		<longitude>-63.685436</longitude>
+		<elevation>194 ft</elevation>
+		</location>
+		<station_id>INOVASCO65</station_id>
+		<station_type>Davis</station_type>
+		<observation_time>Last Updated on December 4, 7:34 AM AST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:34:12 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>40.8 F (4.9 C)</temperature_string>
+		<temp_f>40.8</temp_f>
+		<temp_c>4.9</temp_c>
+		<relative_humidity>100</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>32767</wind_degrees>
+		<wind_mph>-999.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.49" (998.5 mb)</pressure_string>
+		<pressure_mb>998.5</pressure_mb>
+		<pressure_in>29.49</pressure_in>
+		<dewpoint_string>40.8 F (4.9 C)</dewpoint_string>
+		<dewpoint_f>40.8</dewpoint_f>
+		<dewpoint_c>4.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.36 in (0.9 mm)</precip_1hr_string>
+		<precip_1hr_in>0.36</precip_1hr_in>
+		<precip_1hr_metric>0.9</precip_1hr_metric>
+		<precip_today_string>0.11 in (0.3 cm)</precip_today_string>
+		<precip_today_in>0.11</precip_today_in>
+		<precip_today_metric>0.3 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INOVASCO65</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=44.848869,-63.685436</ob_url>
+	</current_observation>
+

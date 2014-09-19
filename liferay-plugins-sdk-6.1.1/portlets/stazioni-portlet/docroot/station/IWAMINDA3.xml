@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Mindarie, Mindarie, WA</full>
+		<neighborhood>Mindarie</neighborhood>
+		<city>Mindarie</city>
+		<state>WA</state>
+		<zip></zip>
+		<latitude>-31.696711</latitude>
+		<longitude>115.713661</longitude>
+		<elevation>108 ft</elevation>
+		</location>
+		<station_id>IWAMINDA3</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on June 18, 9:04 PM WST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:04:55 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>62.2 F (16.8 C)</temperature_string>
+		<temp_f>62.2</temp_f>
+		<temp_c>16.8</temp_c>
+		<relative_humidity>62</relative_humidity>
+		<wind_string>From the WSW at 7.0 MPH Gusting to 16.0 MPH</wind_string>
+		<wind_dir>WSW</wind_dir>
+		<wind_degrees>243</wind_degrees>
+		<wind_mph>7.0</wind_mph>
+		<wind_gust_mph>16.0</wind_gust_mph>
+		<pressure_string>30.10" (1019.2 mb)</pressure_string>
+		<pressure_mb>1019.2</pressure_mb>
+		<pressure_in>30.10</pressure_in>
+		<dewpoint_string>49.1 F (9.5 C)</dewpoint_string>
+		<dewpoint_f>49.1</dewpoint_f>
+		<dewpoint_c>9.5</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.29 in (0.7 cm)</precip_today_string>
+		<precip_today_in>0.29</precip_today_in>
+		<precip_today_metric>0.7 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IWAMINDA3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-31.696711,115.713661</ob_url>
+	</current_observation>
+

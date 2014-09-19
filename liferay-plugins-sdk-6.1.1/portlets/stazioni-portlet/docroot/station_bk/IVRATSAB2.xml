@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Krushovitsa, Krushovitsa, Vratsa</full>
+		<neighborhood>Krushovitsa</neighborhood>
+		<city>Krushovitsa</city>
+		<state>Vratsa</state>
+		<zip></zip>
+		<latitude>43.614651</latitude>
+		<longitude>23.844646</longitude>
+		<elevation>167 ft</elevation>
+		</location>
+		<station_id>IVRATSAB2</station_id>
+		<station_type>Nexus-TFA, Kat. No 35.1075</station_type>
+		<observation_time>Last Updated on December 4, 1:35 PM EET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:35:08 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>36.3 F (2.4 C)</temperature_string>
+		<temp_f>36.3</temp_f>
+		<temp_c>2.4</temp_c>
+		<relative_humidity>78</relative_humidity>
+		<wind_string>From the NNW at 3.5 MPH Gusting to 3.5 MPH</wind_string>
+		<wind_dir>NNW</wind_dir>
+		<wind_degrees>338</wind_degrees>
+		<wind_mph>3.5</wind_mph>
+		<wind_gust_mph>3.5</wind_gust_mph>
+		<pressure_string>30.30" (1026.0 mb)</pressure_string>
+		<pressure_mb>1026.0</pressure_mb>
+		<pressure_in>30.30</pressure_in>
+		<dewpoint_string>30.1 F (-1.1 C)</dewpoint_string>
+		<dewpoint_f>30.1</dewpoint_f>
+		<dewpoint_c>-1.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>34 F (1 C)</windchill_string>
+		<windchill_f>34</windchill_f>
+		<windchill_c>1</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVRATSAB2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=43.614651,23.844646</ob_url>
+	</current_observation>
+

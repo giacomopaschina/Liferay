@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Riacho Grande - SBC, Riacho Grande SBC, São Paulo</full>
+		<neighborhood>Riacho Grande - SBC</neighborhood>
+		<city>Riacho Grande SBC</city>
+		<state>São Paulo</state>
+		<zip></zip>
+		<latitude>-23.778622</latitude>
+		<longitude>-46.530811</longitude>
+		<elevation>2503 ft</elevation>
+		</location>
+		<station_id>ISPSOBER2</station_id>
+		<station_type>Davis Vantage Vue (Wireless)</station_type>
+		<observation_time>Last Updated on June 3, 12:26 AM BRT</observation_time>
+		<observation_time_rfc822>Tue, 03 Jun 2014 03:26:07 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>50.2 F (10.1 C)</temperature_string>
+		<temp_f>50.2</temp_f>
+		<temp_c>10.1</temp_c>
+		<relative_humidity>95</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>300</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.94" (1013.8 mb)</pressure_string>
+		<pressure_mb>1013.8</pressure_mb>
+		<pressure_in>29.94</pressure_in>
+		<dewpoint_string>48.8 F (9.3 C)</dewpoint_string>
+		<dewpoint_f>48.8</dewpoint_f>
+		<dewpoint_c>9.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISPSOBER2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-23.778622,-46.530811</ob_url>
+	</current_observation>
+

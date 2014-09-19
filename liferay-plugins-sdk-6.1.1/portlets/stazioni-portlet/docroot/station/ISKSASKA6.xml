@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Lakeridge, Saskatoon, SK</full>
+		<neighborhood>Lakeridge</neighborhood>
+		<city>Saskatoon</city>
+		<state>SK</state>
+		<zip></zip>
+		<latitude>52.089710</latitude>
+		<longitude>-106.576454</longitude>
+		<elevation>1667 ft</elevation>
+		</location>
+		<station_id>ISKSASKA6</station_id>
+		<station_type>Davis Vantage Vue</station_type>
+		<observation_time>Last Updated on June 18, 7:17 AM CST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:17:20 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>54.0 F (12.2 C)</temperature_string>
+		<temp_f>54.0</temp_f>
+		<temp_c>12.2</temp_c>
+		<relative_humidity>95</relative_humidity>
+		<wind_string>From the ENE at 7.0 MPH Gusting to 15.0 MPH</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>61</wind_degrees>
+		<wind_mph>7.0</wind_mph>
+		<wind_gust_mph>15.0</wind_gust_mph>
+		<pressure_string>29.93" (1013.4 mb)</pressure_string>
+		<pressure_mb>1013.4</pressure_mb>
+		<pressure_in>29.93</pressure_in>
+		<dewpoint_string>52.6 F (11.4 C)</dewpoint_string>
+		<dewpoint_f>52.6</dewpoint_f>
+		<dewpoint_c>11.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>16</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.23 in (0.6 mm)</precip_1hr_string>
+		<precip_1hr_in>0.23</precip_1hr_in>
+		<precip_1hr_metric>0.6</precip_1hr_metric>
+		<precip_today_string>0.41 in (1.0 cm)</precip_today_string>
+		<precip_today_in>0.41</precip_today_in>
+		<precip_today_metric>1.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISKSASKA6</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=52.089710,-106.576454</ob_url>
+	</current_observation>
+

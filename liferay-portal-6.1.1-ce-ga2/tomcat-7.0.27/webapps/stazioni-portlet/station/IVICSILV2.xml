@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Silvan South, Silvan, VIC</full>
+		<neighborhood>Silvan South</neighborhood>
+		<city>Silvan</city>
+		<state>VIC</state>
+		<zip></zip>
+		<latitude>-37.847309</latitude>
+		<longitude>145.439667</longitude>
+		<elevation>804 ft</elevation>
+		</location>
+		<station_id>IVICSILV2</station_id>
+		<station_type>Wh1080 via pywws</station_type>
+		<observation_time>Last Updated on June 18, 10:04 PM EST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:04:02 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>46.0 F (7.8 C)</temperature_string>
+		<temp_f>46.0</temp_f>
+		<temp_c>7.8</temp_c>
+		<relative_humidity>82</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>-999</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>30.32" (1026.6 mb)</pressure_string>
+		<pressure_mb>1026.6</pressure_mb>
+		<pressure_in>30.32</pressure_in>
+		<dewpoint_string>40.9 F (4.9 C)</dewpoint_string>
+		<dewpoint_f>40.9</dewpoint_f>
+		<dewpoint_c>4.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVICSILV2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-37.847309,145.439667</ob_url>
+	</current_observation>
+

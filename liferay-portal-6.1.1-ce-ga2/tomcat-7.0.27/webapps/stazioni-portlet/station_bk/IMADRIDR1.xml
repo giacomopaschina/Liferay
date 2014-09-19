@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Yuki-Ruisenor, Rivas Vaciamadrid, MADRID</full>
+		<neighborhood>Yuki-Ruisenor</neighborhood>
+		<city>Rivas Vaciamadrid</city>
+		<state>MADRID</state>
+		<zip></zip>
+		<latitude>40.328403</latitude>
+		<longitude>-3.516258</longitude>
+		<elevation>1821 ft</elevation>
+		</location>
+		<station_id>IMADRIDR1</station_id>
+		<station_type>Oregon Sci. WMR928N</station_type>
+		<observation_time>Last Updated on December 4, 1:04 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 12:04:50 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>51.9 F (11.1 C)</temperature_string>
+		<temp_f>51.9</temp_f>
+		<temp_c>11.1</temp_c>
+		<relative_humidity>57</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>WSW</wind_dir>
+		<wind_degrees>253</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>30.38" (1028.7 mb)</pressure_string>
+		<pressure_mb>1028.7</pressure_mb>
+		<pressure_in>30.38</pressure_in>
+		<dewpoint_string>37.2 F (2.9 C)</dewpoint_string>
+		<dewpoint_f>37.2</dewpoint_f>
+		<dewpoint_c>2.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IMADRIDR1</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=40.328403,-3.516258</ob_url>
+	</current_observation>
+

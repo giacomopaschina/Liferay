@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Summerhill, Launceston, TASMANIA</full>
+		<neighborhood>Summerhill</neighborhood>
+		<city>Launceston</city>
+		<state>TASMANIA</state>
+		<zip></zip>
+		<latitude>-41.461353</latitude>
+		<longitude>147.128387</longitude>
+		<elevation>561 ft</elevation>
+		</location>
+		<station_id>ITASMANI35</station_id>
+		<station_type>Vantage Vue Pro 2</station_type>
+		<observation_time>Last Updated on December 4, 10:30 PM EST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:30:38 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>53.8 F (12.1 C)</temperature_string>
+		<temp_f>53.8</temp_f>
+		<temp_c>12.1</temp_c>
+		<relative_humidity>57</relative_humidity>
+		<wind_string>From the NW at 5.0 MPH Gusting to 11.0 MPH</wind_string>
+		<wind_dir>NW</wind_dir>
+		<wind_degrees>322</wind_degrees>
+		<wind_mph>5.0</wind_mph>
+		<wind_gust_mph>11.0</wind_gust_mph>
+		<pressure_string>29.47" (997.9 mb)</pressure_string>
+		<pressure_mb>997.9</pressure_mb>
+		<pressure_in>29.47</pressure_in>
+		<dewpoint_string>38.9 F (3.8 C)</dewpoint_string>
+		<dewpoint_f>38.9</dewpoint_f>
+		<dewpoint_c>3.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.41 in (1.0 cm)</precip_today_string>
+		<precip_today_in>0.41</precip_today_in>
+		<precip_today_metric>1.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ITASMANI35</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-41.461353,147.128387</ob_url>
+	</current_observation>
+

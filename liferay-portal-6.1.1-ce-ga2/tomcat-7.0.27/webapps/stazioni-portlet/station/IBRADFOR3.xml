@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Todley, Laycock, Keighley</full>
+		<neighborhood>Todley</neighborhood>
+		<city>Laycock</city>
+		<state>Keighley</state>
+		<zip></zip>
+		<latitude>53.863342</latitude>
+		<longitude>-1.966966</longitude>
+		<elevation>928 ft</elevation>
+		</location>
+		<station_id>IBRADFOR3</station_id>
+		<station_type></station_type>
+		<observation_time>Last Updated on June 18, 1:49 PM BST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:49:23 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>-11.4 F (-24.1 C)</temperature_string>
+		<temp_f>-11.4</temp_f>
+		<temp_c>-24.1</temp_c>
+		<relative_humidity>10</relative_humidity>
+		<wind_string>From the South at 9.2 MPH Gusting to 29.8 MPH</wind_string>
+		<wind_dir>South</wind_dir>
+		<wind_degrees>181</wind_degrees>
+		<wind_mph>9.2</wind_mph>
+		<wind_gust_mph>29.8</wind_gust_mph>
+		<pressure_string>30.47" (1031.7 mb)</pressure_string>
+		<pressure_mb>1031.7</pressure_mb>
+		<pressure_in>30.47</pressure_in>
+		<dewpoint_string>-52.4 F (-46.9 C)</dewpoint_string>
+		<dewpoint_f>-52.4</dewpoint_f>
+		<dewpoint_c>-46.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>-29 F (-34 C)</windchill_string>
+		<windchill_f>-29</windchill_f>
+		<windchill_c>-34</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.08 in (0.2 cm)</precip_today_string>
+		<precip_today_in>0.08</precip_today_in>
+		<precip_today_metric>0.2 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBRADFOR3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=53.863342,-1.966966</ob_url>
+	</current_observation>
+

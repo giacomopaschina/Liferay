@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Tin Liu Village, Sai Kung, HONG KONG</full>
+		<neighborhood>Tin Liu Village</neighborhood>
+		<city>Sai Kung</city>
+		<state>HONG KONG</state>
+		<zip></zip>
+		<latitude>22.357565</latitude>
+		<longitude>114.238197</longitude>
+		<elevation>282 ft</elevation>
+		</location>
+		<station_id>IHONGKON18</station_id>
+		<station_type>WA1081</station_type>
+		<observation_time>Last Updated on June 18, 9:17 PM HKT</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:17:42 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>85.5 F (29.7 C)</temperature_string>
+		<temp_f>85.5</temp_f>
+		<temp_c>29.7</temp_c>
+		<relative_humidity>43</relative_humidity>
+		<wind_string>From the South at 3.8 MPH Gusting to 5.4 MPH</wind_string>
+		<wind_dir>South</wind_dir>
+		<wind_degrees>180</wind_degrees>
+		<wind_mph>3.8</wind_mph>
+		<wind_gust_mph>5.4</wind_gust_mph>
+		<pressure_string>29.64" (1003.6 mb)</pressure_string>
+		<pressure_mb>1003.6</pressure_mb>
+		<pressure_in>29.64</pressure_in>
+		<dewpoint_string>60.4 F (15.8 C)</dewpoint_string>
+		<dewpoint_f>60.4</dewpoint_f>
+		<dewpoint_c>15.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.75 in (1.9 cm)</precip_today_string>
+		<precip_today_in>0.75</precip_today_in>
+		<precip_today_metric>1.9 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IHONGKON18</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=22.357565,114.238197</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Normanby, Normanby, Taranaki</full>
+		<neighborhood>Normanby</neighborhood>
+		<city>Normanby</city>
+		<state>Taranaki</state>
+		<zip></zip>
+		<latitude>-39.537663</latitude>
+		<longitude>174.276443</longitude>
+		<elevation>387 ft</elevation>
+		</location>
+		<station_id>ITARANAK24</station_id>
+		<station_type>Digitech XC0348</station_type>
+		<observation_time>Last Updated on June 19, 12:47 AM NZST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:47:59 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>50.9 F (10.5 C)</temperature_string>
+		<temp_f>50.9</temp_f>
+		<temp_c>10.5</temp_c>
+		<relative_humidity>99</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>WSW</wind_dir>
+		<wind_degrees>255</wind_degrees>
+		<wind_mph>0.8</wind_mph>
+		<wind_gust_mph>7.1</wind_gust_mph>
+		<pressure_string>29.58" (1001.6 mb)</pressure_string>
+		<pressure_mb>1001.6</pressure_mb>
+		<pressure_in>29.58</pressure_in>
+		<dewpoint_string>50.6 F (10.3 C)</dewpoint_string>
+		<dewpoint_f>50.6</dewpoint_f>
+		<dewpoint_c>10.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.01 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.01</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.01 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.01</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ITARANAK24</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-39.537663,174.276443</ob_url>
+	</current_observation>
+

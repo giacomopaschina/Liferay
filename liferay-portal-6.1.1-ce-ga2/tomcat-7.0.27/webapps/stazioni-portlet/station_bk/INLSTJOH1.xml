@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Cowan Heights, St. John's, NL</full>
+		<neighborhood>Cowan Heights</neighborhood>
+		<city>St. John's</city>
+		<state>NL</state>
+		<zip></zip>
+		<latitude>47.529350</latitude>
+		<longitude>-52.772121</longitude>
+		<elevation>416 ft</elevation>
+		</location>
+		<station_id>INLSTJOH1</station_id>
+		<station_type>Davis VantagePro 2</station_type>
+		<observation_time>Last Updated on December 4, 8:07 AM NST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:37:04 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>47.4 F (8.6 C)</temperature_string>
+		<temp_f>47.4</temp_f>
+		<temp_c>8.6</temp_c>
+		<relative_humidity>98</relative_humidity>
+		<wind_string>From the SSW at 9.0 MPH Gusting to 26.0 MPH</wind_string>
+		<wind_dir>SSW</wind_dir>
+		<wind_degrees>213</wind_degrees>
+		<wind_mph>9.0</wind_mph>
+		<wind_gust_mph>26.0</wind_gust_mph>
+		<pressure_string>29.51" (999.2 mb)</pressure_string>
+		<pressure_mb>999.2</pressure_mb>
+		<pressure_in>29.51</pressure_in>
+		<dewpoint_string>46.9 F (8.3 C)</dewpoint_string>
+		<dewpoint_f>46.9</dewpoint_f>
+		<dewpoint_c>8.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>43 F (6 C)</windchill_string>
+		<windchill_f>43</windchill_f>
+		<windchill_c>6</windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.10 in (0.3 mm)</precip_1hr_string>
+		<precip_1hr_in>0.10</precip_1hr_in>
+		<precip_1hr_metric>0.3</precip_1hr_metric>
+		<precip_today_string>0.27 in (0.7 cm)</precip_today_string>
+		<precip_today_in>0.27</precip_today_in>
+		<precip_today_metric>0.7 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INLSTJOH1</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=47.529350,-52.772121</ob_url>
+	</current_observation>
+

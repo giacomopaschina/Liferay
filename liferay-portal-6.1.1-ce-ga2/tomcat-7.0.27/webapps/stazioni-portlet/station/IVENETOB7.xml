@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Sossai, Sossai, BELLUNO</full>
+		<neighborhood>Sossai</neighborhood>
+		<city>Sossai</city>
+		<state>BELLUNO</state>
+		<zip></zip>
+		<latitude>46.123699</latitude>
+		<longitude>12.252233</longitude>
+		<elevation>1496 ft</elevation>
+		</location>
+		<station_id>IVENETOB7</station_id>
+		<station_type>LaCrosse WS2300</station_type>
+		<observation_time>Last Updated on July 15, 12:20 PM CEST</observation_time>
+		<observation_time_rfc822>Tue, 15 Jul 2014 10:20:01 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>76.5 F (24.7 C)</temperature_string>
+		<temp_f>76.5</temp_f>
+		<temp_c>24.7</temp_c>
+		<relative_humidity>60</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>WSW</wind_dir>
+		<wind_degrees>247</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>29.91" (1012.8 mb)</pressure_string>
+		<pressure_mb>1012.8</pressure_mb>
+		<pressure_in>29.91</pressure_in>
+		<dewpoint_string>62.4 F (16.9 C)</dewpoint_string>
+		<dewpoint_f>62.4</dewpoint_f>
+		<dewpoint_c>16.9</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVENETOB7</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=46.123699,12.252233</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Ammerswil, Aargau</full>
+		<neighborhood></neighborhood>
+		<city>Ammerswil</city>
+		<state>Aargau</state>
+		<zip></zip>
+		<latitude>47.370991</latitude>
+		<longitude>8.202538</longitude>
+		<elevation>1614 ft</elevation>
+		</location>
+		<station_id>IDNS29</station_id>
+		<station_type>Davis VantagePro2</station_type>
+		<observation_time>Last Updated on June 18, 3:00 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:00:17 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>78.1 F (25.6 C)</temperature_string>
+		<temp_f>78.1</temp_f>
+		<temp_c>25.6</temp_c>
+		<relative_humidity>40</relative_humidity>
+		<wind_string>From the ENE at 1.0 MPH Gusting to 6.0 MPH</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>65</wind_degrees>
+		<wind_mph>1.0</wind_mph>
+		<wind_gust_mph>6.0</wind_gust_mph>
+		<pressure_string>29.99" (1015.5 mb)</pressure_string>
+		<pressure_mb>1015.5</pressure_mb>
+		<pressure_in>29.99</pressure_in>
+		<dewpoint_string>51.8 F (11.0 C)</dewpoint_string>
+		<dewpoint_f>51.8</dewpoint_f>
+		<dewpoint_c>11.0</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>939</solar_radiation>
+		<UV>5.3</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IDNS29</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=47.370991,8.202538</ob_url>
+	</current_observation>
+

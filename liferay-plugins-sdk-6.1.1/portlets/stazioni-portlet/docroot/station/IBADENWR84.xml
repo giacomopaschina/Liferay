@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Auggen, BADEN-WüRTTEMBERG</full>
+		<neighborhood></neighborhood>
+		<city>Auggen</city>
+		<state>BADEN-WüRTTEMBERG</state>
+		<zip></zip>
+		<latitude>47.792133</latitude>
+		<longitude>7.597582</longitude>
+		<elevation>768 ft</elevation>
+		</location>
+		<station_id>IBADENWR84</station_id>
+		<station_type>Ventage</station_type>
+		<observation_time>Last Updated on April 3, 9:53 PM CEST</observation_time>
+		<observation_time_rfc822>Thu, 03 Apr 2014 19:53:24 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>55.7 F (13.2 C)</temperature_string>
+		<temp_f>55.7</temp_f>
+		<temp_c>13.2</temp_c>
+		<relative_humidity>72</relative_humidity>
+		<wind_string>From the SSW at 1.0 MPH Gusting to 2.0 MPH</wind_string>
+		<wind_dir>SSW</wind_dir>
+		<wind_degrees>202</wind_degrees>
+		<wind_mph>1.0</wind_mph>
+		<wind_gust_mph>2.0</wind_gust_mph>
+		<pressure_string>29.63" (1003.3 mb)</pressure_string>
+		<pressure_mb>1003.3</pressure_mb>
+		<pressure_in>29.63</pressure_in>
+		<dewpoint_string>47.0 F (8.3 C)</dewpoint_string>
+		<dewpoint_f>47.0</dewpoint_f>
+		<dewpoint_c>8.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBADENWR84</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=47.792133,7.597582</ob_url>
+	</current_observation>
+

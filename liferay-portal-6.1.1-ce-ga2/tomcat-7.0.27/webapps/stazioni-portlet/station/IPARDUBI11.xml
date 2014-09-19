@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Srch, PARDUBICE</full>
+		<neighborhood></neighborhood>
+		<city>Srch</city>
+		<state>PARDUBICE</state>
+		<zip></zip>
+		<latitude>50.084751</latitude>
+		<longitude>15.766222</longitude>
+		<elevation>778 ft</elevation>
+		</location>
+		<station_id>IPARDUBI11</station_id>
+		<station_type>Oregon Scientific WMR200</station_type>
+		<observation_time>Last Updated on June 18, 3:15 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:15:02 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>76.8 F (24.9 C)</temperature_string>
+		<temp_f>76.8</temp_f>
+		<temp_c>24.9</temp_c>
+		<relative_humidity>31</relative_humidity>
+		<wind_string>From the WNW at 2.9 MPH Gusting to 5.9 MPH</wind_string>
+		<wind_dir>WNW</wind_dir>
+		<wind_degrees>288</wind_degrees>
+		<wind_mph>2.9</wind_mph>
+		<wind_gust_mph>5.9</wind_gust_mph>
+		<pressure_string>30.12" (1019.9 mb)</pressure_string>
+		<pressure_mb>1019.9</pressure_mb>
+		<pressure_in>30.12</pressure_in>
+		<dewpoint_string>43.9 F (6.6 C)</dewpoint_string>
+		<dewpoint_f>43.9</dewpoint_f>
+		<dewpoint_c>6.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV>3.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IPARDUBI11</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=50.084751,15.766222</ob_url>
+	</current_observation>
+

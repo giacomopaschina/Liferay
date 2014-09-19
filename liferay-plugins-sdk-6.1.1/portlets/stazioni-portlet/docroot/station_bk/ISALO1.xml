@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Salo - Halikko, Salo, Varsinais-suomi</full>
+		<neighborhood>Salo - Halikko</neighborhood>
+		<city>Salo</city>
+		<state>Varsinais-suomi</state>
+		<zip></zip>
+		<latitude>60.387653</latitude>
+		<longitude>23.068371</longitude>
+		<elevation>39 ft</elevation>
+		</location>
+		<station_id>ISALO1</station_id>
+		<station_type>Davis VP2 &amp; 1-wire sensors</station_type>
+		<observation_time>Last Updated on December 4, 1:30 PM EET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:30:08 GMT</observation_time_rfc822>
+		<weather>BKN</weather>
+		<temperature_string>28.9 F (-1.7 C)</temperature_string>
+		<temp_f>28.9</temp_f>
+		<temp_c>-1.7</temp_c>
+		<relative_humidity>94</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>West</wind_dir>
+		<wind_degrees>279</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>1.0</wind_gust_mph>
+		<pressure_string>29.55" (1000.6 mb)</pressure_string>
+		<pressure_mb>1000.6</pressure_mb>
+		<pressure_in>29.55</pressure_in>
+		<dewpoint_string>27.4 F (-2.6 C)</dewpoint_string>
+		<dewpoint_f>27.4</dewpoint_f>
+		<dewpoint_c>-2.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>18</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISALO1</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=60.387653,23.068371</ob_url>
+	</current_observation>
+

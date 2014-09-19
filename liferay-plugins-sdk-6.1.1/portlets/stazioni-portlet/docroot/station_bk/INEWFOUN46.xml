@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Doheney Place, St. John's, NEWFOUNDLAND AND LABRADOR</full>
+		<neighborhood>Doheney Place</neighborhood>
+		<city>St. John's</city>
+		<state>NEWFOUNDLAND AND LABRADOR</state>
+		<zip></zip>
+		<latitude>47.593510</latitude>
+		<longitude>-52.734539</longitude>
+		<elevation>430 ft</elevation>
+		</location>
+		<station_id>INEWFOUN46</station_id>
+		<station_type>Davis VPro2 wireless</station_type>
+		<observation_time>Last Updated on December 4, 8:07 AM NST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:37:34 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>51.1 F (10.6 C)</temperature_string>
+		<temp_f>51.1</temp_f>
+		<temp_c>10.6</temp_c>
+		<relative_humidity>99</relative_humidity>
+		<wind_string>From the SE at 24.0 MPH Gusting to 45.0 MPH</wind_string>
+		<wind_dir>SE</wind_dir>
+		<wind_degrees>144</wind_degrees>
+		<wind_mph>24.0</wind_mph>
+		<wind_gust_mph>45.0</wind_gust_mph>
+		<pressure_string>29.49" (998.5 mb)</pressure_string>
+		<pressure_mb>998.5</pressure_mb>
+		<pressure_in>29.49</pressure_in>
+		<dewpoint_string>50.8 F (10.4 C)</dewpoint_string>
+		<dewpoint_f>50.8</dewpoint_f>
+		<dewpoint_c>10.4</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.08 in (0.2 mm)</precip_1hr_string>
+		<precip_1hr_in>0.08</precip_1hr_in>
+		<precip_1hr_metric>0.2</precip_1hr_metric>
+		<precip_today_string>0.26 in (0.7 cm)</precip_today_string>
+		<precip_today_in>0.26</precip_today_in>
+		<precip_today_metric>0.7 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=INEWFOUN46</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=47.593510,-52.734539</ob_url>
+	</current_observation>
+

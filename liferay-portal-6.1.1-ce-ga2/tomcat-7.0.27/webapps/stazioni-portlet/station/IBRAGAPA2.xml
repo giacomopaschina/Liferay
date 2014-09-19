@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Agrupamento de Escolas Sá de Miranda, Palmeira, BRAGA</full>
+		<neighborhood>Agrupamento de Escolas Sá de Miranda</neighborhood>
+		<city>Palmeira</city>
+		<state>BRAGA</state>
+		<zip></zip>
+		<latitude>41.577118</latitude>
+		<longitude>-8.424122</longitude>
+		<elevation>407 ft</elevation>
+		</location>
+		<station_id>IBRAGAPA2</station_id>
+		<station_type>Davis Vantage Pro2 Plus (Wireless)</station_type>
+		<observation_time>Last Updated on June 18, 1:50 PM WEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:50:11 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>76.7 F (24.8 C)</temperature_string>
+		<temp_f>76.7</temp_f>
+		<temp_c>24.8</temp_c>
+		<relative_humidity>63</relative_humidity>
+		<wind_string>From the WSW at 6.0 MPH Gusting to 6.0 MPH</wind_string>
+		<wind_dir>WSW</wind_dir>
+		<wind_degrees>249</wind_degrees>
+		<wind_mph>6.0</wind_mph>
+		<wind_gust_mph>6.0</wind_gust_mph>
+		<pressure_string>30.00" (1015.8 mb)</pressure_string>
+		<pressure_mb>1015.8</pressure_mb>
+		<pressure_in>30.00</pressure_in>
+		<dewpoint_string>63.2 F (17.3 C)</dewpoint_string>
+		<dewpoint_f>63.2</dewpoint_f>
+		<dewpoint_c>17.3</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>886</solar_radiation>
+		<UV>6.3</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IBRAGAPA2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=41.577118,-8.424122</ob_url>
+	</current_observation>
+

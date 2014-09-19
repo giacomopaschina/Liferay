@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Hundhamaren,Malvik, Hundhamaren, Sør-Trøndelag</full>
+		<neighborhood>Hundhamaren,Malvik</neighborhood>
+		<city>Hundhamaren</city>
+		<state>Sør-Trøndelag</state>
+		<zip></zip>
+		<latitude>63.437710</latitude>
+		<longitude>10.590616</longitude>
+		<elevation>131 ft</elevation>
+		</location>
+		<station_id>ISRTRNDE27</station_id>
+		<station_type>Cumulus v1.9.3</station_type>
+		<observation_time>Last Updated on June 18, 2:50 PM CEST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 12:50:43 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>53.6 F (12.0 C)</temperature_string>
+		<temp_f>53.6</temp_f>
+		<temp_c>12.0</temp_c>
+		<relative_humidity>69</relative_humidity>
+		<wind_string>From the North at 9.6 MPH Gusting to 15.2 MPH</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>4</wind_degrees>
+		<wind_mph>9.6</wind_mph>
+		<wind_gust_mph>15.2</wind_gust_mph>
+		<pressure_string>30.02" (1016.5 mb)</pressure_string>
+		<pressure_mb>1016.5</pressure_mb>
+		<pressure_in>30.02</pressure_in>
+		<dewpoint_string>43.7 F (6.5 C)</dewpoint_string>
+		<dewpoint_f>43.7</dewpoint_f>
+		<dewpoint_c>6.5</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISRTRNDE27</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=63.437710,10.590616</ob_url>
+	</current_observation>
+

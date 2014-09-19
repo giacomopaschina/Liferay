@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Woodend, Woodend, VICTORIA</full>
+		<neighborhood>Woodend</neighborhood>
+		<city>Woodend</city>
+		<state>VICTORIA</state>
+		<zip></zip>
+		<latitude>-37.384445</latitude>
+		<longitude>144.525253</longitude>
+		<elevation>2037 ft</elevation>
+		</location>
+		<station_id>IVICTORI365</station_id>
+		<station_type>Oregon WMR200A</station_type>
+		<observation_time>Last Updated on December 4, 12:46 PM EST</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 01:46:01 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>58.5 F (14.7 C)</temperature_string>
+		<temp_f>58.5</temp_f>
+		<temp_c>14.7</temp_c>
+		<relative_humidity>96</relative_humidity>
+		<wind_string>From the ENE at 1.8 MPH Gusting to 3.4 MPH</wind_string>
+		<wind_dir>ENE</wind_dir>
+		<wind_degrees>67</wind_degrees>
+		<wind_mph>1.8</wind_mph>
+		<wind_gust_mph>3.4</wind_gust_mph>
+		<pressure_string>27.43" (928.8 mb)</pressure_string>
+		<pressure_mb>928.8</pressure_mb>
+		<pressure_in>27.43</pressure_in>
+		<dewpoint_string>57.3 F (14.1 C)</dewpoint_string>
+		<dewpoint_f>57.3</dewpoint_f>
+		<dewpoint_c>14.1</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.33 in (0.8 cm)</precip_today_string>
+		<precip_today_in>0.33</precip_today_in>
+		<precip_today_metric>0.8 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVICTORI365</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-37.384445,144.525253</ob_url>
+	</current_observation>
+

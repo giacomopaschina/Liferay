@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Jaques Coffee Plantation, Mareeba, QLD</full>
+		<neighborhood>Jaques Coffee Plantation</neighborhood>
+		<city>Mareeba</city>
+		<state>QLD</state>
+		<zip></zip>
+		<latitude>-16.962231</latitude>
+		<longitude>145.439209</longitude>
+		<elevation>1316 ft</elevation>
+		</location>
+		<station_id>IQLDMARE3</station_id>
+		<station_type>WH3081</station_type>
+		<observation_time>Last Updated on June 18, 11:00 PM EST</observation_time>
+		<observation_time_rfc822>Wed, 18 Jun 2014 13:00:24 GMT</observation_time_rfc822>
+		<weather>CLR</weather>
+		<temperature_string>61.3 F (16.3 C)</temperature_string>
+		<temp_f>61.3</temp_f>
+		<temp_c>16.3</temp_c>
+		<relative_humidity>98</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>South</wind_dir>
+		<wind_degrees>180</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>30.13" (1020.2 mb)</pressure_string>
+		<pressure_mb>1020.2</pressure_mb>
+		<pressure_in>30.13</pressure_in>
+		<dewpoint_string>60.8 F (16.0 C)</dewpoint_string>
+		<dewpoint_f>60.8</dewpoint_f>
+		<dewpoint_c>16.0</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.00 in (0.0 cm)</precip_today_string>
+		<precip_today_in>0.00</precip_today_in>
+		<precip_today_metric>0.0 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IQLDMARE3</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-16.962231,145.439209</ob_url>
+	</current_observation>
+

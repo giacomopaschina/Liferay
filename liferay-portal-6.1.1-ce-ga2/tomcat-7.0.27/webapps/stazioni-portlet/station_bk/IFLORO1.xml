@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Floro, Havagen, Floro, Sogn og Fjordane</full>
+		<neighborhood>Floro, Havagen</neighborhood>
+		<city>Floro</city>
+		<state>Sogn og Fjordane</state>
+		<zip></zip>
+		<latitude>61.599049</latitude>
+		<longitude>5.013885</longitude>
+		<elevation>90 ft</elevation>
+		</location>
+		<station_id>IFLORO1</station_id>
+		<station_type>WMR200</station_type>
+		<observation_time>Last Updated on December 4, 12:45 PM CET</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:45:11 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>39.2 F (4.0 C)</temperature_string>
+		<temp_f>39.2</temp_f>
+		<temp_c>4.0</temp_c>
+		<relative_humidity>67</relative_humidity>
+		<wind_string>From the WSW at 13.0 MPH Gusting to 24.0 MPH</wind_string>
+		<wind_dir>WSW</wind_dir>
+		<wind_degrees>254</wind_degrees>
+		<wind_mph>13.0</wind_mph>
+		<wind_gust_mph>24.0</wind_gust_mph>
+		<pressure_string>29.56" (1000.9 mb)</pressure_string>
+		<pressure_mb>1000.9</pressure_mb>
+		<pressure_in>29.56</pressure_in>
+		<dewpoint_string>29.2 F (-1.6 C)</dewpoint_string>
+		<dewpoint_f>29.2</dewpoint_f>
+		<dewpoint_c>-1.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>31 F (-0 C)</windchill_string>
+		<windchill_f>31</windchill_f>
+		<windchill_c>-0</windchill_c>
+		
+		<solar_radiation>0</solar_radiation>
+		<UV>0.0</UV>
+		<precip_1hr_string>0.00 in (0.0 mm)</precip_1hr_string>
+		<precip_1hr_in>0.00</precip_1hr_in>
+		<precip_1hr_metric>0.0</precip_1hr_metric>
+		<precip_today_string>0.29 in (0.7 cm)</precip_today_string>
+		<precip_today_in>0.29</precip_today_in>
+		<precip_today_metric>0.7 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IFLORO1</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=61.599049,5.013885</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>Kenmore, Brisbane, QLD</full>
+		<neighborhood>Kenmore</neighborhood>
+		<city>Brisbane</city>
+		<state>QLD</state>
+		<zip></zip>
+		<latitude>-27.516968</latitude>
+		<longitude>152.943130</longitude>
+		<elevation>128 ft</elevation>
+		</location>
+		<station_id>IQLDKENM2</station_id>
+		<station_type>WS2355 via serial</station_type>
+		<observation_time>Last Updated on March 27, 8:39 PM EST</observation_time>
+		<observation_time_rfc822>Thu, 27 Mar 2014 10:39:12 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>71.1 F (21.7 C)</temperature_string>
+		<temp_f>71.1</temp_f>
+		<temp_c>21.7</temp_c>
+		<relative_humidity>0</relative_humidity>
+		<wind_string>Calm</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>0</wind_degrees>
+		<wind_mph>0.0</wind_mph>
+		<wind_gust_mph>0.0</wind_gust_mph>
+		<pressure_string>30.00" (1015.8 mb)</pressure_string>
+		<pressure_mb>1015.8</pressure_mb>
+		<pressure_in>30.00</pressure_in>
+		<dewpoint_string>0.0 F (-17.8 C)</dewpoint_string>
+		<dewpoint_f>0.0</dewpoint_f>
+		<dewpoint_c>-17.8</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string></windchill_string>
+		<windchill_f></windchill_f>
+		<windchill_c></windchill_c>
+		
+		<solar_radiation></solar_radiation>
+		<UV></UV>
+		<precip_1hr_string>0.49 in (1.2 mm)</precip_1hr_string>
+		<precip_1hr_in>0.49</precip_1hr_in>
+		<precip_1hr_metric>1.2</precip_1hr_metric>
+		<precip_today_string>4.79 in (12.2 cm)</precip_today_string>
+		<precip_today_in>4.79</precip_today_in>
+		<precip_today_metric>12.2 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IQLDKENM2</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=-27.516968,152.943130</ob_url>
+	</current_observation>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<current_observation>
+		<credit>Weather Underground Personal Weather Station</credit>
+		<credit_URL>http://wunderground.com/weatherstation/</credit_URL>
+		<image>
+		<url>http://icons.wunderground.com/graphics/bh-wui_logo.gif</url>
+		<title>Weather Underground</title>
+		<link>http://wunderground.com/weatherstation/</link>
+		</image>
+		<location>
+		<full>, Struan, ISLE OF SKYE</full>
+		<neighborhood></neighborhood>
+		<city>Struan</city>
+		<state>ISLE OF SKYE</state>
+		<zip></zip>
+		<latitude>57.355438</latitude>
+		<longitude>-6.445117</longitude>
+		<elevation>85 ft</elevation>
+		</location>
+		<station_id>IISLEOFS4</station_id>
+		<station_type>WH3080</station_type>
+		<observation_time>Last Updated on December 4, 11:56 AM GMT</observation_time>
+		<observation_time_rfc822>Wed, 04 Dec 2013 11:56:01 GMT</observation_time_rfc822>
+		<weather></weather>
+		<temperature_string>43.0 F (6.1 C)</temperature_string>
+		<temp_f>43.0</temp_f>
+		<temp_c>6.1</temp_c>
+		<relative_humidity>73</relative_humidity>
+		<wind_string>From the North at 20.1 MPH Gusting to 32.7 MPH</wind_string>
+		<wind_dir>North</wind_dir>
+		<wind_degrees>8</wind_degrees>
+		<wind_mph>20.1</wind_mph>
+		<wind_gust_mph>32.7</wind_gust_mph>
+		<pressure_string>30.19" (1022.2 mb)</pressure_string>
+		<pressure_mb>1022.2</pressure_mb>
+		<pressure_in>30.19</pressure_in>
+		<dewpoint_string>34.9 F (1.6 C)</dewpoint_string>
+		<dewpoint_f>34.9</dewpoint_f>
+		<dewpoint_c>1.6</dewpoint_c>
+		
+		<heat_index_string></heat_index_string>
+		<heat_index_f></heat_index_f>
+		<heat_index_c></heat_index_c>
+		
+		
+		<windchill_string>34 F (1 C)</windchill_string>
+		<windchill_f>34</windchill_f>
+		<windchill_c>1</windchill_c>
+		
+		<solar_radiation>29</solar_radiation>
+		<UV>1.0</UV>
+		<precip_1hr_string>0.02 in (0.1 mm)</precip_1hr_string>
+		<precip_1hr_in>0.02</precip_1hr_in>
+		<precip_1hr_metric>0.1</precip_1hr_metric>
+		<precip_today_string>0.05 in (0.1 cm)</precip_today_string>
+		<precip_today_in>0.05</precip_today_in>
+		<precip_today_metric>0.1 cm</precip_today_metric>
+		<history_url>http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IISLEOFS4</history_url>
+		<ob_url>http://www.wunderground.com/cgi-bin/findweather/getForecast?query=57.355438,-6.445117</ob_url>
+	</current_observation>
+
